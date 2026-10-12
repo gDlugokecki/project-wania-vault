@@ -4,6 +4,10 @@ This vault is the second brain of Projekt Wania: Greg and his wife launching the
 
 Structure follows [second-brain-os](https://github.com/undefined-ui/second-brain-os), adapted for a company: the **domains** are the "what we are doing" layer, the **wiki** is the "what we know" layer.
 
+## Where the vault lives
+
+The GitHub repo `gDlugokecki/project-wania-vault` is the single source of truth. The owners open it in Obsidian and pull with the Obsidian Git plugin. Claude threads clone it, edit, commit and push to `main`. Pull before editing, keep commits small, one commit per change with a clear message.
+
 ## Folders
 
 ```
