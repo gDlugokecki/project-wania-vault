@@ -1,0 +1,139 @@
+<title>Projekt Wania Map</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,700&family=Figtree:wght@400;500;600&display=swap">
+<style>
+/* Layout: full-height knowledge graph with a reading pane; pane stacks below on phones */
+:root{
+  --bg:#f6f3f5; --surface:#ffffff; --fg:#2a2230; --muted:#6e6274; --line:#ddd3df; --edge:#c7b9ca;
+  --accent:#8a4f7d;
+  --domain:#8a4f7d; --index:#2a2230; --decision:#a8773f; --concept:#4f8a8b; --company:#c97b6b; --person:#6b7fc9; --service:#8f9a5a; --source:#9a8f9e;
+  --display:"Bricolage Grotesque",ui-sans-serif,system-ui,sans-serif;
+  --body:"Figtree",ui-sans-serif,system-ui,sans-serif;
+  --mono:ui-monospace,SFMono-Regular,Menlo,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#18141a; --surface:#221d25; --fg:#efe8f1; --muted:#a99cae; --line:#372e3b; --edge:#4c4151;
+  --accent:#d39bc6; --domain:#c98ac0; --index:#efe8f1; --decision:#d6a463; --concept:#6fb7b8; --company:#e09a8a; --person:#97a8ec; --service:#b5c07c; --source:#8a7f8e; color-scheme:dark;
+}}
+:root[data-theme="dark"]{
+  --bg:#18141a; --surface:#221d25; --fg:#efe8f1; --muted:#a99cae; --line:#372e3b; --edge:#4c4151;
+  --accent:#d39bc6; --domain:#c98ac0; --index:#efe8f1; --decision:#d6a463; --concept:#6fb7b8; --company:#e09a8a; --person:#97a8ec; --service:#b5c07c; --source:#8a7f8e; color-scheme:dark;
+}
+html,body{height:100%}
+body{background:var(--bg);color:var(--fg);font-family:var(--body);font-size:15px;line-height:1.55}
+.app{height:100%;display:grid;grid-template-columns:minmax(0,1fr) minmax(320px,440px);}
+@media (max-width:860px){.app{grid-template-columns:1fr;grid-template-rows:62vh auto;height:auto}}
+.stage{position:relative;min-width:0;min-height:420px}
+.top{position:absolute;inset:0 0 auto 0;padding:14px 16px;display:flex;flex-wrap:wrap;gap:10px;align-items:center;pointer-events:none}
+.top>*{pointer-events:auto}
+h1{font-family:var(--display);font-weight:700;font-size:22px;margin:0 8px 0 0;letter-spacing:-.01em}
+#q{font:inherit;font-size:14px;padding:7px 12px;border-radius:999px;border:1px solid var(--line);background:var(--surface);color:var(--fg);width:200px;max-width:60vw}
+.legend{position:absolute;left:16px;bottom:12px;display:flex;flex-wrap:wrap;gap:6px;max-width:calc(100% - 32px)}
+.chip{font-size:12px;border:1px solid var(--line);background:var(--surface);color:var(--fg);border-radius:999px;padding:3px 10px 3px 8px;display:inline-flex;align-items:center;gap:6px;cursor:pointer}
+.chip[aria-pressed="false"]{opacity:.45}
+.chip i{width:9px;height:9px;border-radius:50%;display:inline-block}
+svg{display:block;width:100%;height:100%}
+.lk{stroke:var(--edge);stroke-width:1.2}
+.lk.link{stroke-width:2.2}
+.lk.hot{stroke:var(--accent);stroke-width:2.4}
+.nd circle{stroke:var(--bg);stroke-width:2;cursor:pointer}
+.nd text{font-size:11.5px;fill:var(--muted);pointer-events:none;paint-order:stroke;stroke:var(--bg);stroke-width:3px;stroke-linejoin:round}
+.nd.big text{font-family:var(--display);font-weight:700;font-size:14px;fill:var(--fg)}
+.nd.dim{opacity:.15}.lk.dim{opacity:.08}
+.nd.sel circle{stroke:var(--fg);stroke-width:3}
+.pane{background:var(--surface);border-left:1px solid var(--line);overflow:auto;padding:22px 22px 40px;min-width:0}
+@media (max-width:860px){.pane{border-left:0;border-top:1px solid var(--line)}}
+.kind{font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);font-weight:600}
+.pane h2{font-family:var(--display);font-size:26px;margin:4px 0 12px;line-height:1.15;text-wrap:balance}
+.doc h1{display:none}
+.doc h2{font-family:var(--display);font-size:17px;margin:20px 0 6px}
+.doc p,.doc li{max-width:65ch}
+.doc ul{padding-left:20px;margin:6px 0}
+.doc table{border-collapse:collapse;font-size:13px;display:block;overflow-x:auto;max-width:100%}
+.doc th,.doc td{border:1px solid var(--line);padding:5px 8px;text-align:left;vertical-align:top}
+.doc code{font-family:var(--mono);font-size:12.5px}
+.doc a,.back a{color:var(--accent);cursor:pointer}
+.ment{border-top:1px solid var(--line);padding-top:10px;margin-top:10px}
+.ment h3{font-size:14px;margin:0 0 4px}
+.ment h3 a{color:var(--accent);cursor:pointer;text-decoration:none}
+.ment li{color:var(--muted);font-size:13.5px}
+.rel{display:flex;flex-wrap:wrap;gap:6px;margin:4px 0 6px}
+.foot{color:var(--muted);font-size:12px;margin-top:24px}
+</style>
+
+<div class="app">
+  <div class="stage" id="stage">
+    <svg id="svg" aria-label="Knowledge graph of the project"></svg>
+    <div class="top">
+      <h1>Projekt Wania</h1>
+      <input id="q" type="search" placeholder="Search notes and topics" aria-label="Search">
+    </div>
+    <div class="legend" id="legend"></div>
+  </div>
+  <aside class="pane" id="pane" aria-live="polite"></aside>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
+<script>
+const DATA=/*__DATA__*/null;
+const KINDS={index:"Home",domain:"Domain",decision:"Decision",concept:"Topic",company:"Company",person:"Person",service:"Service / system",source:"Source"};
+const on=Object.fromEntries(Object.keys(KINDS).map(k=>[k,true]));
+const nodes=DATA.nodes.map(n=>({...n})), links=DATA.links.map(l=>({...l}));
+const byId=Object.fromEntries(nodes.map(n=>[n.id,n]));
+const deg={};links.forEach(l=>{deg[l.source]=(deg[l.source]||0)+1;deg[l.target]=(deg[l.target]||0)+1});
+const R=n=>n.kind==="index"?16:n.kind==="domain"?14:n.kind==="decision"?11:4+Math.min(7,(deg[n.id]||1)*.7);
+const big=n=>["index","domain","decision"].includes(n.kind);
+const svg=d3.select("#svg"), stage=document.getElementById("stage");
+const g=svg.append("g");
+svg.call(d3.zoom().scaleExtent([.3,4]).on("zoom",e=>g.attr("transform",e.transform)));
+const L=g.append("g").selectAll("line").data(links).join("line").attr("class",d=>"lk"+(big(byId[d.source])&&big(byId[d.target])?" link":""));
+const N=g.append("g").selectAll("g").data(nodes).join("g").attr("class",d=>"nd"+(big(d)?" big":"")).attr("tabindex",0).attr("role","button").attr("aria-label",d=>d.label);
+N.append("circle").attr("r",R).attr("fill",d=>`var(--${d.kind})`);
+N.append("text").attr("dy",d=>R(d)+13).attr("text-anchor","middle").text(d=>d.label);
+const sim=d3.forceSimulation(nodes)
+  .force("link",d3.forceLink(links).id(d=>d.id).distance(l=>big(l.source)&&big(l.target)?170:90).strength(.35))
+  .force("charge",d3.forceManyBody().strength(d=>big(d)?-900:-260))
+  .force("collide",d3.forceCollide(d=>R(d)+18))
+  .force("x",d3.forceX().strength(.04)).force("y",d3.forceY().strength(.06));
+function size(){const w=stage.clientWidth,h=stage.clientHeight;svg.attr("viewBox",[-w/2,-h/2,w,h]);}
+size();addEventListener("resize",size);
+sim.on("tick",()=>{L.attr("x1",d=>d.source.x).attr("y1",d=>d.source.y).attr("x2",d=>d.target.x).attr("y2",d=>d.target.y);N.attr("transform",d=>`translate(${d.x},${d.y})`)});
+// settle before first paint so the graph is complete at rest
+sim.stop();for(let i=0;i<320;i++)sim.tick();sim.on("tick")();sim.alpha(.05).restart();
+N.call(d3.drag().on("start",(e,d)=>{if(!e.active)sim.alphaTarget(.2).restart();d.fx=d.x;d.fy=d.y})
+  .on("drag",(e,d)=>{d.fx=e.x;d.fy=e.y}).on("end",(e,d)=>{if(!e.active)sim.alphaTarget(0);d.fx=null;d.fy=null}));
+N.on("click",(e,d)=>select(d.id)).on("keydown",(e,d)=>{if(e.key==="Enter"||e.key===" "){e.preventDefault();select(d.id)}});
+function neighbors(id){const s=new Set([id]);links.forEach(l=>{if(l.source.id===id)s.add(l.target.id);if(l.target.id===id)s.add(l.source.id)});return s}
+function apply(focus){
+  const q=document.getElementById("q").value.trim().toLowerCase();
+  const nb=focus?neighbors(focus):null;
+  N.attr("display",d=>on[d.kind]?null:"none")
+   .classed("dim",d=>(nb&&!nb.has(d.id))||(q&&!d.label.toLowerCase().includes(q)&&!(DATA.docs[d.id]||"").toLowerCase().includes(q)))
+   .classed("sel",d=>d.id===focus);
+  L.attr("display",d=>on[d.source.kind]&&on[d.target.kind]?null:"none")
+   .classed("dim",d=>nb&&!(d.source.id===focus||d.target.id===focus))
+   .classed("hot",d=>d.source.id===focus||d.target.id===focus);
+}
+let cur=null;
+const esc=s=>s.replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+function chipFor(id){const n=byId[id];return `<a class="chip" data-go="${esc(id)}"><i style="background:var(--${n.kind})"></i>${esc(n.label)}</a>`}
+function select(id,focus=true){
+  cur=focus?id:null;const n=byId[id];const pane=document.getElementById("pane");
+  const rel=[...neighbors(id)].filter(x=>x!==id);
+  let html=`<div class="kind">${KINDS[n.kind]}</div><h2>${esc(n.label)}</h2>`;
+  if(rel.length)html+=`<div class="kind">Connected</div><div class="rel">${rel.map(chipFor).join("")}</div>`;
+  const md=DATA.docs[id].replace(/\[\[([^\]|#]+)(?:\|([^\]]+))?\]\]/g,(m,t,a)=>{t=t.trim();return byId[t]?`<a data-go="${esc(t)}">${esc(a||t)}</a>`:esc(a||t)});
+  html+=`<div class="doc">${marked.parse(md)}</div><div class="foot">second-brain/${esc(DATA.paths[id])}</div>`;
+  pane.innerHTML=html;
+  pane.querySelectorAll(".doc a[href]").forEach(a=>{a.target="_blank";a.rel="noopener"});
+  pane.querySelectorAll("[data-go]").forEach(a=>a.addEventListener("click",()=>select(a.dataset.go)));
+  pane.scrollTop=0;apply(focus?id:null);
+  try{localStorage.setItem("wania-kb",id)}catch(e){}
+}
+function normalize(p){const out=[];p.split("/").forEach(s=>{if(s==="..")out.pop();else if(s&&s!==".")out.push(s)});return out.join("/")}
+document.getElementById("q").addEventListener("input",()=>apply(null));
+const lg=document.getElementById("legend");
+Object.entries(KINDS).forEach(([k,v])=>{if(!nodes.some(n=>n.kind===k))return;const b=document.createElement("button");b.className="chip";b.setAttribute("aria-pressed","true");b.innerHTML=`<i style="background:var(--${k})"></i>${v}`;b.onclick=()=>{on[k]=!on[k];b.setAttribute("aria-pressed",on[k]);apply(cur)};lg.appendChild(b)});
+let start="Home";try{const s=localStorage.getItem("wania-kb");if(s&&byId[s])start=s}catch(e){}
+select(start,start!=="Home");
+</script>
