@@ -19,6 +19,7 @@ From the [[2026-10-11 bvt-ecommerce repo review|repo review]] (last commit 2026-
 - **[[Staging shop]]** is live and auto-deploys from GitHub. No [[Production environment]] yet.
 - **Works and is tested:** catalogue, cart drawer, checkout with promo codes, [[InPost]] lockers and courier, [[Tpay]] (BLIK, bank transfer), accounts with Google login, order emails via [[AWS SES]], cookie consent, [[PostHog]] analytics.
 - **Language:** Polish only.
+- **Design:** a high-fidelity [[Store design prototype]] exists in Claude Design (2026-10-12): landing, product, cart, checkout, account screens, mobile, email templates, and token files ready for Tailwind. Not yet built into the shop.
 
 ## Decisions
 
@@ -32,6 +33,7 @@ _None yet._
 - [ ] Real product data from [[Product]]
 - [ ] Production [[Tpay]] and [[InPost]] accounts need [[Company registration]]
 - [ ] Card payments exist in code but aren't offered at checkout. Intended?
+- [ ] Do we build the shop from the [[Store design prototype]]? Its checkout is simpler than what the shop already does ([[InPost]], [[Tpay]], promo codes)
 - [ ] Staging admin password is committed in plain text in the repo
 
 ## Next steps
@@ -49,4 +51,4 @@ _None yet._
 - [[Business]]: company details, payment accounts, invoices
 - [[Launch]]
 
-Sources: [[2026-10-11 bvt-ecommerce repo review]], [[2026-10-11 Kickoff Q&A with Greg]]
+Sources: [[2026-10-11 bvt-ecommerce repo review]], [[2026-10-11 Kickoff Q&A with Greg]], [[2026-10-12 Claude Design store prototype]]

@@ -15,6 +15,7 @@ Unit cost, minimum order quantity (MOQ), compliance fee, retail price, budget.
 - No figures yet from the [[Producer]]. ([[Product]])
 - The price decides whether the palette has 6 or 9 shades.
 - Budget and cost split between partners: open. ([[Business]])
+- The [[Store design prototype]] uses placeholder prices: 69 zł and 92 zł per palette, 24 zł refill pan, free shipping over 150 zł, otherwise 14 zł. These are not decisions.
 - Agency cost: open. ([[Branding agency]])
 
-Sources: [[2026-10-11 Kickoff Q&A with Greg]]
+Sources: [[2026-10-11 Kickoff Q&A with Greg]], [[2026-10-12 Claude Design store prototype]]

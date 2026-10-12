@@ -28,6 +28,7 @@ _None yet._
 - [ ] 6 or 9 shades? Depends on the unit price. ([[Pricing and costs]])
 - [ ] Unit cost, minimum order quantity, compliance fee
 - [ ] Retail price
+- [ ] The [[Store design prototype]] shows two palettes with four pans each (placeholder data). Does that reflect a new plan, or is it just a design placeholder? This page still says one palette, 6 or 9 shades.
 - [ ] Which compliance documents, and when ([[Compliance and CPNP]])
 - [ ] Who supplies the case, and does it fit the pans? ([[Case supplier]])
 
@@ -46,4 +47,4 @@ _None yet._
 - [[Business]]: producer contract and costs
 - [[Launch]]
 
-Sources: [[2026-10-11 Kickoff Q&A with Greg]]
+Sources: [[2026-10-11 Kickoff Q&A with Greg]], [[2026-10-12 Claude Design store prototype]]

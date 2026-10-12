@@ -37,12 +37,13 @@ Graph view: open this folder in Obsidian, or see the [graph page](https://claude
 People: [[Greg]] · [[Greg's wife]]
 Partners: [[Producer]] · [[Branding agency]] · [[Case supplier]] · [[Accountant]]
 Services: [[Tpay]] · [[InPost]] · [[AWS SES]] · [[PostHog]]
-Systems: [[bvt-ecommerce]] · [[Staging shop]]
+Systems: [[bvt-ecommerce]] · [[Staging shop]] · [[Store design prototype]]
 
 ## Sources
 
 - [[2026-10-11 Kickoff Q&A with Greg]]
 - [[2026-10-11 bvt-ecommerce repo review]]
+- [[2026-10-12 Claude Design store prototype]]
 
 ## Gaps
 

@@ -14,6 +14,7 @@ The name of the brand and its domain.
 
 - Not chosen. See [[First brand name proposal rejected]]. ([[Brand]])
 - beautyvtricks.com is a test domain for the [[Staging shop]] only, not a candidate.
+- "lula." is the placeholder name in the [[Store design prototype]] (2026-10-12). The design marks it as pending. Is it a candidate?
 - The production domain follows the name. ([[Production environment]])
 
-Sources: [[2026-10-11 Kickoff Q&A with Greg]]
+Sources: [[2026-10-11 Kickoff Q&A with Greg]], [[2026-10-12 Claude Design store prototype]]
