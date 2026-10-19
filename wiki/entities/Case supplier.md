@@ -15,7 +15,7 @@ Supplier of the empty plastic palette case. **Not chosen yet.** The [[Producer]]
 
 ## Greg's contact list (2026-10-19)
 
-The suppliers [[Greg]] picked himself and plans to send the inquiry email to (see [[Packaging]] for the spec). Company names are their Alibaba store names until we have the legal names.
+The suppliers [[Greg]] picked himself and plans to send the inquiry email to ([[Palette case inquiry email]]) (see [[Packaging]] for the spec). Company names are their Alibaba store names until we have the legal names.
 
 | # | Supplier | Where | Link | Status |
 |---|---|---|---|---|

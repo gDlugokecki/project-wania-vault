@@ -18,6 +18,8 @@ The palette case and its design.
 
 ## Case spec (from the inquiry email, 2026-10-19)
 
+Email ready to send: [[Palette case inquiry email]].
+
 - 9 shades (3x3) or 12 shades (3x4).
 - Round pans. **Diameter not known yet**: ask the [[Producer]] before sending the email.
 - Large mirror inside the lid; magnetic closure preferred.
