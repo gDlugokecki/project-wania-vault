@@ -26,8 +26,11 @@ The suppliers [[Greg]] picked himself and plans to send the inquiry email to ([[
 | 5 | cnchoebe | China (Alibaba) | [store](https://cnchoebe.m.en.alibaba.com/) | to contact |
 | 6 | stardustcosmetics | China (Alibaba) | [company profile](https://stardustcosmetics.en.alibaba.com/company_profile.html) | to contact |
 | 7 | Toly | Malta (EU) | [contact form](https://www.toly.com/en/contact/) | to contact |
+| 8 | Picca International | Taichung, Taiwan | [picca.com.tw](https://www.picca.com.tw/) · picca@ms16.hinet.net · +886 4 2389 7607 | to contact (recommended by Irmina) |
+| 9 | TimeSource Enterprise | Taiwan | [timesourcetw.com](https://www.timesourcetw.com/) (calls itself an empty case packaging supplier) · contact form · +886 2 2546 8289 | to contact (recommended by Irmina) |
+| 10 | Colorich | Zhongshan, China | [colorichpkg.com](https://www.colorichpkg.com/) · admin@colorichpkg.com · MOQ 500; mostly paper palettes, so ask for plastic | to contact (recommended by Irmina) |
 
-Greg's list had hkyihong twice (a product group and the store page); merged into one row.
+Rows 8-10 added the same day, recommended by Irmina (who she is: not recorded yet). Greg's list had hkyihong twice (a product group and the store page); merged into one row.
 
 ## Claude's shortlist (2026-10-19, revised the same day)
 
@@ -42,7 +45,7 @@ Greg's list had hkyihong twice (a product group and the store page); merged into
 
 Also worth asking: the [[Producer]] itself, whether it already buys cases that fit its pans.
 
-Dropped on 2026-10-19 (palettes not confirmed on their own sites): Euromakeup / Eurovetrocap, Quadpack, HCP Packaging, Lumson / Marino Belotti, Texen (sources in Asia and North Africa), Faca Packaging (jars only), A Packaging Group (US, MOQ 10,000). Paper palettes (Colorich, Major Custom Packaging) only if plastic proves too expensive.
+Dropped on 2026-10-19 (palettes not confirmed on their own sites): Euromakeup / Eurovetrocap, Quadpack, HCP Packaging, Lumson / Marino Belotti, Texen (sources in Asia and North Africa), Faca Packaging (jars only), A Packaging Group (US, MOQ 10,000). Paper palettes (Major Custom Packaging) only if plastic proves too expensive. Colorich is back on Greg's list (row 10).
 
 ## Appears in
 

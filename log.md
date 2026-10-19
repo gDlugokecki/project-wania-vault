@@ -20,3 +20,4 @@ tags: [log]
 - 2026-10-19 revise case supplier shortlist after Greg's check (European firms dropped except Toly, SN Packs added) -> Case supplier, 2026-10-19 Palette case supplier search, Product
 - 2026-10-19 add Greg's own case supplier contact list (6 Alibaba suppliers + Toly) -> Case supplier, Product
 - 2026-10-19 save filled palette case inquiry email template -> new: output/Palette case inquiry email; updated: Case supplier, Packaging
+- 2026-10-19 add 3 case suppliers recommended by Irmina (Picca, TimeSource, Colorich) -> Case supplier
