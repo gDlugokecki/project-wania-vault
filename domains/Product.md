@@ -17,7 +17,7 @@ The eyeshadow palette itself: shades, formula, [[Producer]], samples, unit cost,
 - **Producer:** first samples received, feedback sent, waiting for the 2nd round. See [[Producer]].
 - **Compliance:** the [[Producer]] delivers everything the EU requires; we pay for it. See [[Compliance and CPNP]].
 - **Costs:** no figures yet. See [[Pricing and costs]].
-- **Palette case:** not sourced. Inquiry email drafted and a shortlist of 6 suppliers made (2026-10-19). See [[Packaging]] and [[Case supplier]].
+- **Palette case:** not sourced. Inquiry email drafted and a shortlist made (2026-10-19): Toly in Malta plus factories in China, since European firms mostly source palettes in Asia. See [[Packaging]] and [[Case supplier]].
 
 ## Decisions
 

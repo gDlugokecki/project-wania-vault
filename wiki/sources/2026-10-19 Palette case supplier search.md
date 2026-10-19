@@ -36,4 +36,6 @@ Greg's draft inquiry email to palette case manufacturers (original in `raw/2026-
 - China, paper/cardboard palettes (different material than the spec): [Colorich](https://www.colorichpkg.com/products/eyeshadow-palette-packaging/) (Zhongshan, MOQ 500, admin@colorichpkg.com); [Major Custom Packaging](https://www.mcpackagings.com/product/eyeshadow-palette/) (Shenzhen, MOQ 1,000, inquiry@majorcustom.com).
 - Not a fit: Faca Packaging (Barcelona) lists only jars and dispensers; A Packaging Group (US) has a 12-pan ABS palette with glass mirror but MOQ 10,000 at 5 USD.
 
+**Correction, same day:** [[Greg]] found that none of the European names actually offers eyeshadow palette cases. Rechecked: Euromakeup, Quadpack, HCP and Lumson do not show palettes on the pages read, so they were dropped. Toly does: its showcase lists eyeshadow palettes made for Lancôme (12 shades), Armani and Clarins. Texen Beauty Partners (France) makes refillable palettes but sources products in Asia and North Africa ([Premium Beauty News](https://www.premiumbeautynews.com/en/texen-beauty-partners-expands-in,23110)). Added [SN Packs](https://www.snpacks.com/collections/eyeshadow-packaging) (Wuhan, China: custom magnetic plastic palettes 1-16 pans, info@snpacks.com).
+
 Feeds: [[Packaging]] · [[Case supplier]] · [[Product]] · [[Pricing and costs]]
