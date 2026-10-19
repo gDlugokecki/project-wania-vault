@@ -2,7 +2,7 @@
 title: Product
 type: domain
 created: 2026-10-11
-updated: 2026-10-12
+updated: 2026-10-19
 tags: [domain]
 ---
 
@@ -13,11 +13,11 @@ The eyeshadow palette itself: shades, formula, [[Producer]], samples, unit cost,
 
 ## Current state
 
-- **Palette size:** 6 or 9 shades, depending on price. Shades not final.
+- **Palette size:** 9 or 12 shades (inquiry email to case suppliers, 2026-10-19). _Earlier: 6 or 9 shades (2026-10-11), superseded._ Shades not final.
 - **Producer:** first samples received, feedback sent, waiting for the 2nd round. See [[Producer]].
 - **Compliance:** the [[Producer]] delivers everything the EU requires; we pay for it. See [[Compliance and CPNP]].
 - **Costs:** no figures yet. See [[Pricing and costs]].
-- **Palette case:** not sourced; looking for plastic cases. See [[Packaging]] and [[Case supplier]].
+- **Palette case:** not sourced. Inquiry email drafted and a shortlist of 6 suppliers made (2026-10-19). See [[Packaging]] and [[Case supplier]].
 
 ## Decisions
 
@@ -25,7 +25,8 @@ _None yet._
 
 ## Open questions
 
-- [ ] 6 or 9 shades? Depends on the unit price. ([[Pricing and costs]])
+- [ ] 9 or 12 shades? Depends on the unit price. ([[Pricing and costs]])
+- [ ] Pan diameter and depth, needed for the case inquiry ([[Packaging]])
 - [ ] Unit cost, minimum order quantity, compliance fee
 - [ ] Retail price
 - [ ] The [[Store design prototype]] shows two palettes with four pans each (placeholder data). Does that reflect a new plan, or is it just a design placeholder? This page still says one palette, 6 or 9 shades.
@@ -38,7 +39,9 @@ _None yet._
 |---|---|---|
 | Receive and review 2nd round of samples | [[Greg]], [[Greg's wife]] | open |
 | Get unit cost, MOQ and compliance fee from the producer | [[Greg]], [[Greg's wife]] | open |
-| Find a plastic palette case supplier | [[Greg]], [[Greg's wife]] | open |
+| Ask the producer for the pan diameter and depth | [[Greg]] | open |
+| Send the inquiry email to the [[Case supplier]] shortlist | [[Greg]] | open |
+| Compare quotes and samples, pick a case supplier | [[Greg]], [[Greg's wife]] | open |
 
 ## Connections
 
@@ -47,4 +50,4 @@ _None yet._
 - [[Business]]: producer contract and costs
 - [[Launch]]
 
-Sources: [[2026-10-11 Kickoff Q&A with Greg]], [[2026-10-12 Claude Design store prototype]]
+Sources: [[2026-10-11 Kickoff Q&A with Greg]], [[2026-10-12 Claude Design store prototype]], [[2026-10-19 Palette case supplier search]]

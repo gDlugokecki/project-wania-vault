@@ -2,7 +2,7 @@
 title: Home
 type: index
 created: 2026-10-11
-updated: 2026-10-12
+updated: 2026-10-19
 tags: [index]
 ---
 
@@ -44,6 +44,7 @@ Systems: [[bvt-ecommerce]] · [[Staging shop]] · [[Store design prototype]]
 - [[2026-10-11 Kickoff Q&A with Greg]]
 - [[2026-10-11 bvt-ecommerce repo review]]
 - [[2026-10-12 Claude Design store prototype]]
+- [[2026-10-19 Palette case supplier search]]
 
 ## Gaps
 
