@@ -40,7 +40,7 @@ _None yet._
 | Receive and review 2nd round of samples | [[Greg]], [[Greg's wife]] | open |
 | Get unit cost, MOQ and compliance fee from the producer | [[Greg]], [[Greg's wife]] | open |
 | Ask the producer for the pan diameter and depth | [[Greg]] | open |
-| Send the inquiry email to the [[Case supplier]] shortlist | [[Greg]] | open |
+| Send the inquiry email to Greg's contact list (6 Alibaba suppliers + Toly) on the [[Case supplier]] page | [[Greg]] | open |
 | Compare quotes and samples, pick a case supplier | [[Greg]], [[Greg's wife]] | open |
 
 ## Connections
