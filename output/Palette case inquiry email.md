@@ -10,7 +10,7 @@ tags: [packaging, template]
 
 Email template for the [[Case supplier]] contact list. Based on [[Greg]]'s draft (`raw/2026-10-19 palette case inquiry email.md`), with the placeholders filled where the vault has data. Spec: [[Packaging]].
 
-**Fill before sending:** your full name, quantity for the first order, email and phone/WhatsApp. Attach the [[Producer]]'s drawing of the other pan shapes. Pan size Ø26 mm added 2026-10-22. No brand name or website yet ([[Brand name]]), so the email says "name to be announced" and leaves the website out.
+**Fill before sending:** quantity for the first order. Name added and contact footer removed 2026-10-22 (the email address you send from is the contact). Attach the [[Producer]]'s drawing of the other pan shapes. Pan size Ø26 mm added 2026-10-22. No brand name or website yet ([[Brand name]]), so the email says "name to be announced" and leaves the website out.
 
 ---
 
@@ -18,7 +18,7 @@ Email template for the [[Case supplier]] contact list. Based on [[Greg]]'s draft
 
 Dear Sales Team,
 
-My name is [YOUR FULL NAME] and I am launching a new eyeshadow brand based in Poland (EU). The brand name will be announced soon. I am looking for a manufacturer of empty eyeshadow palettes and would like to request a quotation and samples. If you have stock palettes close to this specification, please send those options first.
+My name is Grzegorz Długokęcki and I am launching a new eyeshadow brand based in Poland (EU). The brand name will be announced soon. I am looking for a manufacturer of empty eyeshadow palettes and would like to request a quotation and samples. If you have stock palettes close to this specification, please send those options first.
 
 Product specification:
 - Layout: 9 shades (3x3) or 12 shades (3x4). Please quote both options.
@@ -49,6 +49,4 @@ I would like to receive samples first to check the quality before placing an ord
 Thank you, and I look forward to your reply.
 
 Best regards,
-[YOUR FULL NAME]
-Poland
-[EMAIL] | [PHONE / WHATSAPP]
+Grzegorz Długokęcki

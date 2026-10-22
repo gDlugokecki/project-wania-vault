@@ -11,7 +11,7 @@ tags: [person]
 
 ## What it is
 
-Co-founder, partner in the spółka cywilna. Builds the webshop ([[bvt-ecommerce]]) and made the [[Store design prototype]].
+Full name: Grzegorz Długokęcki. Co-founder, partner in the spółka cywilna. Builds the webshop ([[bvt-ecommerce]]) and made the [[Store design prototype]].
 
 ## Appears in
 
