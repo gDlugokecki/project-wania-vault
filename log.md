@@ -24,3 +24,4 @@ tags: [log]
 - 2026-10-22 add pan size Ø26 mm, other shapes, and well fitting to filled pans -> Palette case inquiry email, Packaging, Product, Producer
 - 2026-10-22 inquiry email: add Greg's full name, remove contact footer -> Palette case inquiry email, Greg
 - 2026-10-22 first order 1,000-2,000 palettes; inquiry email ready -> Palette case inquiry email, Packaging, Pricing and costs
+- 2026-10-22 inquiry email greeting: Dear Sales Team -> Hello -> Palette case inquiry email

@@ -16,7 +16,7 @@ Email template for the [[Case supplier]] contact list. Based on [[Greg]]'s draft
 
 **Subject:** Inquiry: empty eyeshadow palettes (9/12 pans), quotation and samples
 
-Dear Sales Team,
+Hello,
 
 My name is Grzegorz Długokęcki and I am launching a new eyeshadow brand based in Poland (EU). The brand name will be announced soon. I am looking for a manufacturer of empty eyeshadow palettes and would like to request a quotation and samples. If you have stock palettes close to this specification, please send those options first.
 
