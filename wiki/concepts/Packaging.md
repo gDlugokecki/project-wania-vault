@@ -26,7 +26,7 @@ Email ready to send: [[Palette case inquiry email]].
 - Large mirror inside the lid; magnetic closure preferred.
 - Sturdy plastic (ABS, AS, PETG or acrylic), matte or semi-matte, Pantone colour.
 - Logo by hot stamping, silk screen or embossing.
-- Quotes asked at 1,000 / 3,000 / 5,000 pcs; samples before ordering; REACH documents; optional outer paper box; recycled-plastic options.
+- First order: 1,000–2,000 palettes (Greg, 2026-10-22). Quotes asked at 1,000 / 2,000 / 5,000 pcs (was 1,000 / 3,000 / 5,000 in the first draft); samples before ordering; REACH documents; optional outer paper box; recycled-plastic options.
 
 ## Open questions
 

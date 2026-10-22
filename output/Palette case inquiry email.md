@@ -10,7 +10,7 @@ tags: [packaging, template]
 
 Email template for the [[Case supplier]] contact list. Based on [[Greg]]'s draft (`raw/2026-10-19 palette case inquiry email.md`), with the placeholders filled where the vault has data. Spec: [[Packaging]].
 
-**Fill before sending:** quantity for the first order. Name added and contact footer removed 2026-10-22 (the email address you send from is the contact). Attach the [[Producer]]'s drawing of the other pan shapes. Pan size Ø26 mm added 2026-10-22. No brand name or website yet ([[Brand name]]), so the email says "name to be announced" and leaves the website out.
+**Ready to send.** First order 1,000–2,000 palettes added 2026-10-22; price tiers changed from 1,000/3,000/5,000 to 1,000/2,000/5,000 to match. Name added and contact footer removed 2026-10-22 (the email address you send from is the contact). Attach the [[Producer]]'s drawing of the other pan shapes. Pan size Ø26 mm added 2026-10-22. No brand name or website yet ([[Brand name]]), so the email says "name to be announced" and leaves the website out.
 
 ---
 
@@ -29,10 +29,10 @@ Product specification:
 - Material: high-quality, sturdy plastic. Please recommend suitable materials (e.g. ABS, AS, PETG, acrylic) and the price difference between them.
 - Finish: matte or semi-matte, custom color (Pantone).
 - Logo decoration: please list available options (hot stamping, silk screen, embossing).
-- Estimated first order: [QUANTITY] pcs.
+- Estimated first order: 1,000–2,000 palettes.
 
 Could you please let me know:
-1. MOQ and unit prices for 1,000 / 3,000 / 5,000 pcs.
+1. MOQ and unit prices for 1,000 / 2,000 / 5,000 pcs.
 2. Whether you have existing stock molds for this design, or whether a custom mold is needed (and its cost).
 3. Samples of your existing palettes: could you send me a few samples so I can check the quality of the plastic, the mirror and the closure? Please let me know the cost and delivery time to Poland.
 4. Custom samples: what is the cost and lead time for samples with my logo and color, with wells fitted to our filled pans?
