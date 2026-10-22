@@ -2,7 +2,7 @@
 title: Packaging
 type: concept
 created: 2026-10-11
-updated: 2026-10-19
+updated: 2026-10-22
 tags: [product, brand]
 ---
 
@@ -21,7 +21,8 @@ The palette case and its design.
 Email ready to send: [[Palette case inquiry email]].
 
 - 9 shades (3x3) or 12 shades (3x4).
-- Round pans. **Diameter not known yet**: ask the [[Producer]] before sending the email.
+- Round pans, **Ø26 mm** (the producer's standard pan; confirmed by [[Greg]] 2026-10-22). The [[Producer]] also has other pan shapes (drawing sent by Greg, not yet in `raw/`).
+- **Wells must be fitted to filled pans.** The metal pan stretches slightly when the eyeshadow is pressed, so the case supplier needs finished, filled pans from the [[Producer]] to size the wells. (Greg, 2026-10-22)
 - Large mirror inside the lid; magnetic closure preferred.
 - Sturdy plastic (ABS, AS, PETG or acrylic), matte or semi-matte, Pantone colour.
 - Logo by hot stamping, silk screen or embossing.
@@ -29,7 +30,8 @@ Email ready to send: [[Palette case inquiry email]].
 
 ## Open questions
 
-- [ ] Pan diameter and depth (from the [[Producer]])
+- [x] Pan diameter: Ø26 mm (2026-10-22)
+- [ ] Send filled sample pans to the chosen case supplier for well fitting
 - [ ] Stock case or custom mould? A stock case avoids mould cost.
 - [ ] Unit price and MOQ ([[Pricing and costs]])
 

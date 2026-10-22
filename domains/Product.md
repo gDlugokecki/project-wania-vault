@@ -2,7 +2,7 @@
 title: Product
 type: domain
 created: 2026-10-11
-updated: 2026-10-19
+updated: 2026-10-22
 tags: [domain]
 ---
 
@@ -26,7 +26,7 @@ _None yet._
 ## Open questions
 
 - [ ] 9 or 12 shades? Depends on the unit price. ([[Pricing and costs]])
-- [ ] Pan diameter and depth, needed for the case inquiry ([[Packaging]])
+- [x] Pan diameter: Ø26 mm round, other shapes available (2026-10-22, [[Packaging]])
 - [ ] Unit cost, minimum order quantity, compliance fee
 - [ ] Retail price
 - [ ] The [[Store design prototype]] shows two palettes with four pans each (placeholder data). Does that reflect a new plan, or is it just a design placeholder? This page still says one palette, 6 or 9 shades.
@@ -39,7 +39,7 @@ _None yet._
 |---|---|---|
 | Receive and review 2nd round of samples | [[Greg]], [[Greg's wife]] | open |
 | Get unit cost, MOQ and compliance fee from the producer | [[Greg]], [[Greg's wife]] | open |
-| Ask the producer for the pan diameter and depth | [[Greg]] | open |
+| Get filled sample pans from the producer to send to case suppliers for well fitting | [[Greg]] | open |
 | Send the inquiry email to Greg's contact list (6 Alibaba suppliers + Toly) on the [[Case supplier]] page | [[Greg]] | open |
 | Compare quotes and samples, pick a case supplier | [[Greg]], [[Greg's wife]] | open |
 

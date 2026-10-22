@@ -2,7 +2,7 @@
 title: Palette case inquiry email
 type: source
 created: 2026-10-19
-updated: 2026-10-19
+updated: 2026-10-22
 tags: [packaging, template]
 ---
 
@@ -10,7 +10,7 @@ tags: [packaging, template]
 
 Email template for the [[Case supplier]] contact list. Based on [[Greg]]'s draft (`raw/2026-10-19 palette case inquiry email.md`), with the placeholders filled where the vault has data. Spec: [[Packaging]].
 
-**Fill before sending:** your full name, pan diameter (ask the [[Producer]]), quantity for the first order, email and phone/WhatsApp. No brand name or website yet ([[Brand name]]), so the email says "name to be announced" and leaves the website out.
+**Fill before sending:** your full name, quantity for the first order, email and phone/WhatsApp. Attach the [[Producer]]'s drawing of the other pan shapes. Pan size Ø26 mm added 2026-10-22. No brand name or website yet ([[Brand name]]), so the email says "name to be announced" and leaves the website out.
 
 ---
 
@@ -22,7 +22,8 @@ My name is [YOUR FULL NAME] and I am launching a new eyeshadow brand based in Po
 
 Product specification:
 - Layout: 9 shades (3x3) or 12 shades (3x4). Please quote both options.
-- Pans: round, [PAN DIAMETER] mm. Pans will be filled and glued into the palette by my eyeshadow supplier, so the palettes will be delivered empty. Please confirm the well size and depth that fit this pan.
+- Pans: our standard pan is round, Ø26 mm. Other pan shapes are also available; please see the attached drawing. Pans will be filled and glued into the palette by my eyeshadow supplier, so the palettes will be delivered empty.
+- Well fitting: the metal pan stretches slightly when the eyeshadow is pressed, so the wells must be fitted to filled pans, not to empty ones. We will send you filled sample pans for this. Please confirm that you can size the wells (diameter and depth) to these samples, and where we should send them.
 - Mirror: large, good-quality mirror covering the inside of the lid, securely attached.
 - Closure: magnetic closure preferred. Please also suggest other options you offer.
 - Material: high-quality, sturdy plastic. Please recommend suitable materials (e.g. ABS, AS, PETG, acrylic) and the price difference between them.
@@ -34,7 +35,7 @@ Could you please let me know:
 1. MOQ and unit prices for 1,000 / 3,000 / 5,000 pcs.
 2. Whether you have existing stock molds for this design, or whether a custom mold is needed (and its cost).
 3. Samples of your existing palettes: could you send me a few samples so I can check the quality of the plastic, the mirror and the closure? Please let me know the cost and delivery time to Poland.
-4. Custom samples: what is the cost and lead time for samples with my logo and color?
+4. Custom samples: what is the cost and lead time for samples with my logo and color, with wells fitted to our filled pans?
 5. Lead time from design approval: how long does it take from my approval of the final design to (a) the pre-production sample and (b) finished mass production?
 6. Shipping options to Poland (EXW / FOB / DDP).
 7. Payment terms.

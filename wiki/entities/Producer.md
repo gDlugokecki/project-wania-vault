@@ -3,7 +3,7 @@ title: Producer
 type: entity
 kind: company
 created: 2026-10-11
-updated: 2026-10-12
+updated: 2026-10-22
 tags: [company]
 ---
 
@@ -14,6 +14,7 @@ tags: [company]
 The eyeshadow manufacturer we are testing. Delivers EU [[Compliance and CPNP|compliance]] as a paid service.
 
 - First samples received, feedback sent, waiting for the 2nd round.
+- Standard pan: round Ø26 mm; other pan shapes available. Pans stretch slightly when pressed, so case wells are fitted to filled pans (2026-10-22, [[Packaging]]).
 - Pricing, MOQ and compliance fee: not received yet ([[Pricing and costs]]).
 - _Company name and contact: not recorded yet._
 
