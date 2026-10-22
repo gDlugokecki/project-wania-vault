@@ -40,7 +40,8 @@ _None yet._
 | Receive and review 2nd round of samples | [[Greg]], [[Greg's wife]] | open |
 | Get unit cost, MOQ and compliance fee from the producer | [[Greg]], [[Greg's wife]] | open |
 | Get filled sample pans from the producer to send to case suppliers for well fitting | [[Greg]] | open |
-| Send the inquiry email to Greg's contact list (6 Alibaba suppliers + Toly) on the [[Case supplier]] page | [[Greg]] | open |
+| ~~Send the inquiry email to Greg's contact list~~ done 2026-10-22, sent to all 10 | [[Greg]] | done |
+| Collect replies and quotes on the [[Case supplier]] page | [[Greg]], Claude | open |
 | Compare quotes and samples, pick a case supplier | [[Greg]], [[Greg's wife]] | open |
 
 ## Connections

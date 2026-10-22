@@ -3,7 +3,7 @@ title: Case supplier
 type: entity
 kind: company
 created: 2026-10-11
-updated: 2026-10-19
+updated: 2026-10-22
 tags: [company]
 ---
 
@@ -15,22 +15,32 @@ Supplier of the empty plastic palette case. **Not chosen yet.** The [[Producer]]
 
 ## Greg's contact list (2026-10-19)
 
-The suppliers [[Greg]] picked himself and plans to send the inquiry email to ([[Palette case inquiry email]]) (see [[Packaging]] for the spec). Company names are their Alibaba store names until we have the legal names.
+The suppliers [[Greg]] picked himself. All 10 got the inquiry email on 2026-10-22 ([[Palette case inquiry email]]) (see [[Packaging]] for the spec). Company names are their Alibaba store names until we have the legal names.
 
-| # | Supplier | Where | Link | Status |
-|---|---|---|---|---|
-| 1 | hkyihong | China (Alibaba) | [eyeshadow cases](https://hkyihong.m.en.alibaba.com/productgrouplist-819526332-8/Eyeshadow_Case.html) · [store](https://hkyihong.m.en.alibaba.com/) | to contact |
-| 2 | lihuiplastic | China (Alibaba) | [company profile](https://lihuiplastic.en.alibaba.com/company_profile.html) | to contact |
-| 3 | ominatural | China (Alibaba) | [eyeshadow cases](https://ominatural.m.en.alibaba.com/productgrouplist-801504579-4/Eyeshadow_Case.html) | to contact |
-| 4 | gdnanlong | China (Alibaba) | [company profile](https://gdnanlong.en.alibaba.com/company_profile.html) | to contact |
-| 5 | cnchoebe | China (Alibaba) | [store](https://cnchoebe.m.en.alibaba.com/) | to contact |
-| 6 | stardustcosmetics | China (Alibaba) | [company profile](https://stardustcosmetics.en.alibaba.com/company_profile.html) | to contact |
-| 7 | Toly | Malta (EU) | [contact form](https://www.toly.com/en/contact/) | to contact |
-| 8 | Picca International | Taichung, Taiwan | [picca.com.tw](https://www.picca.com.tw/) · picca@ms16.hinet.net · +886 4 2389 7607 | to contact (recommended by Irmina) |
-| 9 | TimeSource Enterprise | Taiwan | [timesourcetw.com](https://www.timesourcetw.com/) (calls itself an empty case packaging supplier) · contact form · +886 2 2546 8289 | to contact (recommended by Irmina) |
-| 10 | Colorich | Zhongshan, China | [colorichpkg.com](https://www.colorichpkg.com/) · admin@colorichpkg.com · MOQ 500; mostly paper palettes, so ask for plastic | to contact (recommended by Irmina) |
+How we track it: one row per supplier, updated on every reply (status, date, next step). Each reply or quote goes into `raw/` as it arrives, gets a short source page, and the key numbers (MOQ, unit price, mould cost, sample cost, lead time) go into the comparison below. A supplier gets its own entity page once we order samples from it.
+
+Statuses: inquiry sent → replied → quote received → samples ordered → samples received → chosen / rejected.
+
+| # | Supplier | Where | Link | Status | Last contact | Next step |
+|---|---|---|---|---|---|---|
+| 1 | hkyihong | China (Alibaba) | [eyeshadow cases](https://hkyihong.m.en.alibaba.com/productgrouplist-819526332-8/Eyeshadow_Case.html) · [store](https://hkyihong.m.en.alibaba.com/) | inquiry sent | 2026-10-22 inquiry sent | wait for reply |
+| 2 | lihuiplastic | China (Alibaba) | [company profile](https://lihuiplastic.en.alibaba.com/company_profile.html) | inquiry sent | 2026-10-22 inquiry sent | wait for reply |
+| 3 | ominatural | China (Alibaba) | [eyeshadow cases](https://ominatural.m.en.alibaba.com/productgrouplist-801504579-4/Eyeshadow_Case.html) | inquiry sent | 2026-10-22 inquiry sent | wait for reply |
+| 4 | gdnanlong | China (Alibaba) | [company profile](https://gdnanlong.en.alibaba.com/company_profile.html) | inquiry sent | 2026-10-22 inquiry sent | wait for reply |
+| 5 | cnchoebe | China (Alibaba) | [store](https://cnchoebe.m.en.alibaba.com/) | inquiry sent | 2026-10-22 inquiry sent | wait for reply |
+| 6 | stardustcosmetics | China (Alibaba) | [company profile](https://stardustcosmetics.en.alibaba.com/company_profile.html) | inquiry sent | 2026-10-22 inquiry sent | wait for reply |
+| 7 | Toly | Malta (EU) | [contact form](https://www.toly.com/en/contact/) | inquiry sent | 2026-10-22 inquiry sent | wait for reply |
+| 8 | Picca International | Taichung, Taiwan | [picca.com.tw](https://www.picca.com.tw/) · picca@ms16.hinet.net · +886 4 2389 7607 | inquiry sent (recommended by Irmina) | 2026-10-22 inquiry sent | wait for reply |
+| 9 | TimeSource Enterprise | Taiwan | [timesourcetw.com](https://www.timesourcetw.com/) (calls itself an empty case packaging supplier) · contact form · +886 2 2546 8289 | inquiry sent (recommended by Irmina) | 2026-10-22 inquiry sent | wait for reply |
+| 10 | Colorich | Zhongshan, China | [colorichpkg.com](https://www.colorichpkg.com/) · admin@colorichpkg.com · MOQ 500; mostly paper palettes, so ask for plastic | inquiry sent (recommended by Irmina) | 2026-10-22 inquiry sent | wait for reply |
 
 Rows 8-10 added the same day, recommended by Irmina (who she is: not recorded yet). Greg's list had hkyihong twice (a product group and the store page); merged into one row.
+
+### Quote comparison
+
+| Supplier | MOQ | Unit price (1k / 2k / 5k) | Mould cost | Sample cost | Lead time | Notes |
+|---|---|---|---|---|---|---|
+| _no replies yet_ | | | | | | |
 
 ## Claude's shortlist (2026-10-19, revised the same day)
 
