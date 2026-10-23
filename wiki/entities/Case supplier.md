@@ -3,7 +3,7 @@ title: Case supplier
 type: entity
 kind: company
 created: 2026-10-11
-updated: 2026-10-22
+updated: 2026-10-23
 tags: [company]
 ---
 
@@ -17,7 +17,14 @@ Supplier of the empty plastic palette case. **Not chosen yet.** The [[Producer]]
 
 The suppliers [[Greg]] picked himself. All 10 got the inquiry email on 2026-10-22 ([[Palette case inquiry email]]) (see [[Packaging]] for the spec). Company names are their Alibaba store names until we have the legal names.
 
-How we track it: one row per supplier, updated on every reply (status, date, next step). Each reply or quote goes into `raw/` as it arrives, gets a short source page, and the key numbers (MOQ, unit price, mould cost, sample cost, lead time) go into the comparison below. A supplier gets its own entity page once we order samples from it.
+How we track it (changed 2026-10-23, Greg asked for a full history per manufacturer):
+
+- **This page is the overview:** one row per supplier with status, last contact and next step, plus the quote comparison below.
+- **Each supplier gets its own page from its first reply** (template: `templates/supplier.md`). The page holds the conversation log (one dated summary per message), what they can provide, decisions about them, and open questions. The supplier's name in the table links to that page.
+- **Originals go into `raw/suppliers/<supplier>/`**: forwarded emails, Alibaba chat copies or screenshots, quotes, PDFs. They are never edited after they land.
+- The key numbers (MOQ, unit price, mould cost, sample cost, lead time) also go into the comparison below, so suppliers can be compared side by side.
+
+Superseded: until 2026-10-22 a supplier got its own page only once we ordered samples from it, and each reply got its own source page.
 
 Statuses: inquiry sent → replied → quote received → samples ordered → samples received → chosen / rejected.
 

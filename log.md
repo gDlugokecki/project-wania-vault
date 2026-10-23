@@ -26,3 +26,4 @@ tags: [log]
 - 2026-10-22 first order 1,000-2,000 palettes; inquiry email ready -> Palette case inquiry email, Packaging, Pricing and costs
 - 2026-10-22 inquiry email greeting: Dear Sales Team -> Hello -> Palette case inquiry email
 - 2026-10-22 inquiry sent to all 10 suppliers on Greg's list; add tracking columns and quote comparison -> Case supplier, Product
+- 2026-10-23 per-supplier pages with conversation log from first reply; add supplier template -> Case supplier, templates/supplier
