@@ -25,16 +25,16 @@ Dongyang Omi Plastic Technology Co., Ltd., China. Alibaba store `ominatural`. On
 
 | Model | Size (mm) | Wells | Lid | Mirror | Fits Ø26 pans? |
 |---|---|---|---|---|---|
-| 3047 | 105 x 105 x 15 | 9 round, Ø27.5 | clear AS/ABS | no (clear lid) | possibly, needs fitting check |
+| 3047 | 105 x 105 x 15 | 9 round, Ø27.5 | clear AS/ABS | no (clear lid) | possibly, but out: clear lid (Greg, 2026-10-23) |
 | 3025 | 122 x 101 x 12 | 9 round, Ø28 | ABS, black | yes | possibly, needs fitting check |
-| 3011 | 122 x 101 x 13 | 12 round, Ø24.5 | clear AS | no | no, wells too small |
+| 3011 | 122 x 101 x 13 | 12 round, Ø24.5 | clear AS | no | no, wells too small; also clear lid |
 | 3012 | 122 x 101 x 13 | 12 round, Ø24.5 | ABS | yes | no, wells too small |
 
 Base and tray are ABS on all four. Drawings in `raw/suppliers/omi-plastic/`.
 
 ## Decisions
 
-None yet.
+- 2026-10-23 models 3047 and 3011 are out -> clear lids; Greg wants nothing transparent ([[Packaging]]).
 
 ## Open questions
 

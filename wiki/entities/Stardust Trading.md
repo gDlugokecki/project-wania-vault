@@ -36,7 +36,7 @@ Product photos in `raw/suppliers/stardust-trading/`.
 
 ## Decisions
 
-None yet.
+- 2026-10-23 the clear acrylic palettes are out -> Greg wants nothing acrylic or transparent ([[Packaging]]).
 
 ## Open questions
 
