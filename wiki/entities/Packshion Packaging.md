@@ -16,7 +16,7 @@ Dongguan Packshion Printing & Packaging Co., Ltd., China. Not on Greg's list: th
 - **Status:** quote received (paper boxes)
 - **Where:** Dongguan, China
 - **Contact:** Kelly Chen, Alibaba chat
-- **Next step:** keep for the outer box question; no reply needed until we decide on a box
+- **Next step:** keep for the outer box question; no reply needed until we decide on a box. Draft reply ready: `raw/suppliers/packshion-packaging/drafts/2026-10-23 reply.md` (not sent)
 
 ## What they can provide
 

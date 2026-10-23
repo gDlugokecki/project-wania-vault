@@ -16,7 +16,7 @@ Dongyang Omi Plastic Technology Co., Ltd., China. Alibaba store `ominatural`. On
 - **Status:** replied (stock models offered, no prices yet)
 - **Where:** Dongyang, China
 - **Contact:** Kevin Jiang, Alibaba chat
-- **Next step:** decide whether any stock model is worth a quote; raise the MOQ problem (10,000 vs our 1,000-2,000)
+- **Next step:** decide whether any stock model is worth a quote; raise the MOQ problem (10,000 vs our 1,000-2,000). Draft reply ready: `raw/suppliers/omi-plastic/drafts/2026-10-23 reply.md` (not sent)
 
 ## What they can provide
 

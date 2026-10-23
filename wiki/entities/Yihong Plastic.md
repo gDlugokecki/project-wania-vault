@@ -16,7 +16,7 @@ HONGKONG YIHONG PLASTIC COMPANY LIMITED. Alibaba store `hkyihong`. One of the [[
 - **Status:** replied (automatic-looking summary, no offer)
 - **Where:** Hong Kong (company registration); factory location unknown
 - **Contact:** Grace Xie, Alibaba chat
-- **Next step:** send the pan drawing in the chat, as they asked
+- **Next step:** send the pan drawing in the chat, as they asked. Draft reply ready: `raw/suppliers/yihong-plastic/drafts/2026-10-23 reply.md` (not sent)
 
 ## What they can provide
 

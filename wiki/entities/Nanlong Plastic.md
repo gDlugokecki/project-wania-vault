@@ -16,7 +16,7 @@ Shantou Nanlong Plastic Products Co., Ltd., China. Alibaba store `gdnanlong`. On
 - **Status:** replied (acknowledged only)
 - **Where:** Shantou, China
 - **Contact:** River She, Alibaba chat
-- **Next step:** wait; nudge if nothing by about 2026-10-27
+- **Next step:** wait; nudge if nothing by about 2026-10-27. Draft reply ready: `raw/suppliers/nanlong-plastic/drafts/2026-10-23 reply.md` (not sent)
 
 ## What they can provide
 

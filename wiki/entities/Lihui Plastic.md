@@ -16,7 +16,7 @@ Zhangzhou Lihui Plastic Technology Co., Ltd., China. Alibaba store `lihuiplastic
 - **Status:** replied (catalog sent, no prices yet)
 - **Where:** Zhangzhou, China
 - **Contact:** Mark Wu, Alibaba chat
-- **Next step:** check their catalog for a stock case that fits, or ask what a custom mould would cost
+- **Next step:** check their catalog for a stock case that fits, or ask what a custom mould would cost. Draft reply ready: `raw/suppliers/lihui-plastic/drafts/2026-10-23 reply.md` (not sent)
 
 ## What they can provide
 

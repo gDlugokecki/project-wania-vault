@@ -16,7 +16,7 @@ Shenzhen Stardust Trading Co. Ltd., China. Alibaba store `stardustcosmetics`. On
 - **Status:** replied (stock products offered, retail-style prices)
 - **Where:** Shenzhen, China
 - **Contact:** DS hu, Alibaba chat
-- **Next step:** Greg told them he would check with his "supervisor" and come back. Decide whether the ABS mirror palette is worth a sample.
+- **Next step:** Greg told them he would check with his "supervisor" and come back. Decide whether the ABS mirror palette is worth a sample.. Draft reply ready: `raw/suppliers/stardust-trading/drafts/2026-10-23 reply.md` (not sent)
 
 ## What they can provide
 

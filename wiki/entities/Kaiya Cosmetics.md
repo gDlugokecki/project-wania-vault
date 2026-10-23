@@ -16,7 +16,7 @@ Kaiya (Shantou) Cosmetics Co., Ltd., China. Not on Greg's list: they quoted on a
 - **Status:** quote received (paper palette, does not fit)
 - **Where:** Shantou, China
 - **Contact:** Carvill Liang, Alibaba chat
-- **Next step:** answer their question about 12,000 units (we cannot), or let it go
+- **Next step:** answer their question about 12,000 units (we cannot), or let it go. Draft reply ready: `raw/suppliers/kaiya-cosmetics/drafts/2026-10-23 reply.md` (not sent)
 
 ## What they can provide
 

@@ -16,7 +16,7 @@ Choebe (Dongguan) Package Co., Ltd., China. Alibaba store `cnchoebe`. One of the
 - **Status:** replied (asked for a picture)
 - **Where:** Dongguan, China
 - **Contact:** Doreen Xu, Alibaba chat
-- **Next step:** send them a reference image of the palette we want and the pan drawing
+- **Next step:** send them a reference image of the palette we want and the pan drawing. Draft reply ready: `raw/suppliers/choebe-package/drafts/2026-10-23 reply.md` (not sent)
 
 ## What they can provide
 

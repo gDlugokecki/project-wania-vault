@@ -28,3 +28,4 @@ tags: [log]
 - 2026-10-22 inquiry sent to all 10 suppliers on Greg's list; add tracking columns and quote comparison -> Case supplier, Product
 - 2026-10-23 per-supplier pages with conversation log from first reply; add supplier template -> Case supplier, templates/supplier
 - 2026-10-23 ingest Alibaba chats of 8 suppliers (6 from Greg's list, 2 RFQ quotes) with images -> raw/suppliers/, Omi Plastic, Lihui Plastic, Choebe Package, Stardust Trading, Nanlong Plastic, Yihong Plastic, Kaiya Cosmetics, Packshion Packaging, Case supplier
+- 2026-10-23 draft replies to the 8 Alibaba suppliers (not sent) -> raw/suppliers/*/drafts/, supplier pages, CLAUDE.md

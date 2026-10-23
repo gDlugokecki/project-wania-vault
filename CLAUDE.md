@@ -19,6 +19,7 @@ wiki/
   decisions/     one page per important decision, dated
   sources/       one page per thing we learned from (a conversation, a repo review, an email, a quote)
 raw/             original material: emails, PDFs, quotes, chat exports. Never edited after it lands.
+                 Exception: `raw/suppliers/<supplier>/drafts/` holds Claude's draft replies, editable until sent.
 templates/       page templates
 output/          things generated for use outside the vault (the graph page)
 log.md           one line per change, newest at the bottom
