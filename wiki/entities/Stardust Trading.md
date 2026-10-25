@@ -3,7 +3,7 @@ title: Stardust Trading
 type: entity
 kind: company
 created: 2026-10-23
-updated: 2026-10-23
+updated: 2026-10-25
 tags: [company, supplier]
 ---
 
@@ -13,10 +13,10 @@ Shenzhen Stardust Trading Co. Ltd., China. Alibaba store `stardustcosmetics`. On
 
 ## Snapshot
 
-- **Status:** replied (stock products offered, retail-style prices)
+- **Status:** replied; waiting for their answer to Greg's 2026-10-25 message
 - **Where:** Shenzhen, China
 - **Contact:** DS hu, Alibaba chat
-- **Next step:** Greg told them he would check with his "supervisor" and come back. Decide whether the ABS mirror palette is worth a sample.. Draft reply ready: `raw/suppliers/stardust-trading/drafts/2026-10-23 reply.md` (not sent)
+- **Next step:** wait for their reply (stock options, portfolio, samples to Poland)
 
 ## What they can provide
 
@@ -53,6 +53,10 @@ Sent the standard inquiry ([[Palette case inquiry email]]).
 They sent two clear acrylic palettes (9 and 12 wells, in stock, logo possible). Greg asked for a mirror and a non-transparent lid; they said the acrylic lid cannot take a mirror and offered an ABS 12-well palette with mirror in pink, black or light pink. Greg said he would check with his supervisor and asked if they make custom cases from a drawing: yes, at a higher quantity.
 
 Original: `raw/suppliers/stardust-trading/2026-10-23 alibaba chat.md`
+
+### 2026-10-25 us, Alibaba
+Greg sent inspiration pictures 3, 1, 7 and 6 ([[2026-10-25 Case inspiration from Greg]]) and his standard list (quality plastic, big mirror, glued pans, 3x3 or 3x4, pan sizes, magnetic lid, 2,000 units first order; stock? portfolio? samples to Poland?). No answer yet.
+Original: `raw/suppliers/stardust-trading/2026-10-25 alibaba chat.md`
 
 ## Appears in
 

@@ -3,7 +3,7 @@ title: Kaiya Cosmetics
 type: entity
 kind: company
 created: 2026-10-23
-updated: 2026-10-23
+updated: 2026-10-25
 tags: [company, supplier]
 ---
 
@@ -16,7 +16,7 @@ Kaiya (Shantou) Cosmetics Co., Ltd., China. Not on Greg's list: they quoted on a
 - **Status:** quote received (paper palette, does not fit)
 - **Where:** Shantou, China
 - **Contact:** Carvill Liang, Alibaba chat
-- **Next step:** answer their question about 12,000 units (we cannot), or let it go. Draft reply ready: `raw/suppliers/kaiya-cosmetics/drafts/2026-10-23 reply.md` (not sent)
+- **Next step:** wait; Greg answered that we need about 2,000 units
 
 ## What they can provide
 
@@ -45,6 +45,10 @@ Greg: we want plastic. They will check plastic options with their manager.
 Asked if we can meet the 12,000 units requirement.
 
 Original: `raw/suppliers/kaiya-cosmetics/2026-10-23 alibaba chat.md`
+
+### 2026-10-25 us, Alibaba
+Greg: interested in about 2,000 units for now.
+Original: `raw/suppliers/kaiya-cosmetics/2026-10-25 alibaba chat.md`
 
 ## Appears in
 

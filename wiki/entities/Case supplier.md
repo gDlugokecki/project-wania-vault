@@ -3,7 +3,7 @@ title: Case supplier
 type: entity
 kind: company
 created: 2026-10-11
-updated: 2026-10-23
+updated: 2026-10-25
 tags: [company]
 ---
 
@@ -30,18 +30,18 @@ Statuses: inquiry sent → replied → quote received → samples ordered → sa
 
 | # | Supplier | Where | Link | Status | Last contact | Next step |
 |---|---|---|---|---|---|---|
-| 1 | [[Yihong Plastic]] (hkyihong) | China (Alibaba) | [eyeshadow cases](https://hkyihong.m.en.alibaba.com/productgrouplist-819526332-8/Eyeshadow_Case.html) · [store](https://hkyihong.m.en.alibaba.com/) | replied (automatic-looking, asks for pan drawing) | 2026-10-22 reply | send pan drawing |
-| 2 | [[Lihui Plastic]] (lihuiplastic) | China (Alibaba) | [company profile](https://lihuiplastic.en.alibaba.com/company_profile.html) | replied (no stock fit, catalog sent) | 2026-10-23 catalog | check catalog or ask mould cost |
-| 3 | [[Omi Plastic]] (ominatural) | China (Alibaba) | [eyeshadow cases](https://ominatural.m.en.alibaba.com/productgrouplist-801504579-4/Eyeshadow_Case.html) | replied (4 stock models, MOQ 10,000) | 2026-10-23 drawings | ask price for 3025 and lower MOQ |
+| 1 | [[Yihong Plastic]] (hkyihong) | China (Alibaba) | [eyeshadow cases](https://hkyihong.m.en.alibaba.com/productgrouplist-819526332-8/Eyeshadow_Case.html) · [store](https://hkyihong.m.en.alibaba.com/) | replied (MOQ 12,000 per style) | 2026-10-25 Greg asked about MOQ for stock | wait for reply |
+| 2 | [[Lihui Plastic]] (lihuiplastic) | China (Alibaba) | [company profile](https://lihuiplastic.en.alibaba.com/company_profile.html) | replied (no stock fit, catalog sent) | 2026-10-25 Greg asked for 9183/9358-like models | wait for reply |
+| 3 | [[Omi Plastic]] (ominatural) | China (Alibaba) | [eyeshadow cases](https://ominatural.m.en.alibaba.com/productgrouplist-801504579-4/Eyeshadow_Case.html) | replied (checking stock and 2,000 units) | 2026-10-25 chat | wait; they want style, finish, logo file |
 | 4 | [[Nanlong Plastic]] (gdnanlong) | China (Alibaba) | [company profile](https://gdnanlong.en.alibaba.com/company_profile.html) | replied (acknowledged only) | 2026-10-22 will check | wait, nudge ~2026-10-27 |
-| 5 | [[Choebe Package]] (cnchoebe) | China (Alibaba) | [store](https://cnchoebe.m.en.alibaba.com/) | replied (asks for an image) | 2026-10-23 asked for image | send reference image + drawing |
-| 6 | [[Stardust Trading]] (stardustcosmetics) | China (Alibaba) | [company profile](https://stardustcosmetics.en.alibaba.com/company_profile.html) | replied (stock palettes, prices) | 2026-10-22 chat | decide on ABS mirror sample |
+| 5 | [[Choebe Package]] (cnchoebe) | China (Alibaba) | [store](https://cnchoebe.m.en.alibaba.com/) | replied (asked for an image) | 2026-10-25 Greg sent pictures | wait for reply |
+| 6 | [[Stardust Trading]] (stardustcosmetics) | China (Alibaba) | [company profile](https://stardustcosmetics.en.alibaba.com/company_profile.html) | replied (stock palettes, prices) | 2026-10-25 Greg sent pictures | wait for reply |
 | 7 | Toly | Malta (EU) | [contact form](https://www.toly.com/en/contact/) | inquiry sent | 2026-10-22 inquiry sent | wait for reply |
 | 8 | Picca International | Taichung, Taiwan | [picca.com.tw](https://www.picca.com.tw/) · picca@ms16.hinet.net · +886 4 2389 7607 | inquiry sent (recommended by Irmina) | 2026-10-22 inquiry sent | wait for reply |
 | 9 | TimeSource Enterprise | Taiwan | [timesourcetw.com](https://www.timesourcetw.com/) (calls itself an empty case packaging supplier) · contact form · +886 2 2546 8289 | inquiry sent (recommended by Irmina) | 2026-10-22 inquiry sent | wait for reply |
 | 10 | Colorich | Zhongshan, China | [colorichpkg.com](https://www.colorichpkg.com/) · admin@colorichpkg.com · MOQ 500; mostly paper palettes, so ask for plastic | inquiry sent (recommended by Irmina) | 2026-10-22 inquiry sent | wait for reply |
 
-Rows 1-6 updated 2026-10-23 from the Alibaba chats (read through Claude in Chrome); each supplier now has its own page. Rows 8-10 added on 2026-10-22, recommended by Irmina (who she is: not recorded yet). Greg's list had hkyihong twice (a product group and the store page); merged into one row.
+Rows 1-6 updated 2026-10-23 and 2026-10-25 from the Alibaba chats (read through Claude in Chrome); each supplier now has its own page. Rows 8-10 added on 2026-10-22, recommended by Irmina (who she is: not recorded yet). Greg's list had hkyihong twice (a product group and the store page); merged into one row.
 
 ### Quote comparison
 
@@ -51,6 +51,8 @@ Rows 1-6 updated 2026-10-23 from the Alibaba chats (read through Claude in Chrom
 | [[Stardust Trading]] | 1 (stock) | 15.05-23.76 PLN (ABS mirror 12-well, listing range) | stock | not yet | not yet | acrylic 9/12-well from 9.90 PLN, no mirror possible |
 | [[Lihui Plastic]] | not yet | not yet | custom mould "high" | not yet | not yet | no stock fit; catalog sent |
 | [[Kaiya Cosmetics]] | 12,000 | USD 1.13 | n/a | not yet | not yet | paper palette, not plastic |
+| [[Yihong Plastic]] | 12,000 per style | not yet | not yet | not yet | not yet | asked if lower for a stock model |
+| [[Walkin Printing]] | not yet | not yet | custom | plain sample 3-5 days | bulk 15-20 working days + 35-45 days DDP | probably paperboard |
 
 ### Also answered (not on Greg's list)
 
@@ -58,6 +60,7 @@ Greg also posted an RFQ (request for quotation) on Alibaba; when and with what t
 
 - [[Kaiya Cosmetics]]: paper palettes only, MOQ 12,000, USD 1.13. Checking plastic options.
 - [[Packshion Packaging]]: paper boxes; a candidate for the outer box, not for the case.
+- [[Walkin Printing]] (2026-10-24): custom magnetic palettes with mirror, 9 or 12 pans, probably paperboard. Sent 14 portfolio photos and a timeline.
 
 ## Claude's shortlist (2026-10-19, revised the same day)
 

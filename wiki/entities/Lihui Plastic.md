@@ -3,7 +3,7 @@ title: Lihui Plastic
 type: entity
 kind: company
 created: 2026-10-23
-updated: 2026-10-23
+updated: 2026-10-25
 tags: [company, supplier]
 ---
 
@@ -13,10 +13,10 @@ Zhangzhou Lihui Plastic Technology Co., Ltd., China. Alibaba store `lihuiplastic
 
 ## Snapshot
 
-- **Status:** replied (catalog sent, no prices yet)
+- **Status:** replied; waiting for their answer to Greg's 2026-10-25 message
 - **Where:** Zhangzhou, China
 - **Contact:** Mark Wu, Alibaba chat
-- **Next step:** check their catalog for a stock case that fits, or ask what a custom mould would cost. Draft reply ready: `raw/suppliers/lihui-plastic/drafts/2026-10-23 reply.md` (not sent)
+- **Next step:** wait for their reply on models similar to ZZYSX-9183 / 9358
 
 ## What they can provide
 
@@ -30,6 +30,7 @@ None yet.
 
 ## Open questions
 
+- Do they have something like ZZYSX-9183 (111 x 75.9 x 13.6 mm, D20.7 wells) or ZZYSX-9358 (108.3 x 63.2 x 12.8 mm, 7 x D24 wells) in a 3x3 or 3x4 layout for our pans? (Greg's question, 2026-10-25)
 - Is there a model in their full catalog with 9 or 12 round wells around Ø27-28?
 - Cost of a custom mould, and the MOQ for it.
 - The other questions from the inquiry (MOQ, prices, samples, REACH, shipping, payment).
@@ -46,6 +47,10 @@ In Polish (probably Alibaba's translation): will read the requirements and reply
 No existing case with our exact dimensions; new tooling is expensive, so they sent photos of similar cases. If one of them works we skip the mould cost. Three catalog pages attached.
 
 Original: `raw/suppliers/lihui-plastic/2026-10-23 alibaba chat.md`
+
+### 2026-10-25 us, Alibaba
+Greg sent inspiration pictures 3, 7 and 6 ([[2026-10-25 Case inspiration from Greg]]) and asked for something similar to their ZZYSX-9183 or ZZYSX-9358 (from the catalog pages) or to the pictures, with 3x3 or 3x4 Ø26 mm pans, or rectangular pans 22x22, 25x25 or 23x20 mm. No answer yet.
+Original: `raw/suppliers/lihui-plastic/2026-10-25 alibaba chat.md`
 
 ## Appears in
 

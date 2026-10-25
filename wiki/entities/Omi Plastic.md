@@ -3,7 +3,7 @@ title: Omi Plastic
 type: entity
 kind: company
 created: 2026-10-23
-updated: 2026-10-23
+updated: 2026-10-25
 tags: [company, supplier]
 ---
 
@@ -13,14 +13,14 @@ Dongyang Omi Plastic Technology Co., Ltd., China. Alibaba store `ominatural`. On
 
 ## Snapshot
 
-- **Status:** replied (stock models offered, no prices yet)
+- **Status:** replied (checking stock options and 2,000 units with their manager)
 - **Where:** Dongyang, China
 - **Contact:** Kevin Jiang, Alibaba chat
-- **Next step:** decide whether any stock model is worth a quote; raise the MOQ problem (10,000 vs our 1,000-2,000). Draft reply ready: `raw/suppliers/omi-plastic/drafts/2026-10-23 reply.md` (not sent)
+- **Next step:** wait for their stock options, sample shipping and 2,000-unit answer; they also ask for our preferred style, colour/finish and logo file
 
 ## What they can provide
 
-- **MOQ 10,000 pcs** (2026-10-23). Far above our first order of 1,000-2,000.
+- **MOQ 10,000 pcs** (2026-10-23, repeated 2026-10-25). Far above our first order of 1,000-2,000. On 2026-10-25 they said they will also check 2,000 units.
 - Four stock moulds offered (2026-10-23), no prices yet; a quote follows if we pick one:
 
 | Model | Size (mm) | Wells | Lid | Mirror | Fits Ø26 pans? |
@@ -38,6 +38,7 @@ Base and tray are ABS on all four. Drawings in `raw/suppliers/omi-plastic/`.
 
 ## Open questions
 
+- They ask for our preferred style, colour/finish and logo file (2026-10-25). We have no logo yet ([[Brand name]]).
 - Will they go below MOQ 10,000 for a stock mould?
 - Price, sample cost and lead time for 3025 (the closest match: 9 wells, mirror).
 - Can the 3025 wells be sized to our filled Ø26 pans, and is the closure magnetic?
@@ -55,6 +56,10 @@ Instant reply: will confirm stock samples, pricing, samples to Poland, materials
 Sent drawings of four stock models (3047, 3025, 3011, 3012), offered a quote for any of them, and said their MOQ is 10,000 pcs.
 
 Original: `raw/suppliers/omi-plastic/2026-10-23 alibaba chat.md`
+
+### 2026-10-25 us and them, Alibaba
+Greg: 2,000 units, a stock model with colour customisation and logo, not a custom design. Sent inspiration pictures 7, 6, 3 and 4 ([[2026-10-25 Case inspiration from Greg]]) and his standard list (quality plastic, big mirror, glued pans, 3x3 or 3x4, pan sizes, magnetic lid; stock? portfolio? samples to Poland?). Kevin: will confirm similar stock options and sample shipping with the manager; MOQ is 10,000 but he will check 2,000. Asked for style, finish and logo file.
+Original: `raw/suppliers/omi-plastic/2026-10-25 alibaba chat.md`
 
 ## Appears in
 
