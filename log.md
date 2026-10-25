@@ -30,3 +30,4 @@ tags: [log]
 - 2026-10-23 ingest Alibaba chats of 8 suppliers (6 from Greg's list, 2 RFQ quotes) with images -> raw/suppliers/, Omi Plastic, Lihui Plastic, Choebe Package, Stardust Trading, Nanlong Plastic, Yihong Plastic, Kaiya Cosmetics, Packshion Packaging, Case supplier
 - 2026-10-23 draft replies to the 8 Alibaba suppliers (not sent) -> raw/suppliers/*/drafts/, supplier pages, CLAUDE.md
 - 2026-10-23 Greg: no acrylic or transparent cases, custom or elegant only; drafts adjusted -> Packaging, Omi Plastic, Stardust Trading, supplier drafts
+- 2026-10-25 ingest Greg's 7 case inspiration pictures; drafts to Choebe, Lihui, Yihong now attach them -> raw/inspiration/case/, 2026-10-25 Case inspiration from Greg, Packaging, Home, supplier drafts

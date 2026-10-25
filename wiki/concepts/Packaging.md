@@ -2,7 +2,7 @@
 title: Packaging
 type: concept
 created: 2026-10-11
-updated: 2026-10-23
+updated: 2026-10-25
 tags: [product, brand]
 ---
 
@@ -24,7 +24,7 @@ Email ready to send: [[Palette case inquiry email]].
 - Round pans, **Ø26 mm** (the producer's standard pan; confirmed by [[Greg]] 2026-10-22). The [[Producer]] also has other pan shapes (drawing sent by Greg, not yet in `raw/`).
 - **Wells must be fitted to filled pans.** The metal pan stretches slightly when the eyeshadow is pressed, so the case supplier needs finished, filled pans from the [[Producer]] to size the wells. (Greg, 2026-10-22)
 - Large mirror inside the lid; magnetic closure preferred.
-- Sturdy plastic, matte or semi-matte, Pantone colour. **No acrylic and nothing transparent** (no clear lids or clear cases). The case must be either custom or elegant; Greg will prepare examples of what he likes. (Greg, 2026-10-23) _Until 2026-10-23 the inquiry listed ABS, AS, PETG or acrylic, superseded._
+- Sturdy plastic, matte or semi-matte, Pantone colour. **No acrylic and nothing transparent** (no clear lids or clear cases). The case must be either custom or elegant; Greg's examples: [[2026-10-25 Case inspiration from Greg]]. (Greg, 2026-10-23) _Until 2026-10-23 the inquiry listed ABS, AS, PETG or acrylic, superseded._
 - Logo by hot stamping, silk screen or embossing.
 - First order: 1,000–2,000 palettes (Greg, 2026-10-22). Quotes asked at 1,000 / 2,000 / 5,000 pcs (was 1,000 / 3,000 / 5,000 in the first draft); samples before ordering; REACH documents; optional outer paper box; recycled-plastic options.
 
@@ -34,6 +34,8 @@ Email ready to send: [[Palette case inquiry email]].
 - [ ] Send filled sample pans to the chosen case supplier for well fitting
 - [ ] Stock case or custom mould? A stock case avoids mould cost.
 - [ ] Unit price and MOQ ([[Pricing and costs]])
-- [ ] Greg's examples of cases he likes (custom or elegant look), to send to suppliers as reference
+- [x] Greg's examples of cases he likes: [[2026-10-25 Case inspiration from Greg]] (2026-10-25)
+- [ ] Square pans instead of round? Most of Greg's examples use square pans.
+- [ ] Metallic finish (like most examples) or matte (as in the inquiry)?
 
-Sources: [[2026-10-11 Kickoff Q&A with Greg]], [[2026-10-19 Palette case supplier search]]
+Sources: [[2026-10-11 Kickoff Q&A with Greg]], [[2026-10-19 Palette case supplier search]], [[2026-10-25 Case inspiration from Greg]]

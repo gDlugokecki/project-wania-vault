@@ -45,6 +45,7 @@ Systems: [[bvt-ecommerce]] · [[Staging shop]] · [[Store design prototype]]
 - [[2026-10-11 bvt-ecommerce repo review]]
 - [[2026-10-12 Claude Design store prototype]]
 - [[2026-10-19 Palette case supplier search]]
+- [[2026-10-25 Case inspiration from Greg]]
 
 ## Gaps
 
