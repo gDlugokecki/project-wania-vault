@@ -23,7 +23,7 @@ Email ready to send: [[Palette case inquiry email]].
 - 9 shades (3x3) or 12 shades (3x4).
 - Round pans, **Ø26 mm** (the producer's standard pan; confirmed by [[Greg]] 2026-10-22). The [[Producer]] also has other pan shapes (drawing sent by Greg, not yet in `raw/`).
 - **Wells must be fitted to filled pans.** The metal pan stretches slightly when the eyeshadow is pressed, so the case supplier needs finished, filled pans from the [[Producer]] to size the wells. (Greg, 2026-10-22)
-- Large mirror inside the lid; magnetic closure preferred.
+- Large mirror inside the lid, with as small a border as possible (Greg, 2026-10-25); magnetic closure preferred.
 - Sturdy plastic, matte or semi-matte, Pantone colour. **No acrylic and nothing transparent** (no clear lids or clear cases). The case must be either custom or elegant; Greg's examples: [[2026-10-25 Case inspiration from Greg]]. (Greg, 2026-10-23) _Until 2026-10-23 the inquiry listed ABS, AS, PETG or acrylic, superseded._
 - Logo by hot stamping, silk screen or embossing.
 - First order: 1,000–2,000 palettes (Greg, 2026-10-22). Quotes asked at 1,000 / 2,000 / 5,000 pcs (was 1,000 / 3,000 / 5,000 in the first draft); samples before ordering; REACH documents; optional outer paper box; recycled-plastic options.
