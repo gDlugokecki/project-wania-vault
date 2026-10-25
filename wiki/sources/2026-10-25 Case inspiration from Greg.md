@@ -37,7 +37,7 @@ What the examples have in common (Claude's reading, not Greg's words): a slim ca
 
 Open questions:
 - Example 6 has a frosted see-through lid. Does that count against "nothing transparent" ([[Packaging]])?
-- Are square pans an option? The [[Producer]] has other pan shapes, so a square-pan case may be possible.
+- ~~Are square pans an option?~~ Yes: 22x22, 25x25 or 23x20 mm, besides round Ø26 mm (Greg, 2026-10-25).
 - Is a metallic finish what Greg wants, or matte (as in the inquiry)?
 
 Feeds: [[Packaging]] · [[Case supplier]]

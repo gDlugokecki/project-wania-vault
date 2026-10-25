@@ -32,3 +32,4 @@ tags: [log]
 - 2026-10-23 Greg: no acrylic or transparent cases, custom or elegant only; drafts adjusted -> Packaging, Omi Plastic, Stardust Trading, supplier drafts
 - 2026-10-25 ingest Greg's 7 case inspiration pictures; drafts to Choebe, Lihui, Yihong now attach them -> raw/inspiration/case/, 2026-10-25 Case inspiration from Greg, Packaging, Home, supplier drafts
 - 2026-10-25 Greg's standard ask (look like the photos, high-quality plastic, big mirror, glued pans, 3x3 or 3x4, magnetic lid; stock? portfolio? samples to Poland?) added to the 6 Alibaba case supplier drafts -> supplier drafts, Packaging
+- 2026-10-25 pan options 22x22, 25x25, 23x20 mm besides round Ø26; added to the 6 Alibaba case drafts -> Packaging, Producer, 2026-10-25 Case inspiration from Greg, supplier drafts
