@@ -37,7 +37,7 @@ Statuses: inquiry sent → replied → quote received → samples ordered → sa
 | 5 | [[Choebe Package]] (cnchoebe) | China (Alibaba) | [store](https://cnchoebe.m.en.alibaba.com/) | quote received: MOQ 5,000 per colour/design; A237D1 close | 2026-10-29 Greg asked if 5,000 is negotiable | wait for answer |
 | 6 | [[Stardust Trading]] (stardustcosmetics) | China (Alibaba) | [company profile](https://stardustcosmetics.en.alibaba.com/company_profile.html) | custom needs mould, MOQ 12,000; small orders only from stock | 2026-10-27 | decide on a stock sample |
 | 7 | Toly | Malta (EU) | [contact form](https://www.toly.com/en/contact/) | inquiry sent | 2026-10-22 inquiry sent | wait for reply |
-| 8 | Picca International | Taichung, Taiwan | [picca.com.tw](https://www.picca.com.tw/) · picca@ms16.hinet.net · +886 4 2389 7607 | inquiry sent (recommended by Irmina) | 2026-10-22 inquiry sent | wait for reply |
+| 8 | [[Picca International]] | Taichung, Taiwan | [picca.com.tw](https://www.picca.com.tw/) · picca@ms16.hinet.net · +886 4 2389 7607 | replied: stock cases don't fit; custom MOQ around 5,000 (recommended by Irmina) | 2026-10-29 email | decide: ask about custom or drop |
 | 9 | TimeSource Enterprise | Taiwan | [timesourcetw.com](https://www.timesourcetw.com/) (calls itself an empty case packaging supplier) · contact form · +886 2 2546 8289 | inquiry sent (recommended by Irmina) | 2026-10-22 inquiry sent | wait for reply |
 | 10 | Colorich | Zhongshan, China | [colorichpkg.com](https://www.colorichpkg.com/) · admin@colorichpkg.com · MOQ 500; mostly paper palettes, so ask for plastic | inquiry sent (recommended by Irmina) | 2026-10-22 inquiry sent | wait for reply |
 | 11 | Sambound New Material Technology Packaging Limited (cosmeticpackagingvn) | Alibaba (location not recorded) | [store](https://cosmeticpackagingvn.m.trustpass.alibaba.com/) · product Greg looked at: id 1601277046631 | inquiry sent on Alibaba (Lacy Luo), no reply yet | 2026-10-29 inquiry | wait for reply |
@@ -62,6 +62,7 @@ Rows 1-6 updated 2026-10-23, 2026-10-25 and 2026-10-29 from the Alibaba chats (r
 | [[Lihui Plastic]] | not yet | not yet | custom mould "high"; quote needs drawing + quantity | not yet | not yet | no stock in our pan sizes (2026-10-27) |
 | [[Kaiya Cosmetics]] | 12,000 | USD 1.13 | n/a | not yet | not yet | paper palette, not plastic |
 | [[Choebe Package]] | 5,000 per colour and design | not yet | stock moulds (A237D1, A168A3) | not yet | not yet | A237D1 close to what we want; asked if MOQ negotiable |
+| [[Picca International]] | around 5,000 | not yet | stock moulds don't fit | not yet | not yet | closest stock CE434 has a brush slot and small wells |
 | [[Stardust Trading]] (custom) | 12,000 | not yet | mould needed | not yet | not yet | small orders only from stock |
 | [[Yihong Plastic]] | 12,000 per style | not yet | only stock moulds E284C, YH-E577B | not yet | not yet | no matching stock (2026-10-28) |
 | [[Walkin Printing]] | not yet | not yet | custom | plain sample 3-5 days | bulk 15-20 working days + 35-45 days DDP | paper only (confirmed 2026-10-27) |
