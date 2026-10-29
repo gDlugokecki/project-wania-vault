@@ -37,3 +37,4 @@ tags: [log]
 - 2026-10-29 Greg contacted Sambound New Material Technology Packaging and Shantou Chengfeng Trading -> Case supplier
 - 2026-10-29 add store links for Sambound and Visonpack (row 13, not contacted) -> Case supplier
 - 2026-10-29 Alibaba inbox: Sambound chat (Lacy Luo); new chats with Beyaqi, Sengmi, Ningbo Boolong, Ningbo Qingrong; no Chunbai or Qinna -> Case supplier
+- 2026-10-29 store links for Qingrong, Beyaqi, Sengmi; add Chunbai, Guangzhou Mingli, Zhejiang Welkin as contacted -> Case supplier
