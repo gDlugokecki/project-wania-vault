@@ -30,39 +30,41 @@ Statuses: inquiry sent → replied → quote received → samples ordered → sa
 
 | # | Supplier | Where | Link | Status | Last contact | Next step |
 |---|---|---|---|---|---|---|
-| 1 | [[Yihong Plastic]] (hkyihong) | China (Alibaba) | [eyeshadow cases](https://hkyihong.m.en.alibaba.com/productgrouplist-819526332-8/Eyeshadow_Case.html) · [store](https://hkyihong.m.en.alibaba.com/) | replied (MOQ 12,000 per style) | 2026-10-25 Greg asked about MOQ for stock | wait for reply |
-| 2 | [[Lihui Plastic]] (lihuiplastic) | China (Alibaba) | [company profile](https://lihuiplastic.en.alibaba.com/company_profile.html) | replied (no stock fit, catalog sent) | 2026-10-25 Greg asked for 9183/9358-like models | wait for reply |
-| 3 | [[Omi Plastic]] (ominatural) | China (Alibaba) | [eyeshadow cases](https://ominatural.m.en.alibaba.com/productgrouplist-801504579-4/Eyeshadow_Case.html) | replied (checking stock and 2,000 units) | 2026-10-25 chat | wait; they want style, finish, logo file |
-| 4 | [[Nanlong Plastic]] (gdnanlong) | China (Alibaba) | [company profile](https://gdnanlong.en.alibaba.com/company_profile.html) | replied (acknowledged only) | 2026-10-22 will check | wait, nudge ~2026-10-27 |
-| 5 | [[Choebe Package]] (cnchoebe) | China (Alibaba) | [store](https://cnchoebe.m.en.alibaba.com/) | replied (asked for an image) | 2026-10-25 Greg sent pictures | wait for reply |
-| 6 | [[Stardust Trading]] (stardustcosmetics) | China (Alibaba) | [company profile](https://stardustcosmetics.en.alibaba.com/company_profile.html) | replied (stock palettes, prices) | 2026-10-25 Greg sent pictures | wait for reply |
+| 1 | [[Yihong Plastic]] (hkyihong) | China (Alibaba) | [eyeshadow cases](https://hkyihong.m.en.alibaba.com/productgrouplist-819526332-8/Eyeshadow_Case.html) · [store](https://hkyihong.m.en.alibaba.com/) | no fit: only moulds E284C / YH-E577B; MOQ 12,000 per style | 2026-10-28 "only this mold" | none for now |
+| 2 | [[Lihui Plastic]] (lihuiplastic) | China (Alibaba) | [company profile](https://lihuiplastic.en.alibaba.com/company_profile.html) | no stock in our pan sizes; offers custom quote | 2026-10-27 asked: custom (A) or other sizes (B)? | Greg to answer A or B |
+| 3 | [[Omi Plastic]] (ominatural) | China (Alibaba) | [eyeshadow cases](https://ominatural.m.en.alibaba.com/productgrouplist-801504579-4/Eyeshadow_Case.html) | rejected for now: MOQ 10,000 firm | 2026-10-26 can't do 2,000 | none |
+| 4 | [[Nanlong Plastic]] (gdnanlong) | China (Alibaba) | [company profile](https://gdnanlong.en.alibaba.com/company_profile.html) | replied (acknowledged only) | 2026-10-29 manager to confirm tomorrow | wait |
+| 5 | [[Choebe Package]] (cnchoebe) | China (Alibaba) | [store](https://cnchoebe.m.en.alibaba.com/) | quote received: MOQ 5,000 per colour/design; A237D1 close | 2026-10-29 Greg asked if 5,000 is negotiable | wait for answer |
+| 6 | [[Stardust Trading]] (stardustcosmetics) | China (Alibaba) | [company profile](https://stardustcosmetics.en.alibaba.com/company_profile.html) | custom needs mould, MOQ 12,000; small orders only from stock | 2026-10-27 | decide on a stock sample |
 | 7 | Toly | Malta (EU) | [contact form](https://www.toly.com/en/contact/) | inquiry sent | 2026-10-22 inquiry sent | wait for reply |
 | 8 | Picca International | Taichung, Taiwan | [picca.com.tw](https://www.picca.com.tw/) · picca@ms16.hinet.net · +886 4 2389 7607 | inquiry sent (recommended by Irmina) | 2026-10-22 inquiry sent | wait for reply |
 | 9 | TimeSource Enterprise | Taiwan | [timesourcetw.com](https://www.timesourcetw.com/) (calls itself an empty case packaging supplier) · contact form · +886 2 2546 8289 | inquiry sent (recommended by Irmina) | 2026-10-22 inquiry sent | wait for reply |
 | 10 | Colorich | Zhongshan, China | [colorichpkg.com](https://www.colorichpkg.com/) · admin@colorichpkg.com · MOQ 500; mostly paper palettes, so ask for plastic | inquiry sent (recommended by Irmina) | 2026-10-22 inquiry sent | wait for reply |
-| 11 | Sambound New Material Technology Packaging Limited (cosmeticpackagingvn) | Alibaba (location not recorded) | [store](https://cosmeticpackagingvn.m.trustpass.alibaba.com/) · product Greg looked at: id 1601277046631 | inquiry sent (Greg, 2026-10-29); Alibaba chat with Lacy Luo, not read yet | 2026-10-29 chat started | read and log the chat |
-| 12 | Shantou Chengfeng Trading Co., Ltd. | Shantou, China (Alibaba) | Alibaba chat, contact Ivy Lin | inquiry sent (Greg, 2026-10-29); a reply arrived the same day, not read yet | 2026-10-29 reply waiting | read and log the reply |
+| 11 | Sambound New Material Technology Packaging Limited (cosmeticpackagingvn) | Alibaba (location not recorded) | [store](https://cosmeticpackagingvn.m.trustpass.alibaba.com/) · product Greg looked at: id 1601277046631 | inquiry sent on Alibaba (Lacy Luo), no reply yet | 2026-10-29 inquiry | wait for reply |
+| 12 | [[Chengfeng Trading]] (Shantou Chengfeng Trading Co., Ltd.) | Shantou, China (Alibaba) | Alibaba chat, contact Ivy Lin | replied: logo possible, checking sample options and costs | 2026-10-29 | wait for sample offer |
 | 13 | Visonpack (visonpack) | Alibaba (location not recorded) | [store](https://visonpack.m.en.alibaba.com/) · product Greg looked at: id 1600940948080 | not contacted as far as the vault knows; no chat in Greg's Alibaba inbox (2026-10-29) | - | Greg to decide whether to contact |
-| 14 | Beyaqi Cosmetics (Hangzhou) Co., Ltd. (beiyaqi) | Hangzhou, China (Alibaba) | [store](https://beiyaqi.m.en.alibaba.com/) · product Greg looked at: id 1600427300728 · Alibaba chat, contact Franzi Weng | chat started 2026-10-29, not read yet | 2026-10-29 | read and log the chat |
-| 15 | Guangzhou Sengmi Packaging Product Co., Ltd. (seng-mi) | Guangzhou, China (Alibaba) | [store](https://seng-mi.m.en.alibaba.com/) · product Greg looked at: id 1601723433116 · Alibaba chat, contact Meng Smith | chat started 2026-10-29, not read yet | 2026-10-29 | read and log the chat |
-| 16 | Ningbo Boolong Packaging Co., Ltd. | Ningbo, China (Alibaba) | Alibaba chat, contact Mia Shen | chat started 2026-10-29, not read yet | 2026-10-29 | read and log the chat |
-| 17 | Ningbo Qingrong Packaging Co., Ltd. (qingrongpacking) | Ningbo, China (Alibaba) | [store](https://qingrongpacking.m.en.alibaba.com/) · product Greg looked at: id 1601734451467 · Alibaba chat, contact Becky Gao | chat started 2026-10-29, not read yet | 2026-10-29 | read and log the chat |
-| 18 | Shijiazhuang Chunbai Plastic Co., Ltd. (chunbaipacking) | Shijiazhuang, China (Alibaba) | [store](https://chunbaipacking.m.en.alibaba.com/) · product Greg looked at: id 1601885854837 | contacted (Greg, 2026-10-29); no chat in the inbox yet | 2026-10-29 | wait for reply |
-| 19 | Guangzhou Mingli Plastic Products Co., Ltd. (mingliplastic) | Guangzhou, China (Alibaba) | [store](https://mingliplastic.m.en.alibaba.com/) · product Greg looked at: id 1601824093625 | contacted (Greg, 2026-10-29) | 2026-10-29 | wait for reply |
-| 20 | Zhejiang Welkin (cnzjtianyun) | Zhejiang, China (Alibaba) | [store](https://cnzjtianyun.m.en.alibaba.com/) · product Greg looked at: id 1601277973106 | contacted (Greg, 2026-10-29) | 2026-10-29 | wait for reply |
+| 14 | Beyaqi Cosmetics (Hangzhou) Co., Ltd. (beiyaqi) | Hangzhou, China (Alibaba) | [store](https://beiyaqi.m.en.alibaba.com/) · product Greg looked at: id 1600427300728 · Alibaba chat, contact Franzi Weng | inquiry sent on Alibaba (Franzi Weng), no reply yet | 2026-10-29 inquiry | wait for reply |
+| 15 | [[Sengmi Packaging]] (seng-mi) | Guangzhou, China (Alibaba) | [store](https://seng-mi.m.en.alibaba.com/) · product Greg looked at: id 1601723433116 · Alibaba chat, contact Meng Smith | replied (automatic-looking acknowledgement) | 2026-10-29 | wait for a real answer |
+| 16 | Ningbo Boolong Packaging Co., Ltd. | Ningbo, China (Alibaba) | Alibaba chat, contact Mia Shen | inquiry sent on Alibaba (Mia Shen), no reply yet | 2026-10-29 inquiry | wait for reply |
+| 17 | Ningbo Qingrong Packaging Co., Ltd. (qingrongpacking) | Ningbo, China (Alibaba) | [store](https://qingrongpacking.m.en.alibaba.com/) · product Greg looked at: id 1601734451467 · Alibaba chat, contact Becky Gao | inquiry sent on Alibaba (Becky Gao) with their 9-pan mirror palette listing (MOQ 1,000), no reply yet | 2026-10-29 inquiry | wait for reply |
+| 18 | [[Chunbai Plastic]] (chunbaipacking) | Shijiazhuang, China (Alibaba) | [store](https://chunbaipacking.m.en.alibaba.com/) · product Greg looked at: id 1601885854837 | replied (automatic-looking acknowledgement) | 2026-10-29 | wait for a real answer |
+| 19 | [[Mingli Plastic]] (mingliplastic) | Guangzhou, China (Alibaba) | [store](https://mingliplastic.m.en.alibaba.com/) · product Greg looked at: id 1601824093625 | replied (automatic-looking acknowledgement) | 2026-10-29 | wait for a real answer |
+| 20 | Zhejiang Welkin Queen Packaging Products Co., Ltd. (cnzjtianyun) | Zhejiang, China (Alibaba) | [store](https://cnzjtianyun.m.en.alibaba.com/) · product Greg looked at: id 1601277973106 | inquiry sent on Alibaba (Jolin Ding), no reply yet | 2026-10-29 inquiry | wait for reply |
 
-Rows 1-6 updated 2026-10-23 and 2026-10-25 from the Alibaba chats (read through Claude in Chrome); each supplier now has its own page. Rows 11-12 added 2026-10-29: Greg contacted them that day. Row 13 added the same day from a link Greg sent. Rows 14-17: Alibaba chats that appeared in Greg's inbox on the evening of 2026-10-29. Rows 18-20 and the links for 14, 15 and 17: from Greg, 2026-10-29 (Greg contacted them that day). Shijiazhuang Qinna: no chat found, not confirmed as contacted (2026-10-29). Rows 8-10 added on 2026-10-22, recommended by Irmina (who she is: not recorded yet). Greg's list had hkyihong twice (a product group and the store page); merged into one row.
+Rows 1-6 updated 2026-10-23, 2026-10-25 and 2026-10-29 from the Alibaba chats (read through Claude in Chrome); each supplier now has its own page. Rows 11-12 added 2026-10-29: Greg contacted them that day. Row 13 added the same day from a link Greg sent. Rows 14-17: Alibaba chats that appeared in Greg's inbox on the evening of 2026-10-29. Rows 18-20 and the links for 14, 15 and 17: from Greg, 2026-10-29 (Greg contacted them that day). Shijiazhuang Qinna: no chat found, not confirmed as contacted (2026-10-29). Rows 8-10 added on 2026-10-22, recommended by Irmina (who she is: not recorded yet). Greg's list had hkyihong twice (a product group and the store page); merged into one row.
 
 ### Quote comparison
 
 | Supplier | MOQ | Unit price (1k / 2k / 5k) | Mould cost | Sample cost | Lead time | Notes |
 |---|---|---|---|---|---|---|
-| [[Omi Plastic]] | 10,000 | not yet | stock moulds | not yet | not yet | stock 3025 (9 x Ø28, mirror) closest; 3011/3012 wells too small |
+| [[Omi Plastic]] | 10,000 (firm, 2026-10-26) | not yet | stock moulds | not yet | not yet | stock 3025 (9 x Ø28, mirror) closest; 3011/3012 wells too small |
 | [[Stardust Trading]] | 1 (stock) | 15.05-23.76 PLN (ABS mirror 12-well, listing range) | stock | not yet | not yet | acrylic 9/12-well from 9.90 PLN, no mirror possible |
-| [[Lihui Plastic]] | not yet | not yet | custom mould "high" | not yet | not yet | no stock fit; catalog sent |
+| [[Lihui Plastic]] | not yet | not yet | custom mould "high"; quote needs drawing + quantity | not yet | not yet | no stock in our pan sizes (2026-10-27) |
 | [[Kaiya Cosmetics]] | 12,000 | USD 1.13 | n/a | not yet | not yet | paper palette, not plastic |
-| [[Yihong Plastic]] | 12,000 per style | not yet | not yet | not yet | not yet | asked if lower for a stock model |
-| [[Walkin Printing]] | not yet | not yet | custom | plain sample 3-5 days | bulk 15-20 working days + 35-45 days DDP | probably paperboard |
+| [[Choebe Package]] | 5,000 per colour and design | not yet | stock moulds (A237D1, A168A3) | not yet | not yet | A237D1 close to what we want; asked if MOQ negotiable |
+| [[Stardust Trading]] (custom) | 12,000 | not yet | mould needed | not yet | not yet | small orders only from stock |
+| [[Yihong Plastic]] | 12,000 per style | not yet | only stock moulds E284C, YH-E577B | not yet | not yet | no matching stock (2026-10-28) |
+| [[Walkin Printing]] | not yet | not yet | custom | plain sample 3-5 days | bulk 15-20 working days + 35-45 days DDP | paper only (confirmed 2026-10-27) |
 
 ### Also answered (not on Greg's list)
 
@@ -70,7 +72,7 @@ Greg also posted an RFQ (request for quotation) on Alibaba; when and with what t
 
 - [[Kaiya Cosmetics]]: paper palettes only, MOQ 12,000, USD 1.13. Checking plastic options.
 - [[Packshion Packaging]]: paper boxes; a candidate for the outer box, not for the case.
-- [[Walkin Printing]] (2026-10-24): custom magnetic palettes with mirror, 9 or 12 pans, probably paperboard. Sent 14 portfolio photos and a timeline.
+- [[Walkin Printing]] (2026-10-24): custom magnetic palettes with mirror, 9 or 12 pans, paperboard only (confirmed 2026-10-27). Sent 14 portfolio photos and a timeline.
 
 ## Claude's shortlist (2026-10-19, revised the same day)
 

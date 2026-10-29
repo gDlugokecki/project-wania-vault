@@ -3,7 +3,7 @@ title: Stardust Trading
 type: entity
 kind: company
 created: 2026-10-23
-updated: 2026-10-25
+updated: 2026-10-29
 tags: [company, supplier]
 ---
 
@@ -13,10 +13,10 @@ Shenzhen Stardust Trading Co. Ltd., China. Alibaba store `stardustcosmetics`. On
 
 ## Snapshot
 
-- **Status:** replied; waiting for their answer to Greg's 2026-10-25 message
+- **Status:** replied: anything not in stock needs a mould and MOQ 12,000 (2026-10-26)
 - **Where:** Shenzhen, China
 - **Contact:** DS hu, Alibaba chat
-- **Next step:** wait for their reply (stock options, portfolio, samples to Poland)
+- **Next step:** only their stock palettes are possible at small quantities; decide whether the ABS mirror palette is worth a sample
 
 ## What they can provide
 
@@ -31,6 +31,7 @@ All 2026-10-22. Prices are the ranges Alibaba shows on the product cards, in PLN
 - The clear acrylic palettes are in stock in 9 and 12 wells and can take a logo. Their lids cannot have a mirror.
 - The ABS palette has a mirror and 12 wells sized for 26.5 mm pans.
 - They make custom cases from a drawing, but only at a higher quantity (not stated).
+- 2026-10-26: anything not in stock needs a mould, **MOQ 12,000**. Only stocked palettes can be ordered in small quantities. "All plastic ones need a mould first."
 
 Product photos in `raw/suppliers/stardust-trading/`.
 
@@ -57,6 +58,10 @@ Original: `raw/suppliers/stardust-trading/2026-10-23 alibaba chat.md`
 ### 2026-10-25 us, Alibaba
 Greg sent inspiration pictures 3, 1, 7 and 6 ([[2026-10-25 Case inspiration from Greg]]) and his standard list (quality plastic, big mirror, glued pans, 3x3 or 3x4, pan sizes, magnetic lid, 2,000 units first order; stock? portfolio? samples to Poland?). No answer yet.
 Original: `raw/suppliers/stardust-trading/2026-10-25 alibaba chat.md`
+
+### 2026-10-26 to 2026-10-27, Alibaba
+DS hu: without an existing mould the MOQ is 12,000; only stocked palettes can be ordered small, because all plastic palettes need a mould first. Greg thanked them.
+Original: `raw/suppliers/stardust-trading/2026-10-29 alibaba chat.md`
 
 ## Appears in
 

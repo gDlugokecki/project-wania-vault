@@ -3,7 +3,7 @@ title: Kaiya Cosmetics
 type: entity
 kind: company
 created: 2026-10-23
-updated: 2026-10-25
+updated: 2026-10-29
 tags: [company, supplier]
 ---
 
@@ -13,10 +13,10 @@ Kaiya (Shantou) Cosmetics Co., Ltd., China. Not on Greg's list: they quoted on a
 
 ## Snapshot
 
-- **Status:** quote received (paper palette, does not fit)
+- **Status:** rejected: MOQ 12,000 is firm, paper only (2026-10-28)
 - **Where:** Shantou, China
 - **Contact:** Carvill Liang, Alibaba chat
-- **Next step:** wait; Greg answered that we need about 2,000 units
+- **Next step:** none
 
 ## What they can provide
 
@@ -25,8 +25,7 @@ Kaiya (Shantou) Cosmetics Co., Ltd., China. Not on Greg's list: they quoted on a
 - Said they would check plastic options with their manager (2026-10-22). No answer on that yet.
 
 ## Decisions
-
-None yet.
+- 2026-10-27 not ordering: Greg told them 12,000 is too many for a first product; they replied "Okay. Sorry."
 
 ## Open questions
 
@@ -49,6 +48,10 @@ Original: `raw/suppliers/kaiya-cosmetics/2026-10-23 alibaba chat.md`
 ### 2026-10-25 us, Alibaba
 Greg: interested in about 2,000 units for now.
 Original: `raw/suppliers/kaiya-cosmetics/2026-10-25 alibaba chat.md`
+
+### 2026-10-26 to 2026-10-28, Alibaba
+Carvill repeated MOQ 12,000 at USD 1.13 and asked if we can meet it. Greg: not on a first order, we are just starting. Carvill: "Okay. Sorry."
+Original: `raw/suppliers/kaiya-cosmetics/2026-10-29 alibaba chat.md`
 
 ## Appears in
 
