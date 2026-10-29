@@ -36,3 +36,4 @@ tags: [log]
 - 2026-10-25 Alibaba check: Greg's replies and new answers from Omi, Yihong; new RFQ responder Walkin Printing with 14 photos; drafts marked superseded -> raw/suppliers/*/2026-10-25 alibaba chat.md, Omi Plastic, Stardust Trading, Lihui Plastic, Yihong Plastic, Choebe Package, Kaiya Cosmetics, Walkin Printing, Case supplier
 - 2026-10-29 Greg contacted Sambound New Material Technology Packaging and Shantou Chengfeng Trading -> Case supplier
 - 2026-10-29 add store links for Sambound and Visonpack (row 13, not contacted) -> Case supplier
+- 2026-10-29 Alibaba inbox: Sambound chat (Lacy Luo); new chats with Beyaqi, Sengmi, Ningbo Boolong, Ningbo Qingrong; no Chunbai or Qinna -> Case supplier
