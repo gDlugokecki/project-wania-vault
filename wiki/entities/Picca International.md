@@ -13,10 +13,10 @@ PICCA cosmetics, Taichung, Taiwan ([picca.com.tw](https://www.picca.com.tw/)). R
 
 ## Snapshot
 
-- **Status:** replied (stock options sent; nothing matches)
+- **Status:** replied; we asked about other stock cases and a custom quote (2026-10-29)
 - **Where:** Taichung, Taiwan
 - **Contact:** Mark Tsai (sales manager / executive assistant to the general manager), sales04@picca.com.tw; first inquiry went to picca@ms16.hinet.net
-- **Next step:** Greg decides whether to ask about a custom version (MOQ around 5,000) or drop them. Draft reply ready: `raw/suppliers/picca/drafts/2026-10-29 reply.md` (not sent)
+- **Next step:** wait for their answer (other stock cases, mould cost, unit price at 2,000 / 5,000, MOQ for stock with our colour and logo, samples)
 
 ## What they can provide
 
@@ -49,6 +49,10 @@ Sent the standard inquiry ([[Palette case inquiry email]]).
 ### 2026-10-29 them, email
 Mark Tsai: a 26 mm, 9- or 12-colour palette would be big; their stock cases are only the attached ones (CE419-4R, CE419-9S, CE434); MOQ around 5k; CE434 may be closest.
 Original: `raw/suppliers/picca/2026-10-29 email reply.md`
+
+### 2026-10-29 us, email
+Greg: CE434 and CE419 don't fit (wells too small, brush slot, only 4 wells). Gave our pan sizes (Ø26, 22x22, 25x25, 23x20 mm) in 3x3 or 3x4, sent the look we like, and asked for other stock cases, mould cost, unit price at 2,000 and 5,000, whether MOQ 5,000 also applies to a stock case with our colour and logo, and sample cost to Poland.
+Original: `raw/suppliers/picca/2026-10-29 email sent.md`
 
 ## Appears in
 
