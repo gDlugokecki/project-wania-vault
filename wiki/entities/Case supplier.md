@@ -40,10 +40,11 @@ Statuses: inquiry sent → replied → quote received → samples ordered → sa
 | 8 | Picca International | Taichung, Taiwan | [picca.com.tw](https://www.picca.com.tw/) · picca@ms16.hinet.net · +886 4 2389 7607 | inquiry sent (recommended by Irmina) | 2026-10-22 inquiry sent | wait for reply |
 | 9 | TimeSource Enterprise | Taiwan | [timesourcetw.com](https://www.timesourcetw.com/) (calls itself an empty case packaging supplier) · contact form · +886 2 2546 8289 | inquiry sent (recommended by Irmina) | 2026-10-22 inquiry sent | wait for reply |
 | 10 | Colorich | Zhongshan, China | [colorichpkg.com](https://www.colorichpkg.com/) · admin@colorichpkg.com · MOQ 500; mostly paper palettes, so ask for plastic | inquiry sent (recommended by Irmina) | 2026-10-22 inquiry sent | wait for reply |
-| 11 | Sambound New Material Technology Packaging Limited | not recorded | not recorded | inquiry sent (Greg, 2026-10-29); not in Greg's Alibaba inbox as of 2026-10-29, so contact channel unknown | 2026-10-29 inquiry sent | wait for reply |
+| 11 | Sambound New Material Technology Packaging Limited (cosmeticpackagingvn) | Alibaba (location not recorded) | [store](https://cosmeticpackagingvn.m.trustpass.alibaba.com/) · product Greg looked at: id 1601277046631 | inquiry sent (Greg, 2026-10-29); no chat in Greg's Alibaba inbox yet (2026-10-29) | 2026-10-29 inquiry sent | wait for reply |
 | 12 | Shantou Chengfeng Trading Co., Ltd. | Shantou, China (Alibaba) | Alibaba chat, contact Ivy Lin | inquiry sent (Greg, 2026-10-29); a reply arrived the same day, not read yet | 2026-10-29 reply waiting | read and log the reply |
+| 13 | Visonpack (visonpack) | Alibaba (location not recorded) | [store](https://visonpack.m.en.alibaba.com/) · product Greg looked at: id 1600940948080 | not contacted as far as the vault knows; no chat in Greg's Alibaba inbox (2026-10-29) | - | Greg to decide whether to contact |
 
-Rows 1-6 updated 2026-10-23 and 2026-10-25 from the Alibaba chats (read through Claude in Chrome); each supplier now has its own page. Rows 11-12 added 2026-10-29: Greg contacted them that day. Rows 8-10 added on 2026-10-22, recommended by Irmina (who she is: not recorded yet). Greg's list had hkyihong twice (a product group and the store page); merged into one row.
+Rows 1-6 updated 2026-10-23 and 2026-10-25 from the Alibaba chats (read through Claude in Chrome); each supplier now has its own page. Rows 11-12 added 2026-10-29: Greg contacted them that day. Row 13 added the same day from a link Greg sent. Rows 8-10 added on 2026-10-22, recommended by Irmina (who she is: not recorded yet). Greg's list had hkyihong twice (a product group and the store page); merged into one row.
 
 ### Quote comparison
 
