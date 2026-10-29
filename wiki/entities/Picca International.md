@@ -16,7 +16,7 @@ PICCA cosmetics, Taichung, Taiwan ([picca.com.tw](https://www.picca.com.tw/)). R
 - **Status:** replied (stock options sent; nothing matches)
 - **Where:** Taichung, Taiwan
 - **Contact:** Mark Tsai (sales manager / executive assistant to the general manager), sales04@picca.com.tw; first inquiry went to picca@ms16.hinet.net
-- **Next step:** Greg decides whether to ask about a custom version (MOQ around 5,000) or drop them
+- **Next step:** Greg decides whether to ask about a custom version (MOQ around 5,000) or drop them. Draft reply ready: `raw/suppliers/picca/drafts/2026-10-29 reply.md` (not sent)
 
 ## What they can provide
 

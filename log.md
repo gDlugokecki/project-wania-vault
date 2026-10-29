@@ -41,3 +41,4 @@ tags: [log]
 - 2026-10-29 Alibaba check: 18 chats; new answers from Omi (MOQ firm), Yihong (no fit), Kaiya, Stardust, Lihui (custom offer), Walkin (paper only), Choebe (MOQ 5,000, A237D1), Packshion, Nanlong; new pages Chengfeng Trading, Sengmi Packaging, Chunbai Plastic, Mingli Plastic; Greg's address left out -> raw/suppliers/*/2026-10-29 alibaba chat.md, supplier pages, Case supplier
 - 2026-10-29 ingest Picca email reply (3 stock cases, MOQ around 5k) -> raw/suppliers/picca/, Picca International, Case supplier
 - 2026-10-29 ingest Colorich email reply (paper only) -> raw/suppliers/colorich/, Colorich, Case supplier
+- 2026-10-29 draft reply to Picca (not sent) -> raw/suppliers/picca/drafts/, Picca International
