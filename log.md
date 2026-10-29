@@ -34,3 +34,4 @@ tags: [log]
 - 2026-10-25 Greg's standard ask (look like the photos, high-quality plastic, big mirror, glued pans, 3x3 or 3x4, magnetic lid; stock? portfolio? samples to Poland?) added to the 6 Alibaba case supplier drafts -> supplier drafts, Packaging
 - 2026-10-25 pan options 22x22, 25x25, 23x20 mm besides round Ø26; added to the 6 Alibaba case drafts -> Packaging, Producer, 2026-10-25 Case inspiration from Greg, supplier drafts
 - 2026-10-25 Alibaba check: Greg's replies and new answers from Omi, Yihong; new RFQ responder Walkin Printing with 14 photos; drafts marked superseded -> raw/suppliers/*/2026-10-25 alibaba chat.md, Omi Plastic, Stardust Trading, Lihui Plastic, Yihong Plastic, Choebe Package, Kaiya Cosmetics, Walkin Printing, Case supplier
+- 2026-10-29 Greg contacted Sambound New Material Technology Packaging and Shantou Chengfeng Trading -> Case supplier
