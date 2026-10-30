@@ -36,11 +36,18 @@ Guangzhou Mingli Plastic Products Co., Ltd., China. One of the [[Case supplier]]
 
 ### 2026-10-29 us and them, Alibaba
 Greg sent the standard inquiry ([[Palette case inquiry email]]). Reply within the same minute, probably automatic: "Thank you. I'll confirm stock samples and all pricing with our senior manager."
-Original: `raw/suppliers/mingli-plastic/2026-10-29 alibaba chat.md`
+Original: [[raw/suppliers/mingli-plastic/2026-10-29 alibaba chat|2026-10-29 alibaba chat]]
 
 ### 2026-10-30 them and us, Alibaba
 lin jason: MOQ minimum 5,000. Greg: 5,000 is okay, asked for stock containers or a catalogue; start with 9 shades, 8 also fine, both round and square pans. lin: their team is checking moulds; a product manager will contact Greg directly. Replies came within a minute.
-Original: `raw/suppliers/mingli-plastic/2026-10-30 alibaba chat.md`
+Original: [[raw/suppliers/mingli-plastic/2026-10-30 alibaba chat|2026-10-30 alibaba chat]]
+
+## Files
+
+Everything saved for this page under `raw/suppliers/mingli-plastic/`.
+
+- [[raw/suppliers/mingli-plastic/2026-10-29 alibaba chat|2026-10-29 alibaba chat]]
+- [[raw/suppliers/mingli-plastic/2026-10-30 alibaba chat|2026-10-30 alibaba chat]]
 
 ## Appears in
 

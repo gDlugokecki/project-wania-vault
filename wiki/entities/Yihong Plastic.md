@@ -44,21 +44,33 @@ Sent the standard inquiry ([[Palette case inquiry email]]).
 ### 2026-10-22 them, Alibaba
 Reply in the same minute, probably automatic: summarises our requirements, gives no prices or sample fees, asks us to attach the pan drawing if it did not come through.
 
-Original: `raw/suppliers/yihong-plastic/2026-10-23 alibaba chat.md`
+Original: [[raw/suppliers/yihong-plastic/2026-10-23 alibaba chat|2026-10-23 alibaba chat]]
 
 ### 2026-10-24 them, Alibaba
 Grace asked for a reference photo and said their MOQ is 12,000 pcs per style.
 
 ### 2026-10-25 us, Alibaba
 Greg sent inspiration pictures 7, 3 and 6 ([[2026-10-25 Case inspiration from Greg]]) and his standard list, said 2,000 units of a stock model with colour customisation and logo (not a custom design), and asked whether the 12,000 MOQ still applies and whether they have something similar in stock. No answer yet.
-Original: `raw/suppliers/yihong-plastic/2026-10-25 alibaba chat.md`
+Original: [[raw/suppliers/yihong-plastic/2026-10-25 alibaba chat|2026-10-25 alibaba chat]]
 
 ### 2026-10-26 to 2026-10-28, Alibaba (Grace Xie)
 Grace offered YH-E577B; Greg: no brush space, anything similar without it? Grace: only E284C. Greg asked whether its big rectangle could become two small squares; Grace: depends on the mould, and this is the only mould they have.
 
 ### 2026-10-27 to 2026-10-28, Alibaba (Vivian Cai, second contact)
 Greg sent pictures 7, 3 and 6 and his list (pan sizes, 2,000 units, stock model with colour and logo). Vivian asked which picture is the main reference and for a model number from their portfolio, then said they have no similar stock.
-Original: `raw/suppliers/yihong-plastic/2026-10-29 alibaba chat.md`
+Original: [[raw/suppliers/yihong-plastic/2026-10-29 alibaba chat|2026-10-29 alibaba chat]]
+
+## Files
+
+Everything saved for this page under `raw/suppliers/yihong-plastic/`.
+
+- [[raw/suppliers/yihong-plastic/2026-10-23 alibaba chat|2026-10-23 alibaba chat]]
+- [[raw/suppliers/yihong-plastic/2026-10-25 alibaba chat|2026-10-25 alibaba chat]]
+- [[raw/suppliers/yihong-plastic/2026-10-26 YH-E577B 8 wells mirror brush slot.png|2026-10-26 YH-E577B 8 wells mirror brush slot.png]]
+- [[raw/suppliers/yihong-plastic/2026-10-27 E284C black mirror palette.png|2026-10-27 E284C black mirror palette.png]]
+- [[raw/suppliers/yihong-plastic/2026-10-28 E284C black mirror palette large.png|2026-10-28 E284C black mirror palette large.png]]
+- [[raw/suppliers/yihong-plastic/2026-10-29 alibaba chat|2026-10-29 alibaba chat]]
+- [[raw/suppliers/yihong-plastic/drafts/2026-10-23 reply|drafts/2026-10-23 reply]]
 
 ## Appears in
 

@@ -43,15 +43,24 @@ Greg: we want plastic. They will check plastic options with their manager.
 ### 2026-10-23 them, Alibaba
 Asked if we can meet the 12,000 units requirement.
 
-Original: `raw/suppliers/kaiya-cosmetics/2026-10-23 alibaba chat.md`
+Original: [[raw/suppliers/kaiya-cosmetics/2026-10-23 alibaba chat|2026-10-23 alibaba chat]]
 
 ### 2026-10-25 us, Alibaba
 Greg: interested in about 2,000 units for now.
-Original: `raw/suppliers/kaiya-cosmetics/2026-10-25 alibaba chat.md`
+Original: [[raw/suppliers/kaiya-cosmetics/2026-10-25 alibaba chat|2026-10-25 alibaba chat]]
 
 ### 2026-10-26 to 2026-10-28, Alibaba
 Carvill repeated MOQ 12,000 at USD 1.13 and asked if we can meet it. Greg: not on a first order, we are just starting. Carvill: "Okay. Sorry."
-Original: `raw/suppliers/kaiya-cosmetics/2026-10-29 alibaba chat.md`
+Original: [[raw/suppliers/kaiya-cosmetics/2026-10-29 alibaba chat|2026-10-29 alibaba chat]]
+
+## Files
+
+Everything saved for this page under `raw/suppliers/kaiya-cosmetics/`.
+
+- [[raw/suppliers/kaiya-cosmetics/2026-10-23 alibaba chat|2026-10-23 alibaba chat]]
+- [[raw/suppliers/kaiya-cosmetics/2026-10-25 alibaba chat|2026-10-25 alibaba chat]]
+- [[raw/suppliers/kaiya-cosmetics/2026-10-29 alibaba chat|2026-10-29 alibaba chat]]
+- [[raw/suppliers/kaiya-cosmetics/drafts/2026-10-23 reply|drafts/2026-10-23 reply]]
 
 ## Appears in
 

@@ -40,15 +40,24 @@ Sent the standard inquiry ([[Palette case inquiry email]]).
 ### 2026-10-22 them and us, Alibaba
 In Polish (probably Alibaba's translation): got the inquiry, will check everything tomorrow morning at the office. Greg thanked them.
 
-Original: `raw/suppliers/nanlong-plastic/2026-10-23 alibaba chat.md`
+Original: [[raw/suppliers/nanlong-plastic/2026-10-23 alibaba chat|2026-10-23 alibaba chat]]
 
 ### 2026-10-29 us and them, Alibaba
 Greg asked whether they had looked at the inquiry. River: the manager is resting; they will confirm tomorrow.
-Original: `raw/suppliers/nanlong-plastic/2026-10-29 alibaba chat.md`
+Original: [[raw/suppliers/nanlong-plastic/2026-10-29 alibaba chat|2026-10-29 alibaba chat]]
 
 ### 2026-10-30 them and us, Alibaba
 River (in Polish): customised cases MOQ 12,000, nothing in stock. Greg asked if that holds for ready stock moulds. River: will check a smaller trial on an existing unprinted mould and offered free stock samples (we pay express), asked for the delivery address. Greg sent our pan sizes; River noted them and asked again for the address. The English replies came within a minute.
-Original: `raw/suppliers/nanlong-plastic/2026-10-30 alibaba chat.md`
+Original: [[raw/suppliers/nanlong-plastic/2026-10-30 alibaba chat|2026-10-30 alibaba chat]]
+
+## Files
+
+Everything saved for this page under `raw/suppliers/nanlong-plastic/`.
+
+- [[raw/suppliers/nanlong-plastic/2026-10-23 alibaba chat|2026-10-23 alibaba chat]]
+- [[raw/suppliers/nanlong-plastic/2026-10-29 alibaba chat|2026-10-29 alibaba chat]]
+- [[raw/suppliers/nanlong-plastic/2026-10-30 alibaba chat|2026-10-30 alibaba chat]]
+- [[raw/suppliers/nanlong-plastic/drafts/2026-10-23 reply|drafts/2026-10-23 reply]]
 
 ## Appears in
 

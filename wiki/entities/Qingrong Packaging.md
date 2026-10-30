@@ -34,11 +34,19 @@ None yet.
 
 ### 2026-10-29 us, Alibaba
 Greg sent the standard inquiry ([[Palette case inquiry email]]).
-Original: `raw/suppliers/qingrong-packaging/2026-10-29 alibaba chat.md`
+Original: [[raw/suppliers/qingrong-packaging/2026-10-29 alibaba chat|2026-10-29 alibaba chat]]
 
 ### 2026-10-30 them and us, Alibaba
 Becky (in Polish): hello; do you have a design, can you send it? Greg: no design, looking for ready-to-use containers that meet the requirements; sent our pan sizes.
-Original: `raw/suppliers/qingrong-packaging/2026-10-30 alibaba chat.md`
+Original: [[raw/suppliers/qingrong-packaging/2026-10-30 alibaba chat|2026-10-30 alibaba chat]]
+
+## Files
+
+Everything saved for this page under `raw/suppliers/qingrong-packaging/`.
+
+- [[raw/suppliers/qingrong-packaging/2026-10-29 alibaba chat|2026-10-29 alibaba chat]]
+- [[raw/suppliers/qingrong-packaging/2026-10-29 product card Greg sent 9-pan palette.png|2026-10-29 product card Greg sent 9-pan palette.png]]
+- [[raw/suppliers/qingrong-packaging/2026-10-30 alibaba chat|2026-10-30 alibaba chat]]
 
 ## Appears in
 

@@ -53,15 +53,27 @@ Sent the standard inquiry ([[Palette case inquiry email]]).
 ### 2026-10-22 them and us, Alibaba
 They sent two clear acrylic palettes (9 and 12 wells, in stock, logo possible). Greg asked for a mirror and a non-transparent lid; they said the acrylic lid cannot take a mirror and offered an ABS 12-well palette with mirror in pink, black or light pink. Greg said he would check with his supervisor and asked if they make custom cases from a drawing: yes, at a higher quantity.
 
-Original: `raw/suppliers/stardust-trading/2026-10-23 alibaba chat.md`
+Original: [[raw/suppliers/stardust-trading/2026-10-23 alibaba chat|2026-10-23 alibaba chat]]
 
 ### 2026-10-25 us, Alibaba
 Greg sent inspiration pictures 3, 1, 7 and 6 ([[2026-10-25 Case inspiration from Greg]]) and his standard list (quality plastic, big mirror, glued pans, 3x3 or 3x4, pan sizes, magnetic lid, 2,000 units first order; stock? portfolio? samples to Poland?). No answer yet.
-Original: `raw/suppliers/stardust-trading/2026-10-25 alibaba chat.md`
+Original: [[raw/suppliers/stardust-trading/2026-10-25 alibaba chat|2026-10-25 alibaba chat]]
 
 ### 2026-10-26 to 2026-10-27, Alibaba
 DS hu: without an existing mould the MOQ is 12,000; only stocked palettes can be ordered small, because all plastic palettes need a mould first. Greg thanked them.
-Original: `raw/suppliers/stardust-trading/2026-10-29 alibaba chat.md`
+Original: [[raw/suppliers/stardust-trading/2026-10-29 alibaba chat|2026-10-29 alibaba chat]]
+
+## Files
+
+Everything saved for this page under `raw/suppliers/stardust-trading/`.
+
+- [[raw/suppliers/stardust-trading/2026-10-22 ABS 12-well mirror palette pink black.png|2026-10-22 ABS 12-well mirror palette pink black.png]]
+- [[raw/suppliers/stardust-trading/2026-10-22 acrylic 12-well palette.png|2026-10-22 acrylic 12-well palette.png]]
+- [[raw/suppliers/stardust-trading/2026-10-22 acrylic 9-well magnetic palette.png|2026-10-22 acrylic 9-well magnetic palette.png]]
+- [[raw/suppliers/stardust-trading/2026-10-23 alibaba chat|2026-10-23 alibaba chat]]
+- [[raw/suppliers/stardust-trading/2026-10-25 alibaba chat|2026-10-25 alibaba chat]]
+- [[raw/suppliers/stardust-trading/2026-10-29 alibaba chat|2026-10-29 alibaba chat]]
+- [[raw/suppliers/stardust-trading/drafts/2026-10-23 reply|drafts/2026-10-23 reply]]
 
 ## Appears in
 

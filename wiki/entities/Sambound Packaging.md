@@ -35,11 +35,18 @@ None yet.
 
 ### 2026-10-29 us, Alibaba
 Greg sent the standard inquiry ([[Palette case inquiry email]]).
-Original: `raw/suppliers/sambound-packaging/2026-10-29 alibaba chat.md`
+Original: [[raw/suppliers/sambound-packaging/2026-10-29 alibaba chat|2026-10-29 alibaba chat]]
 
 ### 2026-10-30 them, Alibaba
 Lacy: their public-mould products do not fit 9 or 12 round pans; sent their public-mould catalogue (PDF).
-Original: `raw/suppliers/sambound-packaging/2026-10-30 alibaba chat.md`
+Original: [[raw/suppliers/sambound-packaging/2026-10-30 alibaba chat|2026-10-30 alibaba chat]]
+
+## Files
+
+Everything saved for this page under `raw/suppliers/sambound-packaging/`.
+
+- [[raw/suppliers/sambound-packaging/2026-10-29 alibaba chat|2026-10-29 alibaba chat]]
+- [[raw/suppliers/sambound-packaging/2026-10-30 alibaba chat|2026-10-30 alibaba chat]]
 
 ## Appears in
 

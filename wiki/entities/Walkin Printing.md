@@ -42,15 +42,37 @@ As they state it, 2026-10-24:
 ### 2026-10-24 them, Alibaba
 Introduced themselves as a custom maker of magnetic empty palettes, sent 5 photos of palettes "as you request" (magnetic, mirror, 9 or 12 pans) and 9 of other shapes, the timeline above, and asked: 9 or 12 colours, round or rectangular pans? Offered a video call. Greg has not replied yet.
 
-Original: `raw/suppliers/walkin-printing/2026-10-25 alibaba chat.md`
+Original: [[raw/suppliers/walkin-printing/2026-10-25 alibaba chat|2026-10-25 alibaba chat]]
 
 ### 2026-10-26 to 2026-10-29, Alibaba
 Greg asked if they do only paperboard. Jimmy: "yes paper only". On 2026-10-29 he sent a customer's printed palette and asked 9 or 12 colours. Greg: sorry, we are looking for plastic containers.
-Original: `raw/suppliers/walkin-printing/2026-10-29 alibaba chat.md`
+Original: [[raw/suppliers/walkin-printing/2026-10-29 alibaba chat|2026-10-29 alibaba chat]]
 
 ### 2026-10-30 them and us, Alibaba
 Jimmy: "let's keep in touch"; invited Greg to visit the factory in China, sent a factory video and an SGS factory test report (PDF, not downloaded), and asked whether plastic is banned in Europe. Greg: not every plastic is banned; there are plenty of plastic containers on the European market.
-Original: `raw/suppliers/walkin-printing/2026-10-30 alibaba chat.md`
+Original: [[raw/suppliers/walkin-printing/2026-10-30 alibaba chat|2026-10-30 alibaba chat]]
+
+## Files
+
+Everything saved for this page under `raw/suppliers/walkin-printing/`.
+
+- [[raw/suppliers/walkin-printing/2026-10-24 06-01 black 12 square pans mirror a.png|2026-10-24 06-01 black 12 square pans mirror a.png]]
+- [[raw/suppliers/walkin-printing/2026-10-24 06-01 black 12 square pans mirror b.png|2026-10-24 06-01 black 12 square pans mirror b.png]]
+- [[raw/suppliers/walkin-printing/2026-10-24 06-01 orange 6 round pans mirror.png|2026-10-24 06-01 orange 6 round pans mirror.png]]
+- [[raw/suppliers/walkin-printing/2026-10-24 06-01 pink printed highlighting 12 pans.png|2026-10-24 06-01 pink printed highlighting 12 pans.png]]
+- [[raw/suppliers/walkin-printing/2026-10-24 06-01 silver glitter 9 square pans mirror.png|2026-10-24 06-01 silver glitter 9 square pans mirror.png]]
+- [[raw/suppliers/walkin-printing/2026-10-24 07-14 black empty magnetic palette mirror.png|2026-10-24 07-14 black empty magnetic palette mirror.png]]
+- [[raw/suppliers/walkin-printing/2026-10-24 07-14 black trifold palette.png|2026-10-24 07-14 black trifold palette.png]]
+- [[raw/suppliers/walkin-printing/2026-10-24 07-14 gold book palette 8 pans.png|2026-10-24 07-14 gold book palette 8 pans.png]]
+- [[raw/suppliers/walkin-printing/2026-10-24 07-14 gold glitter 15 pans.png|2026-10-24 07-14 gold glitter 15 pans.png]]
+- [[raw/suppliers/walkin-printing/2026-10-24 07-14 grey hexagon palette.png|2026-10-24 07-14 grey hexagon palette.png]]
+- [[raw/suppliers/walkin-printing/2026-10-24 07-14 red and gold empty magnetic palette mirror.png|2026-10-24 07-14 red and gold empty magnetic palette mirror.png]]
+- [[raw/suppliers/walkin-printing/2026-10-24 07-15 pink 10 pans brush slot.png|2026-10-24 07-15 pink 10 pans brush slot.png]]
+- [[raw/suppliers/walkin-printing/2026-10-24 07-15 pink printed highlighting 12 pans b.png|2026-10-24 07-15 pink printed highlighting 12 pans b.png]]
+- [[raw/suppliers/walkin-printing/2026-10-24 07-15 red framed mirror 5 pans.png|2026-10-24 07-15 red framed mirror 5 pans.png]]
+- [[raw/suppliers/walkin-printing/2026-10-25 alibaba chat|2026-10-25 alibaba chat]]
+- [[raw/suppliers/walkin-printing/2026-10-29 alibaba chat|2026-10-29 alibaba chat]]
+- [[raw/suppliers/walkin-printing/2026-10-30 alibaba chat|2026-10-30 alibaba chat]]
 
 ## Appears in
 

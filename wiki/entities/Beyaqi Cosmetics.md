@@ -35,11 +35,18 @@ None yet.
 
 ### 2026-10-29 us, Alibaba
 Greg sent the standard inquiry ([[Palette case inquiry email]]).
-Original: `raw/suppliers/beyaqi-cosmetics/2026-10-29 alibaba chat.md`
+Original: [[raw/suppliers/beyaqi-cosmetics/2026-10-29 alibaba chat|2026-10-29 alibaba chat]]
 
 ### 2026-10-30 them and us, Alibaba
 Franzi thanked us; MOQ usually 12,000. Greg asked whether that is negotiable for stock items, since we want a ready mould with our logo and colour, and sent our pan sizes.
-Original: `raw/suppliers/beyaqi-cosmetics/2026-10-30 alibaba chat.md`
+Original: [[raw/suppliers/beyaqi-cosmetics/2026-10-30 alibaba chat|2026-10-30 alibaba chat]]
+
+## Files
+
+Everything saved for this page under `raw/suppliers/beyaqi-cosmetics/`.
+
+- [[raw/suppliers/beyaqi-cosmetics/2026-10-29 alibaba chat|2026-10-29 alibaba chat]]
+- [[raw/suppliers/beyaqi-cosmetics/2026-10-30 alibaba chat|2026-10-30 alibaba chat]]
 
 ## Appears in
 

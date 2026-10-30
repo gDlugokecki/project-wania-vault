@@ -48,11 +48,22 @@ Sent the standard inquiry ([[Palette case inquiry email]]).
 
 ### 2026-10-29 them, email
 Mark Tsai: a 26 mm, 9- or 12-colour palette would be big; their stock cases are only the attached ones (CE419-4R, CE419-9S, CE434); MOQ around 5k; CE434 may be closest.
-Original: `raw/suppliers/picca/2026-10-29 email reply.md`
+Original: [[raw/suppliers/picca/2026-10-29 email reply|2026-10-29 email reply]]
 
 ### 2026-10-29 us, email
 Greg: CE434 and CE419 don't fit (wells too small, brush slot, only 4 wells). Gave our pan sizes (Ø26, 22x22, 25x25, 23x20 mm) in 3x3 or 3x4, sent the look we like, and asked for other stock cases, mould cost, unit price at 2,000 and 5,000, whether MOQ 5,000 also applies to a stock case with our colour and logo, and sample cost to Poland.
-Original: `raw/suppliers/picca/2026-10-29 email sent.md`
+Original: [[raw/suppliers/picca/2026-10-29 email sent|2026-10-29 email sent]]
+
+## Files
+
+Everything saved for this page under `raw/suppliers/picca/`.
+
+- [[raw/suppliers/picca/2026-10-29 CE419-4R 4 round wells.jpg|2026-10-29 CE419-4R 4 round wells.jpg]]
+- [[raw/suppliers/picca/2026-10-29 CE419-9S 9 square wells.jpg|2026-10-29 CE419-9S 9 square wells.jpg]]
+- [[raw/suppliers/picca/2026-10-29 CE434 8 wells brush slot.jpg|2026-10-29 CE434 8 wells brush slot.jpg]]
+- [[raw/suppliers/picca/2026-10-29 email reply|2026-10-29 email reply]]
+- [[raw/suppliers/picca/2026-10-29 email sent|2026-10-29 email sent]]
+- [[raw/suppliers/picca/drafts/2026-10-29 reply|drafts/2026-10-29 reply]]
 
 ## Appears in
 

@@ -41,11 +41,18 @@ Shantou Chengfeng Trading Co., Ltd., China. One of the [[Case supplier]] candida
 
 ### 2026-10-29 us and them, Alibaba
 Greg sent the standard inquiry ([[Palette case inquiry email]]). Ivy: logo customisation is possible, asked for the full Polish address. Greg gave his postal address for samples (left out of the vault). Ivy: address noted, they will confirm sample options and costs.
-Original: `raw/suppliers/chengfeng-trading/2026-10-29 alibaba chat.md`
+Original: [[raw/suppliers/chengfeng-trading/2026-10-29 alibaba chat|2026-10-29 alibaba chat]]
 
 ### 2026-10-30 them and us, Alibaba
 Ivy: "I am Ivy from Visonpack"; MOQ 12,000 per model. Greg asked if it is negotiable. Ivy laid out three options (above) and asked layout priority and whether a standard colour is acceptable for a trial. Greg: a customised stock container is fine, 9 or 12 (8 too), no logo yet, pan sizes Ø26 mm and 22x22 / 25x25 / 23x20 mm, include square pans. Ivy will send stock models with well dimensions; filled pans can follow to Greg's address once shortlisted. Ivy's long replies came within a minute.
-Original: `raw/suppliers/chengfeng-trading/2026-10-30 alibaba chat.md`
+Original: [[raw/suppliers/chengfeng-trading/2026-10-30 alibaba chat|2026-10-30 alibaba chat]]
+
+## Files
+
+Everything saved for this page under `raw/suppliers/chengfeng-trading/`.
+
+- [[raw/suppliers/chengfeng-trading/2026-10-29 alibaba chat|2026-10-29 alibaba chat]]
+- [[raw/suppliers/chengfeng-trading/2026-10-30 alibaba chat|2026-10-30 alibaba chat]]
 
 ## Appears in
 

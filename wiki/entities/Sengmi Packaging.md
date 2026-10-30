@@ -22,14 +22,14 @@ Guangzhou Sengmi Packaging Product Co., Ltd., China. One of the [[Case supplier]
 
 As they state it, 2026-10-30:
 
-- **C64 magnetic palette**, 9 round wells, mirror, existing mould (photo: `raw/suppliers/sengmi-packaging/2026-10-30 C64 magnetic 9 round wells mirror.png`, shiny metallic green). **Inner well diameter 21 mm**, so it does not take our Ø26 mm round pans.
+- **C64 magnetic palette**, 9 round wells, mirror, existing mould (photo: [[raw/suppliers/sengmi-packaging/2026-10-30 C64 magnetic 9 round wells mirror.png|2026-10-30 C64 magnetic 9 round wells mirror.png]], shiny metallic green). **Inner well diameter 21 mm**, so it does not take our Ø26 mm round pans.
 - MOQ 5,000 pcs on the existing mould.
 - Logo by hot stamping, silk screen or embossing; customised sample with logo possible.
 - Sample: 2 pcs, shipping about 65 USD (DAP). Incoterms EXW / FOB / DDP.
 - Pre-production sample 7-15 days; mass production 30-35 days.
 - Says they have exported this palette to the EU. Material documentation costs an extra certification fee.
 - Can make an outer paper box. Not recyclable.
-- Catalogue image: 3 series (magnetic, snap-in, clear-top), 12 models for private label, square palettes with mirror in 1, 4, 6, 9-well and other layouts (`raw/suppliers/sengmi-packaging/2026-10-29 catalog 3 series 12 models.png`). Clear-top is out for us (no transparent).
+- Catalogue image: 3 series (magnetic, snap-in, clear-top), 12 models for private label, square palettes with mirror in 1, 4, 6, 9-well and other layouts ([[raw/suppliers/sengmi-packaging/2026-10-29 catalog 3 series 12 models.png|2026-10-29 catalog 3 series 12 models.png]]). Clear-top is out for us (no transparent).
 
 ## Decisions
 
@@ -45,11 +45,20 @@ None yet.
 
 ### 2026-10-29 us and them, Alibaba
 Greg sent the standard inquiry ([[Palette case inquiry email]]). Reply within the same minute, probably automatic: "I'll confirm stock samples and customization details."
-Original: `raw/suppliers/sengmi-packaging/2026-10-29 alibaba chat.md`
+Original: [[raw/suppliers/sengmi-packaging/2026-10-29 alibaba chat|2026-10-29 alibaba chat]]
 
 ### 2026-10-29 to 2026-10-30 them and us, Alibaba
 Meng sent a catalogue image (3 series, 12 models) and a photo of the C64 magnetic palette, then answered the inquiry point by point (see above). Greg thanked them and asked for container dimensions, listing our pan sizes.
-Original: `raw/suppliers/sengmi-packaging/2026-10-30 alibaba chat.md`
+Original: [[raw/suppliers/sengmi-packaging/2026-10-30 alibaba chat|2026-10-30 alibaba chat]]
+
+## Files
+
+Everything saved for this page under `raw/suppliers/sengmi-packaging/`.
+
+- [[raw/suppliers/sengmi-packaging/2026-10-29 alibaba chat|2026-10-29 alibaba chat]]
+- [[raw/suppliers/sengmi-packaging/2026-10-29 catalog 3 series 12 models.png|2026-10-29 catalog 3 series 12 models.png]]
+- [[raw/suppliers/sengmi-packaging/2026-10-30 C64 magnetic 9 round wells mirror.png|2026-10-30 C64 magnetic 9 round wells mirror.png]]
+- [[raw/suppliers/sengmi-packaging/2026-10-30 alibaba chat|2026-10-30 alibaba chat]]
 
 ## Appears in
 

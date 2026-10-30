@@ -41,3 +41,16 @@ Open questions:
 - Is a metallic finish what Greg wants, or matte (as in the inquiry)?
 
 Feeds: [[Packaging]] · [[Case supplier]]
+
+## Files
+
+Everything saved for this page under `raw/inspiration/case/`.
+
+- [[raw/inspiration/case/2026-10-25 1 gold mirror 8 square pans.png|2026-10-25 1 gold mirror 8 square pans.png]]
+- [[raw/inspiration/case/2026-10-25 2 rose gold 20 square pans.png|2026-10-25 2 rose gold 20 square pans.png]]
+- [[raw/inspiration/case/2026-10-25 3 YSL gold quilted lid 9 pans.png|2026-10-25 3 YSL gold quilted lid 9 pans.png]]
+- [[raw/inspiration/case/2026-10-25 4 Patrick Ta champagne 6 pans.png|2026-10-25 4 Patrick Ta champagne 6 pans.png]]
+- [[raw/inspiration/case/2026-10-25 5 Makeup by Mario silver 12 pans.png|2026-10-25 5 Makeup by Mario silver 12 pans.png]]
+- [[raw/inspiration/case/2026-10-25 6 Notino frosted lid 6 round pans.png|2026-10-25 6 Notino frosted lid 6 round pans.png]]
+- [[raw/inspiration/case/2026-10-25 7 MAC black 6 round pans.png|2026-10-25 7 MAC black 6 round pans.png]]
+

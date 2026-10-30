@@ -11,7 +11,7 @@ tags: [source, packaging]
 
 ## What it is
 
-Greg's draft inquiry email to palette case manufacturers (original in `raw/2026-10-19 palette case inquiry email.md`), plus a web search by Claude for manufacturers of empty plastic eyeshadow palettes, Europe first. Done in the project thread "Producent pustych palet".
+Greg's draft inquiry email to palette case manufacturers (original in [[raw/2026-10-19 palette case inquiry email|2026-10-19 palette case inquiry email]]), plus a web search by Claude for manufacturers of empty plastic eyeshadow palettes, Europe first. Done in the project thread "Producent pustych palet".
 
 ## What it says
 

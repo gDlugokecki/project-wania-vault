@@ -43,18 +43,29 @@ Sent the standard inquiry ([[Palette case inquiry email]]).
 ### 2026-10-23 them, Alibaba
 Asked to see an image of what we need.
 
-Original: `raw/suppliers/choebe-package/2026-10-23 alibaba chat.md`
+Original: [[raw/suppliers/choebe-package/2026-10-23 alibaba chat|2026-10-23 alibaba chat]]
 
 ### 2026-10-25 us, Alibaba
 Greg sent all seven inspiration pictures ([[2026-10-25 Case inspiration from Greg]]) and his standard list (quality plastic, big mirror, glued pans, 3x3 or 3x4, magnetic lid; stock? portfolio? samples to Poland?). No answer yet.
-Original: `raw/suppliers/choebe-package/2026-10-25 alibaba chat.md`
+Original: [[raw/suppliers/choebe-package/2026-10-25 alibaba chat|2026-10-25 alibaba chat]]
 
 ### 2026-10-26 them and us, Alibaba
 Doreen sent A168A3 and A237D1 and said MOQ is 5,000 per colour and design, asking if we need customisation. Greg: A237D1 is very close; yes, logo and a different colour; is 5,000 negotiable?
 
 ### 2026-10-29 us, Alibaba
 Greg asked again whether the 5,000 MOQ is negotiable. No answer yet.
-Original: `raw/suppliers/choebe-package/2026-10-29 alibaba chat.md`
+Original: [[raw/suppliers/choebe-package/2026-10-29 alibaba chat|2026-10-29 alibaba chat]]
+
+## Files
+
+Everything saved for this page under `raw/suppliers/choebe-package/`.
+
+- [[raw/suppliers/choebe-package/2026-10-23 alibaba chat|2026-10-23 alibaba chat]]
+- [[raw/suppliers/choebe-package/2026-10-25 alibaba chat|2026-10-25 alibaba chat]]
+- [[raw/suppliers/choebe-package/2026-10-26 A168A3 28 square pans mirror.png|2026-10-26 A168A3 28 square pans mirror.png]]
+- [[raw/suppliers/choebe-package/2026-10-26 A237D1 8 pans mirror.png|2026-10-26 A237D1 8 pans mirror.png]]
+- [[raw/suppliers/choebe-package/2026-10-29 alibaba chat|2026-10-29 alibaba chat]]
+- [[raw/suppliers/choebe-package/drafts/2026-10-23 reply|drafts/2026-10-23 reply]]
 
 ## Appears in
 

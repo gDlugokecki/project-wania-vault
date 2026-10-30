@@ -39,7 +39,16 @@ Sent the standard inquiry ([[Palette case inquiry email]]).
 
 ### by 2026-10-29 them, email
 Yoyo: they are a paper-packaging factory; asked whether we are interested in a paper palette and offered to customise one; attached a brief and a production presentation (not in the vault).
-Original: `raw/suppliers/colorich/2026-10-29 email reply.md`
+Original: [[raw/suppliers/colorich/2026-10-29 email reply|2026-10-29 email reply]]
+
+## Files
+
+Everything saved for this page under `raw/suppliers/colorich/`.
+
+- [[raw/suppliers/colorich/2026-10-29 email reply|2026-10-29 email reply]]
+- [[raw/suppliers/colorich/2026-10-29 paper palette 12 round wells mirror.jpg|2026-10-29 paper palette 12 round wells mirror.jpg]]
+- [[raw/suppliers/colorich/2026-10-29 paper palette 9 round wells no mirror.jpg|2026-10-29 paper palette 9 round wells no mirror.jpg]]
+- [[raw/suppliers/colorich/2026-10-29 paper palette 9 square wells mirror.jpg|2026-10-29 paper palette 9 square wells mirror.jpg]]
 
 ## Appears in
 

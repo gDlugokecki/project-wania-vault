@@ -49,15 +49,30 @@ In Polish (probably Alibaba's translation): will read the requirements and reply
 ### 2026-10-23 them, Alibaba
 No existing case with our exact dimensions; new tooling is expensive, so they sent photos of similar cases. If one of them works we skip the mould cost. Three catalog pages attached.
 
-Original: `raw/suppliers/lihui-plastic/2026-10-23 alibaba chat.md`
+Original: [[raw/suppliers/lihui-plastic/2026-10-23 alibaba chat|2026-10-23 alibaba chat]]
 
 ### 2026-10-25 us, Alibaba
 Greg sent inspiration pictures 3, 7 and 6 ([[2026-10-25 Case inspiration from Greg]]) and asked for something similar to their ZZYSX-9183 or ZZYSX-9358 (from the catalog pages) or to the pictures, with 3x3 or 3x4 Ø26 mm pans, or rectangular pans 22x22, 25x25 or 23x20 mm. No answer yet.
-Original: `raw/suppliers/lihui-plastic/2026-10-25 alibaba chat.md`
+Original: [[raw/suppliers/lihui-plastic/2026-10-25 alibaba chat|2026-10-25 alibaba chat]]
 
 ### 2026-10-26 to 2026-10-27, Alibaba
 Mark (in Polish): nothing matches exactly; sent close sizes (5019, 9349B, a catalog page). Greg: we can only use 22x22, 25x25, 23x20 mm or Ø26 mm. Mark: no ready product in those sizes; offered A) custom in our size (send drawing/photos/sample and quantity for a mould and unit price) or B) other sizes.
-Original: `raw/suppliers/lihui-plastic/2026-10-29 alibaba chat.md`
+Original: [[raw/suppliers/lihui-plastic/2026-10-29 alibaba chat|2026-10-29 alibaba chat]]
+
+## Files
+
+Everything saved for this page under `raw/suppliers/lihui-plastic/`.
+
+- [[raw/suppliers/lihui-plastic/2026-10-23 alibaba chat|2026-10-23 alibaba chat]]
+- [[raw/suppliers/lihui-plastic/2026-10-23 catalog page 46.png|2026-10-23 catalog page 46.png]]
+- [[raw/suppliers/lihui-plastic/2026-10-23 catalog page 48.png|2026-10-23 catalog page 48.png]]
+- [[raw/suppliers/lihui-plastic/2026-10-23 catalog pages 95-97.png|2026-10-23 catalog pages 95-97.png]]
+- [[raw/suppliers/lihui-plastic/2026-10-25 alibaba chat|2026-10-25 alibaba chat]]
+- [[raw/suppliers/lihui-plastic/2026-10-26 ZZYSX-5019 9 square wells.png|2026-10-26 ZZYSX-5019 9 square wells.png]]
+- [[raw/suppliers/lihui-plastic/2026-10-26 ZZYSX-9349B 12 wells.png|2026-10-26 ZZYSX-9349B 12 wells.png]]
+- [[raw/suppliers/lihui-plastic/2026-10-26 catalog page 9294F to 5015E.png|2026-10-26 catalog page 9294F to 5015E.png]]
+- [[raw/suppliers/lihui-plastic/2026-10-29 alibaba chat|2026-10-29 alibaba chat]]
+- [[raw/suppliers/lihui-plastic/drafts/2026-10-23 reply|drafts/2026-10-23 reply]]
 
 ## Appears in
 

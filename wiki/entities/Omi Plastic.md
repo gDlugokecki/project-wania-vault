@@ -56,15 +56,27 @@ Instant reply: will confirm stock samples, pricing, samples to Poland, materials
 ### 2026-10-23 them, Alibaba
 Sent drawings of four stock models (3047, 3025, 3011, 3012), offered a quote for any of them, and said their MOQ is 10,000 pcs.
 
-Original: `raw/suppliers/omi-plastic/2026-10-23 alibaba chat.md`
+Original: [[raw/suppliers/omi-plastic/2026-10-23 alibaba chat|2026-10-23 alibaba chat]]
 
 ### 2026-10-25 us and them, Alibaba
 Greg: 2,000 units, a stock model with colour customisation and logo, not a custom design. Sent inspiration pictures 7, 6, 3 and 4 ([[2026-10-25 Case inspiration from Greg]]) and his standard list (quality plastic, big mirror, glued pans, 3x3 or 3x4, pan sizes, magnetic lid; stock? portfolio? samples to Poland?). Kevin: will confirm similar stock options and sample shipping with the manager; MOQ is 10,000 but he will check 2,000. Asked for style, finish and logo file.
-Original: `raw/suppliers/omi-plastic/2026-10-25 alibaba chat.md`
+Original: [[raw/suppliers/omi-plastic/2026-10-25 alibaba chat|2026-10-25 alibaba chat]]
 
 ### 2026-10-26 them and us, Alibaba
 Kevin: cannot support 2,000 pcs; the manager only starts production at 10,000. Logo customisation is possible. Greg thanked him.
-Original: `raw/suppliers/omi-plastic/2026-10-29 alibaba chat.md`
+Original: [[raw/suppliers/omi-plastic/2026-10-29 alibaba chat|2026-10-29 alibaba chat]]
+
+## Files
+
+Everything saved for this page under `raw/suppliers/omi-plastic/`.
+
+- [[raw/suppliers/omi-plastic/2026-10-23 3011 and 3012 12-well.png|2026-10-23 3011 and 3012 12-well.png]]
+- [[raw/suppliers/omi-plastic/2026-10-23 3025 9-well mirror.png|2026-10-23 3025 9-well mirror.png]]
+- [[raw/suppliers/omi-plastic/2026-10-23 3047 9-well clear lid.png|2026-10-23 3047 9-well clear lid.png]]
+- [[raw/suppliers/omi-plastic/2026-10-23 alibaba chat|2026-10-23 alibaba chat]]
+- [[raw/suppliers/omi-plastic/2026-10-25 alibaba chat|2026-10-25 alibaba chat]]
+- [[raw/suppliers/omi-plastic/2026-10-29 alibaba chat|2026-10-29 alibaba chat]]
+- [[raw/suppliers/omi-plastic/drafts/2026-10-23 reply|drafts/2026-10-23 reply]]
 
 ## Appears in
 

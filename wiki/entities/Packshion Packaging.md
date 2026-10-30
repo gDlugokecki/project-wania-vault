@@ -16,7 +16,7 @@ Dongguan Packshion Printing & Packaging Co., Ltd., China. Not on Greg's list: th
 - **Status:** paper boxes only, confirmed (2026-10-26)
 - **Where:** Dongguan, China
 - **Contact:** Kelly Chen, Alibaba chat
-- **Next step:** keep for the outer box question; no reply needed until we decide on a box. Draft reply ready: `raw/suppliers/packshion-packaging/drafts/2026-10-23 reply.md` (not sent)
+- **Next step:** keep for the outer box question; no reply needed until we decide on a box. Draft reply ready: [[raw/suppliers/packshion-packaging/drafts/2026-10-23 reply|2026-10-23 reply]] (not sent)
 
 ## What they can provide
 
@@ -41,11 +41,19 @@ None yet.
 ### 2026-10-22 them, Alibaba
 Quote on our RFQ for a paper lipstick box (MOQ 100, USD 0.29), plus a message offering paper drawer boxes, samples in 3-5 days, and asking about transport and box reinforcement.
 
-Original: `raw/suppliers/packshion-packaging/2026-10-23 alibaba chat.md`
+Original: [[raw/suppliers/packshion-packaging/2026-10-23 alibaba chat|2026-10-23 alibaba chat]]
 
 ### 2026-10-26 us and them, Alibaba
 Greg asked if they offer plastic containers (sent picture 7). Kelly: only paper, they only make packaging boxes.
-Original: `raw/suppliers/packshion-packaging/2026-10-29 alibaba chat.md`
+Original: [[raw/suppliers/packshion-packaging/2026-10-29 alibaba chat|2026-10-29 alibaba chat]]
+
+## Files
+
+Everything saved for this page under `raw/suppliers/packshion-packaging/`.
+
+- [[raw/suppliers/packshion-packaging/2026-10-23 alibaba chat|2026-10-23 alibaba chat]]
+- [[raw/suppliers/packshion-packaging/2026-10-29 alibaba chat|2026-10-29 alibaba chat]]
+- [[raw/suppliers/packshion-packaging/drafts/2026-10-23 reply|drafts/2026-10-23 reply]]
 
 ## Appears in
 
