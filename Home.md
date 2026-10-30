@@ -2,7 +2,7 @@
 title: Home
 type: index
 created: 2026-10-11
-updated: 2026-10-19
+updated: 2026-10-30
 tags: [index]
 ---
 
@@ -30,7 +30,7 @@ Graph view: open this folder in Obsidian, or see the [graph page](https://claude
 
 ## Key topics
 
-[[Compliance and CPNP]] · [[Pricing and costs]] · [[Packaging]] · [[Brand name]] · [[Legal pages]] · [[Company registration]] · [[VAT and tax]] · [[Production environment]]
+[[Compliance and CPNP]] · [[Pricing and costs]] · [[Packaging]] · [[Plastic packaging rules and import]] · [[Brand name]] · [[Legal pages]] · [[Company registration]] · [[VAT and tax]] · [[Production environment]]
 
 ## Who and what
 
@@ -46,6 +46,7 @@ Systems: [[bvt-ecommerce]] · [[Staging shop]] · [[Store design prototype]]
 - [[2026-10-12 Claude Design store prototype]]
 - [[2026-10-19 Palette case supplier search]]
 - [[2026-10-25 Case inspiration from Greg]]
+- [[2026-10-30 EU plastic packaging and import research]]
 
 ## Gaps
 

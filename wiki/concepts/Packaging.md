@@ -16,6 +16,10 @@ The palette case and its design.
 - Must fit the producer's pans. The [[Producer]] fills and glues the pans, so the case is delivered empty, to the producer.
 - Design comes from the [[Branding agency]] and must carry the compliance label. ([[Brand]], [[Compliance and CPNP]])
 
+## Rules and import
+
+Plastic is not banned for cosmetic packaging in the EU. What applies (PPWR recyclability and recycled content from 2030, safety documents for the case, customs duty, import VAT, BDO): [[Plastic packaging rules and import]] (2026-10-30).
+
 ## Case spec (from the inquiry email, 2026-10-19)
 
 Email ready to send: [[Palette case inquiry email]].
@@ -39,6 +43,7 @@ Email ready to send: [[Palette case inquiry email]].
 - [ ] Unit price and MOQ ([[Pricing and costs]])
 - [x] Greg's examples of cases he likes: [[2026-10-25 Case inspiration from Greg]] (2026-10-25)
 - [x] Square pans instead of round? Yes, as options: 22x22, 25x25 or 23x20 mm next to round Ø26 mm (Greg, 2026-10-25)
+- [ ] Supplier documents for the case: material spec, REACH/SVHC declaration, heavy-metals test, food-contact declaration, recycled ABS option ([[Plastic packaging rules and import]])
 - [ ] Metallic finish (like most examples) or matte (as in the inquiry)?
 
-Sources: [[2026-10-11 Kickoff Q&A with Greg]], [[2026-10-19 Palette case supplier search]], [[2026-10-25 Case inspiration from Greg]]
+Sources: [[2026-10-11 Kickoff Q&A with Greg]], [[2026-10-19 Palette case supplier search]], [[2026-10-25 Case inspiration from Greg]], [[2026-10-30 EU plastic packaging and import research]]

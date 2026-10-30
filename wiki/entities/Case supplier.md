@@ -11,7 +11,7 @@ tags: [company]
 
 ## What it is
 
-Supplier of the empty plastic palette case. **Not chosen yet.** The [[Producer]] fills the pans and glues them into the case, so the case goes from the supplier to the producer empty. Spec: see [[Packaging]].
+Supplier of the empty plastic palette case. **Not chosen yet.** The [[Producer]] fills the pans and glues them into the case, so the case goes from the supplier to the producer empty. Spec: see [[Packaging]]. Plastic is allowed in the EU; documents to ask for and import costs: [[Plastic packaging rules and import]].
 
 ## Greg's contact list (2026-10-19)
 
@@ -99,6 +99,6 @@ Dropped on 2026-10-19 (palettes not confirmed on their own sites): Euromakeup / 
 
 ## Appears in
 
-[[Product]] · [[Packaging]] · [[Pricing and costs]]
+[[Product]] · [[Packaging]] · [[Pricing and costs]] · [[Plastic packaging rules and import]]
 
 Sources: [[2026-10-11 Kickoff Q&A with Greg]], [[2026-10-19 Palette case supplier search]], Alibaba chats in `raw/suppliers/` (2026-10-23)
