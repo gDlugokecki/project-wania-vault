@@ -2,7 +2,7 @@
 title: Packaging
 type: concept
 created: 2026-10-11
-updated: 2026-10-25
+updated: 2026-10-30
 tags: [product, brand]
 ---
 
@@ -25,6 +25,7 @@ Email ready to send: [[Palette case inquiry email]].
 - **Wells must be fitted to filled pans.** The metal pan stretches slightly when the eyeshadow is pressed, so the case supplier needs finished, filled pans from the [[Producer]] to size the wells. (Greg, 2026-10-22)
 - Large mirror inside the lid, with as small a border as possible (Greg, 2026-10-25); magnetic closure preferred.
 - Sturdy plastic, matte or semi-matte, Pantone colour. **No acrylic and nothing transparent** (no clear lids or clear cases). The case must be either custom or elegant; Greg's examples: [[2026-10-25 Case inspiration from Greg]]. (Greg, 2026-10-23) _Until 2026-10-23 the inquiry listed ABS, AS, PETG or acrylic, superseded._
+- **Existing (stock) mold, customised with logo and Pantone colour; no new mold.** Custom mold cost is asked for comparison only. (Greg, 2026-10-30)
 - Logo by hot stamping, silk screen or embossing.
 - First order: 1,000–2,000 palettes (Greg, 2026-10-22). Quotes asked at 1,000 / 2,000 / 5,000 pcs (was 1,000 / 3,000 / 5,000 in the first draft); samples before ordering; REACH documents; optional outer paper box; recycled-plastic options.
 
