@@ -46,3 +46,4 @@ tags: [log]
 - 2026-10-30 update inquiry email: pan sizes incl. square/rectangular, attached-drawing mention removed -> Palette case inquiry email
 - 2026-10-30 update inquiry email: acrylic removed from materials, finish left open (matte/semi-matte/metallic) -> Palette case inquiry email
 - 2026-10-30 update inquiry email + spec: stock mold with logo and colour, no new mold; custom mold cost for comparison only -> Palette case inquiry email, Packaging
+- 2026-10-30 ingest Alibaba chats (13 with new messages): new pages Beyaqi Cosmetics, Boolong Packaging, Welkin Queen Packaging, Qingrong Packaging, Sambound Packaging; Chengfeng = Visonpack (probably); images saved for Sengmi and Boolong -> raw/suppliers/*/2026-10-30 alibaba chat.md, Walkin Printing, Sengmi Packaging, Nanlong Plastic, Chunbai Plastic, Mingli Plastic, Chengfeng Trading, Case supplier, Packaging

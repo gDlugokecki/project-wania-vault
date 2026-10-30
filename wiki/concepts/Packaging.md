@@ -33,6 +33,8 @@ Email ready to send: [[Palette case inquiry email]].
 
 - [x] Pan diameter: Ø26 mm (2026-10-22)
 - [ ] Send filled sample pans to the chosen case supplier for well fitting
+- [ ] Outer size of a filled pan (round and square) after pressing: [[Chengfeng Trading]] asked on 2026-10-30; ask the [[Producer]]
+- [ ] First order size: the spec says 1,000-2,000, but on 2026-10-30 Greg told [[Mingli Plastic]] that 5,000 is okay and [[Welkin Queen Packaging]] about 5,000. Is 5,000 the new target?
 - [ ] Stock case or custom mould? A stock case avoids mould cost.
 - [ ] Unit price and MOQ ([[Pricing and costs]])
 - [x] Greg's examples of cases he likes: [[2026-10-25 Case inspiration from Greg]] (2026-10-25)

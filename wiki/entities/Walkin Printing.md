@@ -3,7 +3,7 @@ title: Walkin Printing
 type: entity
 kind: company
 created: 2026-10-25
-updated: 2026-10-29
+updated: 2026-10-30
 tags: [company, supplier]
 ---
 
@@ -16,7 +16,7 @@ Zhuhai Walkin Printing Co., Ltd., China. Not on Greg's list: they wrote on 2026-
 - **Status:** rejected: paper only, confirmed (2026-10-27)
 - **Where:** Zhuhai, China
 - **Contact:** Jimmy Su, Alibaba chat
-- **Next step:** none; Greg told them we are looking for plastic
+- **Next step:** none; Greg told them again that plastic is fine in Europe (2026-10-30)
 
 ## What they can provide
 
@@ -47,6 +47,10 @@ Original: `raw/suppliers/walkin-printing/2026-10-25 alibaba chat.md`
 ### 2026-10-26 to 2026-10-29, Alibaba
 Greg asked if they do only paperboard. Jimmy: "yes paper only". On 2026-10-29 he sent a customer's printed palette and asked 9 or 12 colours. Greg: sorry, we are looking for plastic containers.
 Original: `raw/suppliers/walkin-printing/2026-10-29 alibaba chat.md`
+
+### 2026-10-30 them and us, Alibaba
+Jimmy: "let's keep in touch"; invited Greg to visit the factory in China, sent a factory video and an SGS factory test report (PDF, not downloaded), and asked whether plastic is banned in Europe. Greg: not every plastic is banned; there are plenty of plastic containers on the European market.
+Original: `raw/suppliers/walkin-printing/2026-10-30 alibaba chat.md`
 
 ## Appears in
 
