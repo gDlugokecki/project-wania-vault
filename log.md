@@ -44,3 +44,4 @@ tags: [log]
 - 2026-10-29 draft reply to Picca (not sent) -> raw/suppliers/picca/drafts/, Picca International
 - 2026-10-29 Greg sent the Picca reply as drafted -> raw/suppliers/picca/, Picca International, Case supplier
 - 2026-10-30 update inquiry email: pan sizes incl. square/rectangular, attached-drawing mention removed -> Palette case inquiry email
+- 2026-10-30 update inquiry email: acrylic removed from materials, finish left open (matte/semi-matte/metallic) -> Palette case inquiry email
