@@ -2,7 +2,7 @@
 title: Palette case inquiry email
 type: source
 created: 2026-10-19
-updated: 2026-10-22
+updated: 2026-10-30
 tags: [packaging, template]
 ---
 
@@ -10,7 +10,7 @@ tags: [packaging, template]
 
 Email template for the [[Case supplier]] contact list. Based on [[Greg]]'s draft (`raw/2026-10-19 palette case inquiry email.md`), with the placeholders filled where the vault has data. Spec: [[Packaging]].
 
-**Ready to send.** First order 1,000–2,000 palettes added 2026-10-22; price tiers changed from 1,000/3,000/5,000 to 1,000/2,000/5,000 to match. Name added and contact footer removed 2026-10-22 (the email address you send from is the contact). Attach the [[Producer]]'s drawing of the other pan shapes. Pan size Ø26 mm added 2026-10-22. No brand name or website yet ([[Brand name]]), so the email says "name to be announced" and leaves the website out.
+**Ready to send.** First order 1,000–2,000 palettes added 2026-10-22; price tiers changed from 1,000/3,000/5,000 to 1,000/2,000/5,000 to match. Name added and contact footer removed 2026-10-22 (the email address you send from is the contact). Pan size Ø26 mm added 2026-10-22. 2026-10-30: square / rectangular pans (22x22, 25x25, 23x20 mm) added to the Pans line, and the line about an attached drawing removed, because Greg does not attach a drawing. Superseded wording (2026-10-22): "Pans: our standard pan is round, Ø26 mm. Other pan shapes are also available; please see the attached drawing." No brand name or website yet ([[Brand name]]), so the email says "name to be announced" and leaves the website out.
 
 ---
 
@@ -22,7 +22,7 @@ My name is Grzegorz Długokęcki and I am launching a new eyeshadow brand based 
 
 Product specification:
 - Layout: 9 shades (3x3) or 12 shades (3x4). Please quote both options.
-- Pans: our standard pan is round, Ø26 mm. Other pan shapes are also available; please see the attached drawing. Pans will be filled and glued into the palette by my eyeshadow supplier, so the palettes will be delivered empty.
+- Pans: round Ø26 mm, or square / rectangular 22x22 mm, 25x25 mm or 23x20 mm. Please tell me which of these sizes your existing palettes can take. Pans will be filled and glued into the palette by my eyeshadow supplier, so the palettes will be delivered empty.
 - Well fitting: the metal pan stretches slightly when the eyeshadow is pressed, so the wells must be fitted to filled pans, not to empty ones. We will send you filled sample pans for this. Please confirm that you can size the wells (diameter and depth) to these samples, and where we should send them.
 - Mirror: large, good-quality mirror covering the inside of the lid, securely attached.
 - Closure: magnetic closure preferred. Please also suggest other options you offer.
