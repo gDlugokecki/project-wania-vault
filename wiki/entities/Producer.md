@@ -3,7 +3,7 @@ title: Producer
 type: entity
 kind: company
 created: 2026-10-11
-updated: 2026-10-25
+updated: 2026-11-03
 tags: [company]
 ---
 
@@ -17,6 +17,7 @@ The eyeshadow manufacturer we are testing. Delivers EU [[Compliance and CPNP|com
 - Standard pan: round Ø26 mm; other pan shapes available, including square / rectangular 22x22, 25x25 and 23x20 mm (Greg, 2026-10-25). Pans stretch slightly when pressed, so case wells are fitted to filled pans (2026-10-22, [[Packaging]]).
 - Pricing, MOQ and compliance fee: not received yet ([[Pricing and costs]]).
 - _Company name and contact: not recorded yet._
+- **Next step (2026-11-03):** ask the exact size of a filled 22x22 pan and whether it fits a 21.9 / 21.6 mm well, 4.2 mm deep ([[Sambound Packaging]] YR3121A). Draft: [[raw/suppliers/producer/drafts/2026-11-03 pan size email|2026-11-03 pan size email]]
 
 ## Appears in
 
