@@ -3,7 +3,7 @@ title: Beyaqi Cosmetics
 type: entity
 kind: company
 created: 2026-10-30
-updated: 2026-10-30
+updated: 2026-11-03
 tags: [company, supplier]
 ---
 
@@ -16,7 +16,7 @@ Beyaqi Cosmetics (Hangzhou) Co., Ltd., China, Alibaba store `beiyaqi`. The name 
 - **Status:** MOQ usually 12,000
 - **Where:** Hangzhou, China
 - **Contact:** Franzi Weng, Alibaba chat
-- **Next step:** wait: Greg asked if the MOQ is lower for stock items with logo and colour only
+- **Next step:** wait: they asked for drawings; Greg sent reference palettes instead
 
 ## What they can provide
 
@@ -41,12 +41,17 @@ Original: [[raw/suppliers/beyaqi-cosmetics/2026-10-29 alibaba chat|2026-10-29 al
 Franzi thanked us; MOQ usually 12,000. Greg asked whether that is negotiable for stock items, since we want a ready mould with our logo and colour, and sent our pan sizes.
 Original: [[raw/suppliers/beyaqi-cosmetics/2026-10-30 alibaba chat|2026-10-30 alibaba chat]]
 
+### 2026-10-30 to 2026-10-31 them and us, Alibaba
+Franzi asked for the drawings mentioned in the old inquiry. Greg apologised (no drawing) and sent three reference palette pictures. Franzi: thank you. No answer yet on MOQ for stock items.
+Original: [[raw/suppliers/beyaqi-cosmetics/2026-11-03 alibaba chat|2026-11-03 alibaba chat]]
+
 ## Files
 
 Everything saved for this page under `raw/suppliers/beyaqi-cosmetics/`.
 
 - [[raw/suppliers/beyaqi-cosmetics/2026-10-29 alibaba chat|2026-10-29 alibaba chat]]
 - [[raw/suppliers/beyaqi-cosmetics/2026-10-30 alibaba chat|2026-10-30 alibaba chat]]
+- [[raw/suppliers/beyaqi-cosmetics/2026-11-03 alibaba chat|2026-11-03 alibaba chat]]
 
 ## Appears in
 

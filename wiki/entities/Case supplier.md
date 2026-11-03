@@ -3,7 +3,7 @@ title: Case supplier
 type: entity
 kind: company
 created: 2026-10-11
-updated: 2026-10-30
+updated: 2026-11-03
 tags: [company]
 ---
 
@@ -31,25 +31,25 @@ Statuses: inquiry sent → replied → quote received → samples ordered → sa
 | # | Supplier | Where | Link | Status | Last contact | Next step |
 |---|---|---|---|---|---|---|
 | 1 | [[Yihong Plastic]] (hkyihong) | China (Alibaba) | [eyeshadow cases](https://hkyihong.m.en.alibaba.com/productgrouplist-819526332-8/Eyeshadow_Case.html) · [store](https://hkyihong.m.en.alibaba.com/) | no fit: only moulds E284C / YH-E577B; MOQ 12,000 per style | 2026-10-28 "only this mold" | none for now |
-| 2 | [[Lihui Plastic]] (lihuiplastic) | China (Alibaba) | [company profile](https://lihuiplastic.en.alibaba.com/company_profile.html) | no stock in our pan sizes; offers custom quote | 2026-10-27 asked: custom (A) or other sizes (B)? | Greg to answer A or B |
+| 2 | [[Lihui Plastic]] (lihuiplastic) | China (Alibaba) | [company profile](https://lihuiplastic.en.alibaba.com/company_profile.html) | rejected for now: custom moulding only, no stock (2026-11-02) | 2026-11-02 | none |
 | 3 | [[Omi Plastic]] (ominatural) | China (Alibaba) | [eyeshadow cases](https://ominatural.m.en.alibaba.com/productgrouplist-801504579-4/Eyeshadow_Case.html) | rejected for now: MOQ 10,000 firm | 2026-10-26 can't do 2,000 | none |
-| 4 | [[Nanlong Plastic]] (gdnanlong) | China (Alibaba) | [company profile](https://gdnanlong.en.alibaba.com/company_profile.html) | custom MOQ 12,000, nothing in stock; checking a smaller trial on an existing mould; free stock samples | 2026-10-30 asked for address | Greg to send delivery address for samples |
+| 4 | [[Nanlong Plastic]] (gdnanlong) | China (Alibaba) | [company profile](https://gdnanlong.en.alibaba.com/company_profile.html) | custom MOQ 12,000; factory checking a smaller first batch; free stock samples | 2026-10-31 | wait; samples need Greg's address |
 | 5 | [[Choebe Package]] (cnchoebe) | China (Alibaba) | [store](https://cnchoebe.m.en.alibaba.com/) | quote received: MOQ 5,000 per colour/design; A237D1 close | 2026-10-29 Greg asked if 5,000 is negotiable | wait for answer |
 | 6 | [[Stardust Trading]] (stardustcosmetics) | China (Alibaba) | [company profile](https://stardustcosmetics.en.alibaba.com/company_profile.html) | custom needs mould, MOQ 12,000; small orders only from stock | 2026-10-27 | decide on a stock sample |
 | 7 | Toly | Malta (EU) | [contact form](https://www.toly.com/en/contact/) | inquiry sent | 2026-10-22 inquiry sent | wait for reply |
 | 8 | [[Picca International]] | Taichung, Taiwan | [picca.com.tw](https://www.picca.com.tw/) · picca@ms16.hinet.net · +886 4 2389 7607 | replied: stock cases don't fit; custom MOQ around 5,000 (recommended by Irmina) | 2026-10-29 we asked for a custom quote | wait for reply |
 | 9 | TimeSource Enterprise | Taiwan | [timesourcetw.com](https://www.timesourcetw.com/) (calls itself an empty case packaging supplier) · contact form · +886 2 2546 8289 | inquiry sent (recommended by Irmina) | 2026-10-22 inquiry sent | wait for reply |
 | 10 | [[Colorich]] | Zhongshan, China | [colorichpkg.com](https://www.colorichpkg.com/) · admin@colorichpkg.com · MOQ 500; mostly paper palettes, so ask for plastic | replied: paper palettes only (recommended by Irmina) | 2026-10-29 email | none while we want plastic |
-| 11 | [[Sambound Packaging]] (cosmeticpackagingvn) | Alibaba (location not recorded) | [store](https://cosmeticpackagingvn.m.trustpass.alibaba.com/) · product Greg looked at: id 1601277046631 | no fit: public moulds don't take 9/12 round pans; sent catalogue | 2026-10-30 | Greg's draft about other pan sizes is unsent |
+| 11 | [[Sambound Packaging]] (cosmeticpackagingvn) | Alibaba (location not recorded) | [store](https://cosmeticpackagingvn.m.trustpass.alibaba.com/) · product Greg looked at: id 1601277046631 | YR3121A 9-well + mirror 0.8 USD FOB, MOQ 10,000 (2k a bit dearer); wells 21.9 mm, probably too small | 2026-11-03 | Greg to check 22x22 fit with producer |
 | 12 | [[Chengfeng Trading]] (Shantou Chengfeng Trading Co., Ltd.) | Shantou, China (Alibaba) | Alibaba chat, contact Ivy Lin | custom MOQ 12,000/model; offers stock-based start with lower MOQ; preparing stock models with well sizes | 2026-10-30 | wait for stock models + well dimensions |
 | 13 | Visonpack (visonpack) | Alibaba (location not recorded) | [store](https://visonpack.m.en.alibaba.com/) · product Greg looked at: id 1600940948080 | probably the same company as row 12: Ivy Lin (Chengfeng chat) introduced herself as "Ivy from Visonpack" (2026-10-30, not confirmed) | - | see [[Chengfeng Trading]] |
-| 14 | [[Beyaqi Cosmetics]] (beiyaqi) | Hangzhou, China (Alibaba) | [store](https://beiyaqi.m.en.alibaba.com/) · product Greg looked at: id 1600427300728 · Alibaba chat, contact Franzi Weng | MOQ usually 12,000 | 2026-10-30 Greg asked about stock items | wait for reply |
-| 15 | [[Sengmi Packaging]] (seng-mi) | Guangzhou, China (Alibaba) | [store](https://seng-mi.m.en.alibaba.com/) · product Greg looked at: id 1601723433116 · Alibaba chat, contact Meng Smith | stock C64 magnetic 9-well, MOQ 5,000, but wells Ø21 mm (too small) | 2026-10-30 Greg asked for well sizes of other models | wait for dimensions |
-| 16 | [[Boolong Packaging]] | Ningbo, China (Alibaba) | Alibaba chat, contact Mia Shen | offered stock PC7037 (9 square wells ~24 mm grid, snap-on, mirror, ABS); MOQ not stated | 2026-10-30 | ask MOQ, price, exact well size |
-| 17 | [[Qingrong Packaging]] (qingrongpacking) | Ningbo, China (Alibaba) | [store](https://qingrongpacking.m.en.alibaba.com/) · product Greg looked at: id 1601734451467 · Alibaba chat, contact Becky Gao | asked for our design; Greg: we want ready containers | 2026-10-30 | wait for stock options |
-| 18 | [[Chunbai Plastic]] (chunbaipacking) | Shijiazhuang, China (Alibaba) | [store](https://chunbaipacking.m.en.alibaba.com/) · product Greg looked at: id 1601885854837 | handed over to Bella Wang (sales); no offer yet | 2026-10-30 inquiry resent | wait for Bella's answer |
-| 19 | [[Mingli Plastic]] (mingliplastic) | Guangzhou, China (Alibaba) | [store](https://mingliplastic.m.en.alibaba.com/) · product Greg looked at: id 1601824093625 | MOQ 5,000; checking stock 9/8-well moulds for round and square pans | 2026-10-30 Greg said 5,000 is okay | wait for product manager |
-| 20 | [[Welkin Queen Packaging]] (cnzjtianyun) | Zhejiang, China (Alibaba) | [store](https://cnzjtianyun.m.en.alibaba.com/) · product Greg looked at: id 1601277973106 | 9-well round snap-fit ABS, MOQ 12,000; wants to talk by email | 2026-10-30 Greg asked about ~5,000 | wait for reply (maybe by email) |
+| 14 | [[Beyaqi Cosmetics]] (beiyaqi) | Hangzhou, China (Alibaba) | [store](https://beiyaqi.m.en.alibaba.com/) · product Greg looked at: id 1600427300728 · Alibaba chat, contact Franzi Weng | MOQ usually 12,000; asked for drawings, got reference pictures | 2026-10-31 | wait |
+| 15 | [[Sengmi Packaging]] (seng-mi) | Guangzhou, China (Alibaba) | [store](https://seng-mi.m.en.alibaba.com/) · product Greg looked at: id 1601723433116 · Alibaba chat, contact Meng Smith | C64 quote 2.39 USD x 2,000, but Ø21 mm wells; say they can do 22x22 / Ø26 (mould?) | 2026-11-03 | ask about mould cost and MOQ for 22x22 / Ø26 |
+| 16 | [[Boolong Packaging]] | Ningbo, China (Alibaba) | Alibaba chat, contact Mia Shen | PC7037 MOQ 10,000 (lowered from 12,000) | 2026-11-02 | decide; 10,000 is above plan |
+| 17 | [[Qingrong Packaging]] (qingrongpacking) | Ningbo, China (Alibaba) | [store](https://qingrongpacking.m.en.alibaba.com/) · product Greg looked at: id 1601734451467 · Alibaba chat, contact Becky Gao | MOQ 10,000 for the 9-pan model | 2026-11-01 Greg asked about 3-5k | wait |
+| 18 | [[Chunbai Plastic]] (chunbaipacking) | Shijiazhuang, China (Alibaba) | [store](https://chunbaipacking.m.en.alibaba.com/) · product Greg looked at: id 1601885854837 | no offer; four contacts, bottle maker | 2026-11-03 | probably drop |
+| 19 | [[Mingli Plastic]] (mingliplastic) | Guangzhou, China (Alibaba) | [store](https://mingliplastic.m.en.alibaba.com/) · product Greg looked at: id 1601824093625 | 9 listings (MOQ 5-10k, 0.48-8 PLN); no pan sizes yet | 2026-11-02 | wait for pan sizes |
+| 20 | [[Welkin Queen Packaging]] (cnzjtianyun) | Zhejiang, China (Alibaba) | [store](https://cnzjtianyun.m.en.alibaba.com/) · product Greg looked at: id 1601277973106 | details sent by email; asking for news | 2026-11-03 | Greg to read Jolin's email |
 
 Rows 1-6 updated 2026-10-23, 2026-10-25 and 2026-10-29 from the Alibaba chats (read through Claude in Chrome); each supplier now has its own page. Rows 11-12 added 2026-10-29: Greg contacted them that day. Row 13 added the same day from a link Greg sent. Rows 14-17: Alibaba chats that appeared in Greg's inbox on the evening of 2026-10-29. Rows 18-20 and the links for 14, 15 and 17: from Greg, 2026-10-29 (Greg contacted them that day). Shijiazhuang Qinna: no chat found, not confirmed as contacted (2026-10-29). Rows 8-10 added on 2026-10-22, recommended by Irmina (who she is: not recorded yet). Greg's list had hkyihong twice (a product group and the store page); merged into one row.
 
@@ -59,19 +59,21 @@ Rows 1-6 updated 2026-10-23, 2026-10-25 and 2026-10-29 from the Alibaba chats (r
 |---|---|---|---|---|---|---|
 | [[Omi Plastic]] | 10,000 (firm, 2026-10-26) | not yet | stock moulds | not yet | not yet | stock 3025 (9 x Ø28, mirror) closest; 3011/3012 wells too small |
 | [[Stardust Trading]] | 1 (stock) | 15.05-23.76 PLN (ABS mirror 12-well, listing range) | stock | not yet | not yet | acrylic 9/12-well from 9.90 PLN, no mirror possible |
-| [[Lihui Plastic]] | not yet | not yet | custom mould "high"; quote needs drawing + quantity | not yet | not yet | no stock in our pan sizes (2026-10-27) |
+| [[Lihui Plastic]] | n/a | n/a | custom moulding only | n/a | n/a | no stock palettes (2026-11-02) |
 | [[Kaiya Cosmetics]] | 12,000 | USD 1.13 | n/a | not yet | not yet | paper palette, not plastic |
 | [[Choebe Package]] | 5,000 per colour and design | not yet | stock moulds (A237D1, A168A3) | not yet | not yet | A237D1 close to what we want; asked if MOQ negotiable |
 | [[Picca International]] | around 5,000 | not yet | stock moulds don't fit | not yet | not yet | closest stock CE434 has a brush slot and small wells |
 | [[Stardust Trading]] (custom) | 12,000 | not yet | mould needed | not yet | not yet | small orders only from stock |
 | [[Yihong Plastic]] | 12,000 per style | not yet | only stock moulds E284C, YH-E577B | not yet | not yet | no matching stock (2026-10-28) |
 | [[Chengfeng Trading]] | 12,000 per model (custom); "far lower" on stock moulds | not yet | stock moulds | stock samples, no logo | not yet | listing stock models with well sizes |
-| [[Sengmi Packaging]] | 5,000 (stock C64) | not yet | stock mould | about 65 USD shipping for 2 pcs (DAP) | sample 7-15 days, production 30-35 days | C64 wells Ø21 mm, too small; EU docs cost extra |
+| [[Sengmi Packaging]] | 5,000 (stock C64); quoted at 2,000 | C64: 2.39 USD (15.53 RMB) at 2,000, custom Pantone matte, no print | stock mould | about 65 USD shipping for 2 pcs (DAP) | sample 7-15 days, production 30-35 days | C64 wells Ø21 mm, too small; quote valid 10 days from 2026-11-03 |
 | [[Nanlong Plastic]] | 12,000 (custom) | not yet | checking trial on existing mould | stock samples free, we pay express | not yet | |
-| [[Mingli Plastic]] | 5,000 | not yet | stock moulds being checked | not yet | not yet | |
+| [[Mingli Plastic]] | 5,000 said; listings 5,000-10,000 | listings 0.48-8 PLN | stock moulds | not yet | not yet | no well sizes yet |
+| [[Sambound Packaging]] | 10,000 (2,000 "slightly more expensive") | YR3121A 0.8 USD FOB Shenzhen with mirror (at 10k?); logo print +0.045 USD | stock mould | samples possible | not yet | wells 21.9 mm, 22x22 pan probably too big |
+| [[Qingrong Packaging]] | 10,000 | listing 0.12-0.24 PLN (listing MOQ 1,000) | stock | not yet | not yet | |
 | [[Beyaqi Cosmetics]] | usually 12,000 | not yet | not yet | not yet | not yet | |
 | [[Welkin Queen Packaging]] | 12,000 (9-well); "120000" (12-well, probably a typo) | not yet | stock | not yet | not yet | snap-fit, not magnetic |
-| [[Boolong Packaging]] | not yet | not yet | stock PC7037 | not yet | not yet | snap-on, not magnetic; square wells |
+| [[Boolong Packaging]] | 10,000 (lowered from 12,000) | not yet | stock PC7037 | not yet | not yet | snap-on, not magnetic; square wells ~24 mm grid |
 | [[Walkin Printing]] | not yet | not yet | custom | plain sample 3-5 days | bulk 15-20 working days + 35-45 days DDP | paper only (confirmed 2026-10-27) |
 
 ### Also answered (not on Greg's list)

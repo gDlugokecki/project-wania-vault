@@ -3,7 +3,7 @@ title: Walkin Printing
 type: entity
 kind: company
 created: 2026-10-25
-updated: 2026-10-30
+updated: 2026-11-03
 tags: [company, supplier]
 ---
 
@@ -52,6 +52,10 @@ Original: [[raw/suppliers/walkin-printing/2026-10-29 alibaba chat|2026-10-29 ali
 Jimmy: "let's keep in touch"; invited Greg to visit the factory in China, sent a factory video and an SGS factory test report (PDF, not downloaded), and asked whether plastic is banned in Europe. Greg: not every plastic is banned; there are plenty of plastic containers on the European market.
 Original: [[raw/suppliers/walkin-printing/2026-10-30 alibaba chat|2026-10-30 alibaba chat]]
 
+### 2026-10-31 them, Alibaba
+Jimmy thanked Greg for the plastic information and asked to keep in touch for paper palettes.
+Original: [[raw/suppliers/walkin-printing/2026-11-03 alibaba chat|2026-11-03 alibaba chat]]
+
 ## Files
 
 Everything saved for this page under `raw/suppliers/walkin-printing/`.
@@ -73,6 +77,7 @@ Everything saved for this page under `raw/suppliers/walkin-printing/`.
 - [[raw/suppliers/walkin-printing/2026-10-25 alibaba chat|2026-10-25 alibaba chat]]
 - [[raw/suppliers/walkin-printing/2026-10-29 alibaba chat|2026-10-29 alibaba chat]]
 - [[raw/suppliers/walkin-printing/2026-10-30 alibaba chat|2026-10-30 alibaba chat]]
+- [[raw/suppliers/walkin-printing/2026-11-03 alibaba chat|2026-11-03 alibaba chat]]
 
 ## Appears in
 

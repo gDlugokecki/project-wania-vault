@@ -3,7 +3,7 @@ title: Nanlong Plastic
 type: entity
 kind: company
 created: 2026-10-23
-updated: 2026-10-30
+updated: 2026-11-03
 tags: [company, supplier]
 ---
 
@@ -16,7 +16,7 @@ Shantou Nanlong Plastic Products Co., Ltd., China. Alibaba store `gdnanlong`. On
 - **Status:** custom MOQ 12,000, nothing in stock; checking a smaller trial on an existing unprinted mould; offers free stock samples
 - **Where:** Shantou, China
 - **Contact:** River She, Alibaba chat
-- **Next step:** Greg to send his delivery address so they can quote express shipping for the samples
+- **Next step:** wait for the factory's answer on a smaller first batch; free samples still need Greg's address
 
 ## What they can provide
 
@@ -50,6 +50,10 @@ Original: [[raw/suppliers/nanlong-plastic/2026-10-29 alibaba chat|2026-10-29 ali
 River (in Polish): customised cases MOQ 12,000, nothing in stock. Greg asked if that holds for ready stock moulds. River: will check a smaller trial on an existing unprinted mould and offered free stock samples (we pay express), asked for the delivery address. Greg sent our pan sizes; River noted them and asked again for the address. The English replies came within a minute.
 Original: [[raw/suppliers/nanlong-plastic/2026-10-30 alibaba chat|2026-10-30 alibaba chat]]
 
+### 2026-10-31 them, Alibaba
+River (in Polish): will first confirm with the factory whether a smaller first batch is possible, and let us know if not.
+Original: [[raw/suppliers/nanlong-plastic/2026-11-03 alibaba chat|2026-11-03 alibaba chat]]
+
 ## Files
 
 Everything saved for this page under `raw/suppliers/nanlong-plastic/`.
@@ -57,6 +61,7 @@ Everything saved for this page under `raw/suppliers/nanlong-plastic/`.
 - [[raw/suppliers/nanlong-plastic/2026-10-23 alibaba chat|2026-10-23 alibaba chat]]
 - [[raw/suppliers/nanlong-plastic/2026-10-29 alibaba chat|2026-10-29 alibaba chat]]
 - [[raw/suppliers/nanlong-plastic/2026-10-30 alibaba chat|2026-10-30 alibaba chat]]
+- [[raw/suppliers/nanlong-plastic/2026-11-03 alibaba chat|2026-11-03 alibaba chat]]
 - [[raw/suppliers/nanlong-plastic/drafts/2026-10-23 reply|drafts/2026-10-23 reply]]
 
 ## Appears in

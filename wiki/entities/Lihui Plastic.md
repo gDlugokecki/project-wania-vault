@@ -3,7 +3,7 @@ title: Lihui Plastic
 type: entity
 kind: company
 created: 2026-10-23
-updated: 2026-10-29
+updated: 2026-11-03
 tags: [company, supplier]
 ---
 
@@ -13,10 +13,10 @@ Zhangzhou Lihui Plastic Technology Co., Ltd., China. Alibaba store `lihuiplastic
 
 ## Snapshot
 
-- **Status:** replied: no stock in our pan sizes; offers a custom quote (2026-10-27)
+- **Status:** rejected for now: custom moulding only, no stock palettes (2026-11-02)
 - **Where:** Zhangzhou, China
 - **Contact:** Mark Wu, Alibaba chat
-- **Next step:** Greg to choose: A) custom product in our size (send 2D/3D drawing, photos or sample, and quantity) or B) look at other sizes. Not answered yet. Worth asking about ZZYSX-5011 first (see below)
+- **Next step:** none unless we go for a custom mould
 
 ## What they can provide
 
@@ -26,10 +26,11 @@ Zhangzhou Lihui Plastic Technology Co., Ltd., China. Alibaba store `lihuiplastic
 - **No stock case with our exact dimensions** (2026-10-23). A custom mould is possible but they warn the upfront cost is high and suggest a stock model instead.
 - Sent three catalog pages (2026-10-23), saved in `raw/suppliers/lihui-plastic/`. Model codes start with ZZYSX. Materials are AS, ABS, PS or AS+ABS. A first read of the pages: the round-well models have wells up to D30 (9349C, 6 wells) and D27 (9065H, 5+1 wells). The 9- and 12-well models have smaller or rectangular wells (for example 9054 with 9 x D16, 5018 and 9324A/B with 12 wells of 24.8 x 20.1 mm). None is clearly a 3x3 or 3x4 case with round Ø26 wells.
 - No MOQ, prices, sample cost or lead time yet.
+- 2026-11-02: they do **custom injection moulding only**, no stock eyeshadow palettes.
 
 ## Decisions
 
-None yet.
+- 2026-11-01 Greg chose B (ready sizes) -> we want an existing mould; Lihui has none, so no fit.
 
 ## Open questions
 
@@ -59,6 +60,10 @@ Original: [[raw/suppliers/lihui-plastic/2026-10-25 alibaba chat|2026-10-25 aliba
 Mark (in Polish): nothing matches exactly; sent close sizes (5019, 9349B, a catalog page). Greg: we can only use 22x22, 25x25, 23x20 mm or Ø26 mm. Mark: no ready product in those sizes; offered A) custom in our size (send drawing/photos/sample and quantity for a mould and unit price) or B) other sizes.
 Original: [[raw/suppliers/lihui-plastic/2026-10-29 alibaba chat|2026-10-29 alibaba chat]]
 
+### 2026-10-31 to 2026-11-02 them and us, Alibaba
+Mark asked again: A custom or B stock sizes. Greg: B, otherwise we look elsewhere. Mark: custom moulding only, no stock palettes.
+Original: [[raw/suppliers/lihui-plastic/2026-11-03 alibaba chat|2026-11-03 alibaba chat]]
+
 ## Files
 
 Everything saved for this page under `raw/suppliers/lihui-plastic/`.
@@ -72,6 +77,7 @@ Everything saved for this page under `raw/suppliers/lihui-plastic/`.
 - [[raw/suppliers/lihui-plastic/2026-10-26 ZZYSX-9349B 12 wells.png|2026-10-26 ZZYSX-9349B 12 wells.png]]
 - [[raw/suppliers/lihui-plastic/2026-10-26 catalog page 9294F to 5015E.png|2026-10-26 catalog page 9294F to 5015E.png]]
 - [[raw/suppliers/lihui-plastic/2026-10-29 alibaba chat|2026-10-29 alibaba chat]]
+- [[raw/suppliers/lihui-plastic/2026-11-03 alibaba chat|2026-11-03 alibaba chat]]
 - [[raw/suppliers/lihui-plastic/drafts/2026-10-23 reply|drafts/2026-10-23 reply]]
 
 ## Appears in
