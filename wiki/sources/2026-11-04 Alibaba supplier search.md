@@ -39,6 +39,20 @@ Best fits first. "Low MOQ" matters because most contacted suppliers want 10,000-
 | Shantou Boyu Plastics Co., Ltd. | [boyust](https://boyust.en.alibaba.com) | lip and mascara focus; MOQ 12,000 | lower priority |
 | Shenzhen First Sail Packaging Design & Production Co., Ltd. | [firstsail](https://firstsail.en.alibaba.com/productgrouplist-819482427/Eyeshadow_Palette.html) | found by web search; has an "Eyeshadow Palette" product group | check if plastic or paper |
 
+## Inquiries sent
+
+Greg asked on 2026-11-04 to send the regular inquiry ([[Palette case inquiry email]]) to all 19. Claude sends it through each store's "Contact Supplier" form, which puts it in Greg's Alibaba Message Center.
+
+| Company | Sent | Contact person |
+|---|---|---|
+| Shantou Yiyue Plastic | 2026-11-04 | Sharon Chan |
+| Yiwu L-Zhuang Plastic | 2026-11-04 | Jane Wang |
+| Shantou Rongsheng Plastic | 2026-11-04 | Sunny Zou |
+| Huizhou Yuancheng Technology | 2026-11-04 | Leno Chen |
+| Huizhou Zhongcai Plastic | not yet: Alibaba asked for a CAPTCHA, waiting for Greg | Roc ZC |
+
+The other 14 have not been sent yet.
+
 ## Left out
 
 - Already in the vault: Nanlong, Choebe (also has a second store `dgchoebe`), Welkin Queen, Sengmi, Sambound (also stores `yurpacking` and `cosmeticpackagingvn`), Chengfeng/Visonpack, Yihong, Stardust.

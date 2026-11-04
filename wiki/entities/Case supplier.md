@@ -78,7 +78,7 @@ Rows 1-6 updated 2026-10-23, 2026-10-25 and 2026-10-29 from the Alibaba chats (r
 
 ### Not contacted yet (Alibaba search 2026-11-04)
 
-19 more plastic eyeshadow case makers found on Alibaba, none contacted yet. Best leads on MOQ: Shantou Yiyue (MOQ 500 shown), Yiwu L-Zhuang (MOQ 100 shown), Shantou Rongsheng (MOQ 5,000). Full list: [[2026-11-04 Alibaba supplier search]].
+19 more plastic eyeshadow case makers found on Alibaba. Inquiry sent on 2026-11-04 to 4 of them (Shantou Yiyue, Yiwu L-Zhuang, Shantou Rongsheng, Huizhou Yuancheng); the rest are waiting because Alibaba asked for a CAPTCHA. Best leads on MOQ: Shantou Yiyue (MOQ 500 shown), Yiwu L-Zhuang (MOQ 100 shown), Shantou Rongsheng (MOQ 5,000). Full list: [[2026-11-04 Alibaba supplier search]].
 
 ### Also answered (not on Greg's list)
 
