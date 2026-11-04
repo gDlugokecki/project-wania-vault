@@ -13,7 +13,7 @@ tags: [source, packaging]
 
 Claude searched Alibaba's supplier tab on 2026-11-04 (through Claude in Chrome, Greg's browser) for new [[Case supplier]] candidates that Greg has not contacted yet. Searches: "empty eyeshadow palette with mirror", "empty magnetic eyeshadow palette plastic", "eyeshadow case 9 colors empty". Plus a web search that found two more stores. Facts below are what the search result cards show (years on Alibaba, staff, factory size, main products, one listed price and MOQ). Not checked further: no product pages or well sizes opened yet. Prices are in PLN as Alibaba showed them in Greg's browser, for whatever product the card showed.
 
-## Not contacted yet: plastic eyeshadow case makers
+## Found: plastic eyeshadow case makers (not contacted before 2026-11-04)
 
 Best fits first. "Low MOQ" matters because most contacted suppliers want 10,000-12,000 ([[Packaging]]).
 
@@ -49,9 +49,23 @@ Greg asked on 2026-11-04 to send the regular inquiry ([[Palette case inquiry ema
 | Yiwu L-Zhuang Plastic | 2026-11-04 | Jane Wang |
 | Shantou Rongsheng Plastic | 2026-11-04 | Sunny Zou |
 | Huizhou Yuancheng Technology | 2026-11-04 | Leno Chen |
-| Huizhou Zhongcai Plastic | not yet: Alibaba asked for a CAPTCHA, waiting for Greg | Roc ZC |
+| Huizhou Zhongcai Plastic | 2026-11-04 | Roc ZC (Greg solved a CAPTCHA to send it) |
+| Shantou Jinze Plastics | 2026-11-04 | Michelle zhuang |
+| Shantou Bmei Plastic | 2026-11-04 | Mi Mia |
+| Shantou Zhongju Plastic | 2026-11-04 | June Cai |
+| Shantou Leeyoo Plastic | 2026-11-04 | Peggy Zhuang |
+| Shantou Yuan Tian Cheng Plastic | 2026-11-04 | Kelly Wu |
+| Jinhua Dingbei Packaging | 2026-11-04 | not shown (form said "User name") |
+| Guangdong Pinfanpai Plastic | 2026-11-04 | Iris Zhang |
+| Zhuhai Transmo Plastic | 2026-11-04 | Sally Yang |
+| Youbo Plastic (Guangzhou) | 2026-11-04 | Avon Wang |
+| Hangzhou Ruijing Packaging | 2026-11-04 | Sam Ye |
+| Shanghai Kaijin Packaging | 2026-11-04 | Vicky Qiu |
+| Guangzhou Fenshang Plastic | 2026-11-04 | Jojo Zhou |
+| Shantou Boyu Plastics | 2026-11-04 | Iris Huang |
+| Shenzhen First Sail Packaging | 2026-11-04 | Firstsail Li (store looks like mostly paper packaging) |
 
-The other 14 have not been sent yet.
+All 19 sent. No replies yet.
 
 ## Left out
 

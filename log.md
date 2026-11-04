@@ -55,3 +55,4 @@ tags: [log]
 - 2026-11-03 producer pan email draft v2 (asks for nominal vs real 22x22 size, 21x21 option, Ø20 fallback) -> raw/suppliers/producer/drafts/2026-11-03 pan size email.md
 - 2026-11-04 Alibaba search for new case suppliers (19 not contacted) -> 2026-11-04 Alibaba supplier search, Case supplier
 - 2026-11-04 inquiry sent via Contact Supplier form to Yiyue, L-Zhuang, Rongsheng, Yuancheng (Zhongcai blocked by CAPTCHA) -> 2026-11-04 Alibaba supplier search, Case supplier
+- 2026-11-04 inquiry sent to the remaining 15 new case suppliers (all 19 done) -> 2026-11-04 Alibaba supplier search, Case supplier

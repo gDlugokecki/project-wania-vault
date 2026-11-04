@@ -76,9 +76,9 @@ Rows 1-6 updated 2026-10-23, 2026-10-25 and 2026-10-29 from the Alibaba chats (r
 | [[Boolong Packaging]] | 10,000 (lowered from 12,000) | not yet | stock PC7037 | not yet | not yet | snap-on, not magnetic; square wells ~24 mm grid |
 | [[Walkin Printing]] | not yet | not yet | custom | plain sample 3-5 days | bulk 15-20 working days + 35-45 days DDP | paper only (confirmed 2026-10-27) |
 
-### Not contacted yet (Alibaba search 2026-11-04)
+### Contacted 2026-11-04 (from the Alibaba search)
 
-19 more plastic eyeshadow case makers found on Alibaba. Inquiry sent on 2026-11-04 to 4 of them (Shantou Yiyue, Yiwu L-Zhuang, Shantou Rongsheng, Huizhou Yuancheng); the rest are waiting because Alibaba asked for a CAPTCHA. Best leads on MOQ: Shantou Yiyue (MOQ 500 shown), Yiwu L-Zhuang (MOQ 100 shown), Shantou Rongsheng (MOQ 5,000). Full list: [[2026-11-04 Alibaba supplier search]].
+19 more plastic eyeshadow case makers found on Alibaba. Inquiry sent to all 19 on 2026-11-04 through Alibaba's Contact Supplier form; no replies yet. Best leads on MOQ: Shantou Yiyue (MOQ 500 shown), Yiwu L-Zhuang (MOQ 100 shown), Shantou Rongsheng (MOQ 5,000). Full list: [[2026-11-04 Alibaba supplier search]].
 
 ### Also answered (not on Greg's list)
 
