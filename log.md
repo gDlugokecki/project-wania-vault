@@ -53,3 +53,4 @@ tags: [log]
 - 2026-11-03 draft email to the producer about filled pan sizes (fit in YR3121A wells) -> raw/suppliers/producer/drafts/2026-11-03 pan size email.md, Producer
 - 2026-11-03 add producer's godet size sheet (from Greg) -> Producer
 - 2026-11-03 producer pan email draft v2 (asks for nominal vs real 22x22 size, 21x21 option, Ø20 fallback) -> raw/suppliers/producer/drafts/2026-11-03 pan size email.md
+- 2026-11-04 Alibaba search for new case suppliers (19 not contacted) -> 2026-11-04 Alibaba supplier search, Case supplier
