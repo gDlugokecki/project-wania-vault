@@ -71,10 +71,10 @@ All 19 sent.
 
 Only a few answered the inquiry form, so Greg asked to paste the same email into a chat with each one.
 
-- Sent in chat on 2026-11-07: Shantou Rongsheng (Sunny Zou), Huizhou Yuancheng (Leno Chen), Huizhou Zhongcai (Roc ZC), Shantou Jinze (Amber Zeng; a different person than the form showed).
-- Also sent in chat on 2026-11-07 after Greg passed the slider check: Shantou Bmei (Mi Mia).
+- Sent in chat on 2026-11-07 (17 suppliers): Shantou Rongsheng (Sunny Zou), Huizhou Yuancheng (Leno Chen), Huizhou Zhongcai (Roc ZC), Shantou Jinze (Amber Zeng), Shantou Bmei (Mi Mia), Shantou Zhongju (June Cai), Shantou Leeyoo (Totor Zheng), Shantou Yuan Tian Cheng (Kelly Wu), Jinhua Dingbei (name shown as "User name"), Guangdong Pinfanpai (Bella Zhang), Zhuhai Transmo (Sally Yang), Youbo (Avon Wang), Hangzhou Ruijing (Sam Ye), Shanghai Kaijin (Vicky Qiu), Guangzhou Fenshang (Jojo Zhou), Shantou Boyu (Iris Huang), Shenzhen First Sail (Tiffany Ren). Some chat contacts differ from the names the inquiry form showed.
+- Alibaba asked for a slider check ("drag the slider to verify") on Bmei, Zhongju, Dingbei, Youbo and Ruijing; Greg passed each one by hand.
+- Short first answers within minutes (not read yet): Zhongcai, Youbo, Kaijin, Fenshang, Leeyoo, Yuan Tian Cheng.
 - Not re-sent: Shantou Yiyue, because the original inquiry already shows in Sharon's chat as read and she greeted Greg. Yiwu L-Zhuang, because Jane said on 2026-11-04 they have no stock palette.
-- Stopped at Shantou Bmei: Alibaba showed a slider check ("drag the slider to verify") on the chat, and the same check appeared on Shantou Zhongju. Waiting for Greg.
 - Replies seen in Greg's Alibaba notification emails so far: Sam Ye (Ruijing) "hi"; Jane Wang (L-Zhuang) "We don't have".
 
 ## Left out
