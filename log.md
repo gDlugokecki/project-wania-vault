@@ -57,3 +57,4 @@ tags: [log]
 - 2026-11-04 inquiry sent via Contact Supplier form to Yiyue, L-Zhuang, Rongsheng, Yuancheng (Zhongcai blocked by CAPTCHA) -> 2026-11-04 Alibaba supplier search, Case supplier
 - 2026-11-04 inquiry sent to the remaining 15 new case suppliers (all 19 done) -> 2026-11-04 Alibaba supplier search, Case supplier
 - 2026-11-07 email pasted into chat for Rongsheng, Yuancheng, Zhongcai, Jinze; stopped at slider check on Bmei -> 2026-11-04 Alibaba supplier search
+- 2026-11-07 email pasted into chat for Bmei; slider check again on Zhongju -> 2026-11-04 Alibaba supplier search
