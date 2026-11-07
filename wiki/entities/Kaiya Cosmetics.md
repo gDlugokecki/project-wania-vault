@@ -3,7 +3,7 @@ title: Kaiya Cosmetics
 type: entity
 kind: company
 created: 2026-10-23
-updated: 2026-10-29
+updated: 2026-11-07
 tags: [company, supplier]
 ---
 
@@ -53,6 +53,10 @@ Original: [[raw/suppliers/kaiya-cosmetics/2026-10-25 alibaba chat|2026-10-25 ali
 Carvill repeated MOQ 12,000 at USD 1.13 and asked if we can meet it. Greg: not on a first order, we are just starting. Carvill: "Okay. Sorry."
 Original: [[raw/suppliers/kaiya-cosmetics/2026-10-29 alibaba chat|2026-10-29 alibaba chat]]
 
+### 2026-11-04 them, Alibaba
+Carvill sent an invitation to their Cosmopack stand (10-N13, 10-12 November 2026, AsiaWorld-Expo, Hong Kong). Nothing else.
+Original: [[raw/suppliers/kaiya-cosmetics/2026-11-07 alibaba chat|2026-11-07 alibaba chat]]
+
 ## Files
 
 Everything saved for this page under `raw/suppliers/kaiya-cosmetics/`.
@@ -61,6 +65,7 @@ Everything saved for this page under `raw/suppliers/kaiya-cosmetics/`.
 - [[raw/suppliers/kaiya-cosmetics/2026-10-25 alibaba chat|2026-10-25 alibaba chat]]
 - [[raw/suppliers/kaiya-cosmetics/2026-10-29 alibaba chat|2026-10-29 alibaba chat]]
 - [[raw/suppliers/kaiya-cosmetics/drafts/2026-10-23 reply|drafts/2026-10-23 reply]]
+- [[raw/suppliers/kaiya-cosmetics/2026-11-07 alibaba chat|2026-11-07 alibaba chat]]
 
 ## Appears in
 

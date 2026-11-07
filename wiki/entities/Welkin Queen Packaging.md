@@ -3,7 +3,7 @@ title: Welkin Queen Packaging
 type: entity
 kind: company
 created: 2026-10-30
-updated: 2026-11-03
+updated: 2026-11-07
 tags: [company, supplier]
 ---
 
@@ -13,10 +13,10 @@ Zhejiang Welkin Queen Packaging Products Co., Ltd., China, Alibaba store `cnzjti
 
 ## Snapshot
 
-- **Status:** sent details by email (after a typo in the address was fixed); asking for news
+- **Status:** no fit: Greg told them (2026-11-03) he cannot find pans matching their wells; they said to come back for other products
 - **Where:** Zhejiang, China
 - **Contact:** Jolin Ding, Alibaba chat
-- **Next step:** Greg to read Jolin's email (sent around 2026-11-01 to his main address) and forward it or tell Claude what it says
+- **Next step:** none
 
 ## What they can provide
 
@@ -50,6 +50,10 @@ Original: [[raw/suppliers/welkin-queen-packaging/2026-10-30 alibaba chat|2026-10
 Jolin's email bounced because of a typo in the address Greg gave; Greg corrected it (left out of the vault). Jolin resent the details by email around 2026-11-01 and on 2026-11-03 asked "Any news here?".
 Original: [[raw/suppliers/welkin-queen-packaging/2026-11-03 alibaba chat|2026-11-03 alibaba chat]]
 
+### 2026-11-03 us and them, Alibaba
+Greg apologised for missing the email and said he cannot find pans that fit (he needs 22x22, 25x25, 23x20 or Ø26 mm). Jolin: understood, come back for other products.
+Original: [[raw/suppliers/welkin-queen-packaging/2026-11-07 alibaba chat|2026-11-07 alibaba chat]]
+
 ## Files
 
 Everything saved for this page under `raw/suppliers/welkin-queen-packaging/`.
@@ -57,6 +61,7 @@ Everything saved for this page under `raw/suppliers/welkin-queen-packaging/`.
 - [[raw/suppliers/welkin-queen-packaging/2026-10-29 alibaba chat|2026-10-29 alibaba chat]]
 - [[raw/suppliers/welkin-queen-packaging/2026-10-30 alibaba chat|2026-10-30 alibaba chat]]
 - [[raw/suppliers/welkin-queen-packaging/2026-11-03 alibaba chat|2026-11-03 alibaba chat]]
+- [[raw/suppliers/welkin-queen-packaging/2026-11-07 alibaba chat|2026-11-07 alibaba chat]]
 
 ## Appears in
 

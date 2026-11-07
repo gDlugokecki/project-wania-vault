@@ -3,7 +3,7 @@ title: Mingli Plastic
 type: entity
 kind: company
 created: 2026-10-29
-updated: 2026-11-03
+updated: 2026-11-07
 tags: [company, supplier]
 ---
 
@@ -16,7 +16,7 @@ Guangzhou Mingli Plastic Products Co., Ltd., China. One of the [[Case supplier]]
 - **Status:** sent 9 listings (MOQ 5,000-10,000, 0.48-8 PLN) and two palette photos with outer sizes; no pan sizes yet
 - **Where:** Guangzhou, China
 - **Contact:** lin jason, Alibaba chat
-- **Next step:** wait: Greg asked if MOQ 10,000 is negotiable and for pan sizes
+- **Next step:** wait for the inner pan (well) size: lin jason promised on 2026-11-03 to measure it the next day; nothing came by 2026-11-07, so Greg could remind him
 
 ## What they can provide
 
@@ -48,6 +48,10 @@ Original: [[raw/suppliers/mingli-plastic/2026-10-30 alibaba chat|2026-10-30 alib
 lin jason sent 9 recommended listings. Greg asked if 10,000 is negotiable and where to find pan sizes. lin (in Polish): all dimensions are in the product links. Greg: can't find pan sizes. lin sent two palette photos with outer dimensions.
 Original: [[raw/suppliers/mingli-plastic/2026-11-03 alibaba chat|2026-11-03 alibaba chat]]
 
+### 2026-11-03 us and them, Alibaba
+Greg asked again for the inner dimension of the pan. lin jason: will measure tomorrow and send it. No message since (checked 2026-11-07).
+Original: [[raw/suppliers/mingli-plastic/2026-11-07 alibaba chat|2026-11-07 alibaba chat]]
+
 ## Files
 
 Everything saved for this page under `raw/suppliers/mingli-plastic/`.
@@ -58,6 +62,7 @@ Everything saved for this page under `raw/suppliers/mingli-plastic/`.
 - [[raw/suppliers/mingli-plastic/2026-11-02 black palette 97x73x14 mm 8g.png|2026-11-02 black palette 97x73x14 mm 8g.png]]
 - [[raw/suppliers/mingli-plastic/2026-11-02 clear palette 76x12 mm 9g.png|2026-11-02 clear palette 76x12 mm 9g.png]]
 - [[raw/suppliers/mingli-plastic/2026-11-03 alibaba chat|2026-11-03 alibaba chat]]
+- [[raw/suppliers/mingli-plastic/2026-11-07 alibaba chat|2026-11-07 alibaba chat]]
 
 ## Appears in
 

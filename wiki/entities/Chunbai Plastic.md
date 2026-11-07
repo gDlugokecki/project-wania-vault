@@ -3,7 +3,7 @@ title: Chunbai Plastic
 type: entity
 kind: company
 created: 2026-10-29
-updated: 2026-11-03
+updated: 2026-11-07
 tags: [company, supplier]
 ---
 
@@ -13,7 +13,7 @@ Shijiazhuang Chunbai Plastic Co., Ltd., China. One of the [[Case supplier]] cand
 
 ## Snapshot
 
-- **Status:** no offer; four contacts now (Rain Xie, Bella Wang, Vivian Hu, Lily Liu), all generic; Lily says they mainly make bottles
+- **Status:** no offer; five contacts now (Rain Xie, Bella Wang, Vivian Hu, Lily Liu, Amy Yang), the last two passed the inquiry to a "specialist" who has not written
 - **Where:** Shijiazhuang, China
 - **Contact:** Rain Xie, Bella Wang, Vivian Hu, Lily Liu ("Ruby"), Alibaba chat (four chats in the inbox)
 - **Next step:** probably drop: no answer to the inquiry after four contacts
@@ -45,6 +45,10 @@ Original: [[raw/suppliers/chunbai-plastic/2026-10-30 alibaba chat|2026-10-30 ali
 Bella: "please wait a moment" (in Polish); Rain: sales will contact you. On 2026-11-03 two more people opened chats: Vivian Hu sent an advertising banner, Lily Liu introduced the company as a bottle maker and asked what packaging we need. Note: Greg's 2026-10-30 message to Bella was the updated inquiry.
 Original: [[raw/suppliers/chunbai-plastic/2026-11-03 alibaba chat|2026-11-03 alibaba chat]]
 
+### 2026-11-03 and 2026-11-04 us and them, Alibaba
+Greg sent the inquiry to Lily Liu (2026-11-03) and to a new contact, Amy Yang (2026-11-04). Both answered with the same kind of instant reply: a specialist will take over in the chat. Nothing more by 2026-11-07.
+Original: [[raw/suppliers/chunbai-plastic/2026-11-07 alibaba chat|2026-11-07 alibaba chat]]
+
 ## Files
 
 Everything saved for this page under `raw/suppliers/chunbai-plastic/`.
@@ -52,6 +56,7 @@ Everything saved for this page under `raw/suppliers/chunbai-plastic/`.
 - [[raw/suppliers/chunbai-plastic/2026-10-29 alibaba chat|2026-10-29 alibaba chat]]
 - [[raw/suppliers/chunbai-plastic/2026-10-30 alibaba chat|2026-10-30 alibaba chat]]
 - [[raw/suppliers/chunbai-plastic/2026-11-03 alibaba chat|2026-11-03 alibaba chat]]
+- [[raw/suppliers/chunbai-plastic/2026-11-07 alibaba chat|2026-11-07 alibaba chat]]
 
 ## Appears in
 

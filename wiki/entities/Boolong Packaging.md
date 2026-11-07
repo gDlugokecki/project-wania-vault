@@ -3,7 +3,7 @@ title: Boolong Packaging
 type: entity
 kind: company
 created: 2026-10-30
-updated: 2026-11-03
+updated: 2026-11-07
 tags: [company, supplier]
 ---
 
@@ -13,10 +13,10 @@ Ningbo Boolong Packaging Co., Ltd., China. One of the [[Case supplier]] candidat
 
 ## Snapshot
 
-- **Status:** PC7037 MOQ 10,000 (lowered from 12,000)
+- **Status:** no fit: 2,000 is "much lower" than their MOQ (2026-11-03); PC7037 MOQ 10,000
 - **Where:** Ningbo, China
 - **Contact:** Mia Shen, Alibaba chat
-- **Next step:** decide whether 10,000 is out of reach; their catalogue (PDF) lists all sizes
+- **Next step:** none
 
 ## What they can provide
 
@@ -53,6 +53,10 @@ Original: [[raw/suppliers/boolong-packaging/2026-10-30 alibaba chat|2026-10-30 a
 Greg sent our pan sizes. Mia: see the catalogue for all sizes; how many? Greg: 3,000-5,000. Mia: MOQ 10,000; Greg asked if negotiable; Mia: normally 12,000, lowered to 10,000 for us.
 Original: [[raw/suppliers/boolong-packaging/2026-11-03 alibaba chat|2026-11-03 alibaba chat]]
 
+### 2026-11-03 us and them, Alibaba
+Greg said he needs about 2,000 for the first order. Mia: 2,000 is much lower than their MOQ.
+Original: [[raw/suppliers/boolong-packaging/2026-11-07 alibaba chat|2026-11-07 alibaba chat]]
+
 ## Files
 
 Everything saved for this page under `raw/suppliers/boolong-packaging/`.
@@ -63,6 +67,7 @@ Everything saved for this page under `raw/suppliers/boolong-packaging/`.
 - [[raw/suppliers/boolong-packaging/2026-10-30 PC7037-B samples.png|2026-10-30 PC7037-B samples.png]]
 - [[raw/suppliers/boolong-packaging/2026-10-30 alibaba chat|2026-10-30 alibaba chat]]
 - [[raw/suppliers/boolong-packaging/2026-11-03 alibaba chat|2026-11-03 alibaba chat]]
+- [[raw/suppliers/boolong-packaging/2026-11-07 alibaba chat|2026-11-07 alibaba chat]]
 
 ## Appears in
 

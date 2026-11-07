@@ -3,7 +3,7 @@ title: Walkin Printing
 type: entity
 kind: company
 created: 2026-10-25
-updated: 2026-11-03
+updated: 2026-11-07
 tags: [company, supplier]
 ---
 
@@ -13,10 +13,10 @@ Zhuhai Walkin Printing Co., Ltd., China. Not on Greg's list: they wrote on 2026-
 
 ## Snapshot
 
-- **Status:** rejected: paper only, confirmed (2026-10-27)
+- **Status:** quoting again: Greg asked on 2026-11-04 for a 9 or 12-pan palette; they say everything is custom, MOQ 500; Greg chose 9 pans, 22.5 x 22.5 mm, pan about 3 mm high (2026-11-06/07). Still paper only as far as we know
 - **Where:** Zhuhai, China
 - **Contact:** Jimmy Su, Alibaba chat
-- **Next step:** none; Greg told them again that plastic is fine in Europe (2026-10-30)
+- **Next step:** wait for Jimmy's quote; check it is not paperboard (they confirmed paper only on 2026-10-27) and whether the price includes metal pans
 
 ## What they can provide
 
@@ -27,6 +27,8 @@ As they state it, 2026-10-24:
 - Timeline: plain sample 3-5 days after they get our metal pans; then photos, video and a die-cut PDF for our artwork; then a printed sample sent to us. Bulk production 15-20 working days after sample approval. DDP to Poland about 35-45 working days after the ship leaves China.
 - Offers a video call.
 - No MOQ or prices yet.
+- 2026-11-05: no stock palettes, everything custom; **MOQ 500 pcs**.
+- 2026-11-05: they also supply metal pans (example: round 26 x 3.5 mm, `2026-11-07 metal pan example 26x3.5 mm.png`) and need pan diameter and height to quote.
 
 ## Decisions
 - 2026-10-29 not for us -> paper only; Greg replied that we look for plastic containers.
@@ -36,6 +38,8 @@ As they state it, 2026-10-24:
 - Paperboard or plastic? Greg's spec says high-quality plastic ([[Packaging]]).
 - MOQ and unit price at 1,000 / 2,000 pcs.
 - How was the inquiry sent to them: the RFQ, or another message? Not recorded.
+- Is the palette they will quote paperboard (as before) or plastic?
+- Do they quote the palette with metal pans included? Our producer fills its own pans.
 
 ## Conversation log
 
@@ -55,6 +59,10 @@ Original: [[raw/suppliers/walkin-printing/2026-10-30 alibaba chat|2026-10-30 ali
 ### 2026-10-31 them, Alibaba
 Jimmy thanked Greg for the plastic information and asked to keep in touch for paper palettes.
 Original: [[raw/suppliers/walkin-printing/2026-11-03 alibaba chat|2026-11-03 alibaba chat]]
+
+### 2026-11-04 to 2026-11-07 us and them, Alibaba
+Greg asked if they have anything in stock for 9 or 12 shades and the pan sizes. Jimmy: nothing in stock, all custom, MOQ 500; for metal pans they need diameter and height; listed five versions by pan size. Greg: first order 2,000, 9 pans, 22x22 but a little bigger, 22.5 x 22.5 mm; on 2026-11-07 he gave the pan height, about 3 mm.
+Original: [[raw/suppliers/walkin-printing/2026-11-07 alibaba chat|2026-11-07 alibaba chat]]
 
 ## Files
 
@@ -78,6 +86,8 @@ Everything saved for this page under `raw/suppliers/walkin-printing/`.
 - [[raw/suppliers/walkin-printing/2026-10-29 alibaba chat|2026-10-29 alibaba chat]]
 - [[raw/suppliers/walkin-printing/2026-10-30 alibaba chat|2026-10-30 alibaba chat]]
 - [[raw/suppliers/walkin-printing/2026-11-03 alibaba chat|2026-11-03 alibaba chat]]
+- [[raw/suppliers/walkin-printing/2026-11-07 alibaba chat|2026-11-07 alibaba chat]]
+- [[raw/suppliers/walkin-printing/2026-11-07 metal pan example 26x3.5 mm.png|2026-11-07 metal pan example 26x3.5 mm.png]]
 
 ## Appears in
 

@@ -3,7 +3,7 @@ title: Sengmi Packaging
 type: entity
 kind: company
 created: 2026-10-29
-updated: 2026-11-03
+updated: 2026-11-07
 tags: [company, supplier]
 ---
 
@@ -16,7 +16,7 @@ Guangzhou Sengmi Packaging Product Co., Ltd., China. One of the [[Case supplier]
 - **Status:** quote for C64: 2.39 USD x 2,000 (custom Pantone, matte, no print), but wells Ø21 mm, too small; say they can make 22x22 or Ø26 mm (how, not clear)
 - **Where:** Guangzhou, China
 - **Contact:** Meng Smith, Alibaba chat
-- **Next step:** ask whether 22x22 / Ø26 mm means a new mould, and its cost and MOQ
+- **Next step:** Greg said (2026-11-03) he would check with his producer and come back; C64 wells Ø21 mm are too small, so only worth it if they make bigger wells
 
 ## What they can provide
 
@@ -58,6 +58,10 @@ Original: [[raw/suppliers/sengmi-packaging/2026-10-30 alibaba chat|2026-10-30 al
 Meng: biggest pan is 22x22, sent an example photo; no stock 9-well for 22x22; recommended testing a C64 sample and asked for an address. Greg: our producer can't make Ø21 mm; can you make 22x22 or Ø26? Meng: yes, how many? Greg: about 2,000 containers only. Meng quoted C64 at 2.39 USD x 2,000 (above). Greg pointed out the 21 mm wells again; Meng: C64 can't take anything bigger than 21 mm.
 Original: [[raw/suppliers/sengmi-packaging/2026-11-03 alibaba chat|2026-11-03 alibaba chat]]
 
+### 2026-11-03 us and them, Alibaba
+Greg said he needs to check with his producer and will get back to them. Meng: hopes to cooperate.
+Original: [[raw/suppliers/sengmi-packaging/2026-11-07 alibaba chat|2026-11-07 alibaba chat]]
+
 ## Files
 
 Everything saved for this page under `raw/suppliers/sengmi-packaging/`.
@@ -68,6 +72,7 @@ Everything saved for this page under `raw/suppliers/sengmi-packaging/`.
 - [[raw/suppliers/sengmi-packaging/2026-10-30 alibaba chat|2026-10-30 alibaba chat]]
 - [[raw/suppliers/sengmi-packaging/2026-10-31 example pan in 2-well palette.png|2026-10-31 example pan in 2-well palette.png]]
 - [[raw/suppliers/sengmi-packaging/2026-11-03 alibaba chat|2026-11-03 alibaba chat]]
+- [[raw/suppliers/sengmi-packaging/2026-11-07 alibaba chat|2026-11-07 alibaba chat]]
 
 ## Appears in
 
