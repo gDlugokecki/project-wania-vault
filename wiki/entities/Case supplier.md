@@ -3,7 +3,7 @@ title: Case supplier
 type: entity
 kind: company
 created: 2026-10-11
-updated: 2026-11-04
+updated: 2026-11-07
 tags: [company]
 ---
 
@@ -40,16 +40,16 @@ Statuses: inquiry sent → replied → quote received → samples ordered → sa
 | 8 | [[Picca International]] | Taichung, Taiwan | [picca.com.tw](https://www.picca.com.tw/) · picca@ms16.hinet.net · +886 4 2389 7607 | replied: stock cases don't fit; custom MOQ around 5,000 (recommended by Irmina) | 2026-10-29 we asked for a custom quote | wait for reply |
 | 9 | TimeSource Enterprise | Taiwan | [timesourcetw.com](https://www.timesourcetw.com/) (calls itself an empty case packaging supplier) · contact form · +886 2 2546 8289 | inquiry sent (recommended by Irmina) | 2026-10-22 inquiry sent | wait for reply |
 | 10 | [[Colorich]] | Zhongshan, China | [colorichpkg.com](https://www.colorichpkg.com/) · admin@colorichpkg.com · MOQ 500; mostly paper palettes, so ask for plastic | replied: paper palettes only (recommended by Irmina) | 2026-10-29 email | none while we want plastic |
-| 11 | [[Sambound Packaging]] (cosmeticpackagingvn) | Alibaba (location not recorded) | [store](https://cosmeticpackagingvn.m.trustpass.alibaba.com/) · product Greg looked at: id 1601277046631 | YR3121A 9-well + mirror 0.8 USD FOB, MOQ 10,000 (2k a bit dearer); wells 21.9 mm, probably too small | 2026-11-03 | Greg to check 22x22 fit with producer |
+| 11 | [[Sambound Packaging]] (cosmeticpackagingvn) | Alibaba (location not recorded) | [store](https://cosmeticpackagingvn.m.trustpass.alibaba.com/) · product Greg looked at: id 1601277046631 | best lead: YR3091 4x2 (8 wells) with 22.5 mm square wells, fits 22x22 per Lacy; no price yet. YR3121A 3x3 wells 21.9 mm too small; custom grid mould 4-5k USD | 2026-11-07 Greg asked for shallower wells | wait; then ask YR3091 price/MOQ at 2,000 |
 | 12 | [[Chengfeng Trading]] (Shantou Chengfeng Trading Co., Ltd.) | Shantou, China (Alibaba) | Alibaba chat, contact Ivy Lin | custom MOQ 12,000/model; offers stock-based start with lower MOQ; preparing stock models with well sizes | 2026-10-30 | wait for stock models + well dimensions |
 | 13 | Visonpack (visonpack) | Alibaba (location not recorded) | [store](https://visonpack.m.en.alibaba.com/) · product Greg looked at: id 1600940948080 | probably the same company as row 12: Ivy Lin (Chengfeng chat) introduced herself as "Ivy from Visonpack" (2026-10-30, not confirmed) | - | see [[Chengfeng Trading]] |
 | 14 | [[Beyaqi Cosmetics]] (beiyaqi) | Hangzhou, China (Alibaba) | [store](https://beiyaqi.m.en.alibaba.com/) · product Greg looked at: id 1600427300728 · Alibaba chat, contact Franzi Weng | MOQ usually 12,000; asked for drawings, got reference pictures | 2026-10-31 | wait |
-| 15 | [[Sengmi Packaging]] (seng-mi) | Guangzhou, China (Alibaba) | [store](https://seng-mi.m.en.alibaba.com/) · product Greg looked at: id 1601723433116 · Alibaba chat, contact Meng Smith | C64 quote 2.39 USD x 2,000, but Ø21 mm wells; say they can do 22x22 / Ø26 (mould?) | 2026-11-03 | ask about mould cost and MOQ for 22x22 / Ø26 |
-| 16 | [[Boolong Packaging]] | Ningbo, China (Alibaba) | Alibaba chat, contact Mia Shen | PC7037 MOQ 10,000 (lowered from 12,000) | 2026-11-02 | decide; 10,000 is above plan |
+| 15 | [[Sengmi Packaging]] (seng-mi) | Guangzhou, China (Alibaba) | [store](https://seng-mi.m.en.alibaba.com/) · product Greg looked at: id 1601723433116 · Alibaba chat, contact Meng Smith | C64 quote 2.39 USD x 2,000, but Ø21 mm wells; say they can do 22x22 / Ø26 (mould?) | 2026-11-03 Greg will check with producer | Greg owes them an answer (low priority: wells Ø21) |
+| 16 | [[Boolong Packaging]] | Ningbo, China (Alibaba) | Alibaba chat, contact Mia Shen | no fit: 2,000 "much lower" than their MOQ (10,000) | 2026-11-03 | none |
 | 17 | [[Qingrong Packaging]] (qingrongpacking) | Ningbo, China (Alibaba) | [store](https://qingrongpacking.m.en.alibaba.com/) · product Greg looked at: id 1601734451467 · Alibaba chat, contact Becky Gao | MOQ 10,000 for the 9-pan model | 2026-11-01 Greg asked about 3-5k | wait |
-| 18 | [[Chunbai Plastic]] (chunbaipacking) | Shijiazhuang, China (Alibaba) | [store](https://chunbaipacking.m.en.alibaba.com/) · product Greg looked at: id 1601885854837 | no offer; four contacts, bottle maker | 2026-11-03 | probably drop |
-| 19 | [[Mingli Plastic]] (mingliplastic) | Guangzhou, China (Alibaba) | [store](https://mingliplastic.m.en.alibaba.com/) · product Greg looked at: id 1601824093625 | 9 listings (MOQ 5-10k, 0.48-8 PLN); no pan sizes yet | 2026-11-02 | wait for pan sizes |
-| 20 | [[Welkin Queen Packaging]] (cnzjtianyun) | Zhejiang, China (Alibaba) | [store](https://cnzjtianyun.m.en.alibaba.com/) · product Greg looked at: id 1601277973106 | details sent by email; asking for news | 2026-11-03 | Greg to read Jolin's email |
+| 18 | [[Chunbai Plastic]] (chunbaipacking) | Shijiazhuang, China (Alibaba) | [store](https://chunbaipacking.m.en.alibaba.com/) · product Greg looked at: id 1601885854837 | no offer; five contacts, bottle maker; two more instant "specialist" replies | 2026-11-04 | probably drop |
+| 19 | [[Mingli Plastic]] (mingliplastic) | Guangzhou, China (Alibaba) | [store](https://mingliplastic.m.en.alibaba.com/) · product Greg looked at: id 1601824093625 | 9 listings (MOQ 5-10k, 0.48-8 PLN); promised well size "tomorrow" on 11-03, not sent | 2026-11-03 | remind lin jason |
+| 20 | [[Welkin Queen Packaging]] (cnzjtianyun) | Zhejiang, China (Alibaba) | [store](https://cnzjtianyun.m.en.alibaba.com/) · product Greg looked at: id 1601277973106 | no fit: Greg found no pans for their wells | 2026-11-03 | none |
 
 Rows 1-6 updated 2026-10-23, 2026-10-25 and 2026-10-29 from the Alibaba chats (read through Claude in Chrome); each supplier now has its own page. Rows 11-12 added 2026-10-29: Greg contacted them that day. Row 13 added the same day from a link Greg sent. Rows 14-17: Alibaba chats that appeared in Greg's inbox on the evening of 2026-10-29. Rows 18-20 and the links for 14, 15 and 17: from Greg, 2026-10-29 (Greg contacted them that day). Shijiazhuang Qinna: no chat found, not confirmed as contacted (2026-10-29). Rows 8-10 added on 2026-10-22, recommended by Irmina (who she is: not recorded yet). Greg's list had hkyihong twice (a product group and the store page); merged into one row.
 
@@ -69,16 +69,18 @@ Rows 1-6 updated 2026-10-23, 2026-10-25 and 2026-10-29 from the Alibaba chats (r
 | [[Sengmi Packaging]] | 5,000 (stock C64); quoted at 2,000 | C64: 2.39 USD (15.53 RMB) at 2,000, custom Pantone matte, no print | stock mould | about 65 USD shipping for 2 pcs (DAP) | sample 7-15 days, production 30-35 days | C64 wells Ø21 mm, too small; quote valid 10 days from 2026-11-03 |
 | [[Nanlong Plastic]] | 12,000 (custom) | not yet | checking trial on existing mould | stock samples free, we pay express | not yet | |
 | [[Mingli Plastic]] | 5,000 said; listings 5,000-10,000 | listings 0.48-8 PLN | stock moulds | not yet | not yet | no well sizes yet |
-| [[Sambound Packaging]] | 10,000 (2,000 "slightly more expensive") | YR3121A 0.8 USD FOB Shenzhen with mirror (at 10k?); logo print +0.045 USD | stock mould | samples possible | not yet | wells 21.9 mm, 22x22 pan probably too big |
+| [[Sambound Packaging]] | 10,000 (2,000 "slightly more expensive") | YR3121A 0.8 USD FOB Shenzhen with mirror (at 10k?); logo print +0.045 USD; YR3091 not quoted | stock mould; custom grid 4,000-5,000 USD | samples possible | not yet | YR3121A wells 21.9 mm too small; YR3091 4x2 wells 22.5 mm (2026-11-06) |
 | [[Qingrong Packaging]] | 10,000 | listing 0.12-0.24 PLN (listing MOQ 1,000) | stock | not yet | not yet | |
 | [[Beyaqi Cosmetics]] | usually 12,000 | not yet | not yet | not yet | not yet | |
 | [[Welkin Queen Packaging]] | 12,000 (9-well); "120000" (12-well, probably a typo) | not yet | stock | not yet | not yet | snap-fit, not magnetic |
 | [[Boolong Packaging]] | 10,000 (lowered from 12,000) | not yet | stock PC7037 | not yet | not yet | snap-on, not magnetic; square wells ~24 mm grid |
-| [[Walkin Printing]] | not yet | not yet | custom | plain sample 3-5 days | bulk 15-20 working days + 35-45 days DDP | paper only (confirmed 2026-10-27) |
+| [[Walkin Printing]] | 500 (2026-11-05) | not yet (quoting 9-pan, 22.5 mm pans, 2026-11-07) | custom | plain sample 3-5 days | bulk 15-20 working days + 35-45 days DDP | paper only (confirmed 2026-10-27) |
+| [[Kaijin Packaging]] | not yet | not yet | stock moulds | plain sample 1-2 days, with logo 7-10 days | not yet | 3D logo, screen print, heat transfer |
+| [[Yuan Tian Cheng Plastic]] | not yet | not yet | not yet | stock sample free (we pay courier); custom sample USD 250 | not yet | |
 
 ### Contacted 2026-11-04 (from the Alibaba search)
 
-19 more plastic eyeshadow case makers found on Alibaba. Inquiry sent to all 19 on 2026-11-04 through Alibaba's Contact Supplier form; no replies yet. Best leads on MOQ: Shantou Yiyue (MOQ 500 shown), Yiwu L-Zhuang (MOQ 100 shown), Shantou Rongsheng (MOQ 5,000). Full list: [[2026-11-04 Alibaba supplier search]].
+19 more plastic eyeshadow case makers found on Alibaba. Inquiry sent to all 19 on 2026-11-04 through Alibaba's Contact Supplier form, then pasted into the chat with 17 of them on 2026-11-07. Seven answered within minutes, all with automatic-looking "a specialist will take over" replies (2026-11-07): [[First Sail Packaging]] and [[Youbo Plastic]] (both asked questions Greg should answer, drafts ready), [[Kaijin Packaging]] (stock moulds, fast samples), [[Yuan Tian Cheng Plastic]] (free stock samples, custom sample USD 250), [[Zhongcai Plastic]], [[Leeyoo Plastic]], [[Fenshang Plastic]]. Yiyue only greeted; L-Zhuang has no stock palette; the others have not answered. Best leads on MOQ: Shantou Yiyue (MOQ 500 shown), Yiwu L-Zhuang (MOQ 100 shown), Shantou Rongsheng (MOQ 5,000). Full list: [[2026-11-04 Alibaba supplier search]].
 
 ### Also answered (not on Greg's list)
 
@@ -86,7 +88,7 @@ Greg also posted an RFQ (request for quotation) on Alibaba; when and with what t
 
 - [[Kaiya Cosmetics]]: paper palettes only, MOQ 12,000, USD 1.13. Checking plastic options.
 - [[Packshion Packaging]]: paper boxes; a candidate for the outer box, not for the case.
-- [[Walkin Printing]] (2026-10-24): custom magnetic palettes with mirror, 9 or 12 pans, paperboard only (confirmed 2026-10-27). Sent 14 portfolio photos and a timeline. On 2026-10-30 they invited Greg to visit the factory and sent an SGS factory report.
+- [[Walkin Printing]] (2026-10-24): custom magnetic palettes with mirror, 9 or 12 pans, paperboard only (confirmed 2026-10-27). Sent 14 portfolio photos and a timeline. On 2026-10-30 they invited Greg to visit the factory and sent an SGS factory report. On 2026-11-04 Greg asked again; Jimmy: all custom, MOQ 500, quoting a 9-pan palette for 22.5 mm pans about 3 mm high (2026-11-07).
 
 ## Claude's shortlist (2026-10-19, revised the same day)
 
