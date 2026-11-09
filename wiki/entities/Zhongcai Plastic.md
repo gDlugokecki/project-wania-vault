@@ -16,7 +16,7 @@ Huizhou Zhongcai Plastic Products Co., Ltd., Alibaba store [zhongcai](https://zh
 - **Status:** sent several stock palettes; best fit a 9-well palette with 24 x 24 mm wells, 90.3 x 90.3 mm, mirror (looks like the same mould as Transmo's FSP1011A); asks if EVA is acceptable
 - **Where:** Huizhou, China (Alibaba)
 - **Contact:** Roc ZC, Alibaba chat
-- **Next step:** Greg to answer: no EVA, rigid plastic; ask well depth, magnet, MOQ and price at 2,000 for the 24 mm 9-well palette. Draft: [[raw/suppliers/zhongcai-plastic/drafts/2026-11-09 reply|drafts/2026-11-09 reply]]
+- **Next step:** wait for their answer to our 2026-11-09 reply ([[raw/suppliers/zhongcai-plastic/drafts/2026-11-09 reply|sent text]])
 
 ## What they can provide
 - 2026-11-07: 9-well palette, square wells **24 x 24 mm**, case 90.3 x 90.3 mm, mirror, printed lid (`2026-11-09 9 square wells 24 mm 90.3x90.3 mm printed lid.png`).
@@ -43,6 +43,9 @@ Original: [[raw/suppliers/zhongcai-plastic/2026-11-07 alibaba chat|2026-11-07 al
 ### 2026-11-07 to 2026-11-09 us and them, Alibaba
 A real person took over. Roc sent four stock palette photos and a video and asked Greg to pick a model. Greg asked about a listing (id 1601930116702) and its pan size. Roc sent a 12-well palette with 27 mm wells as "more suitable". Greg gave the pan sizes he is limited to; Roc offered iron or aluminium pans and asked if EVA material is acceptable.
 Original: [[raw/suppliers/zhongcai-plastic/2026-11-09 alibaba chat|2026-11-09 alibaba chat]]
+
+### 2026-11-09 us, Alibaba
+Reply sent (Claude, on Greg's request). Text: [[raw/suppliers/zhongcai-plastic/drafts/2026-11-09 reply|2026-11-09 reply]]
 
 ## Files
 

@@ -16,7 +16,7 @@ Shantou Rongsheng Plastic Co., Ltd., Alibaba store [rspack](https://rspack.en.al
 - **Status:** asks which product and for a picture
 - **Where:** Shantou, China (Alibaba)
 - **Contact:** Sunny Zou, Alibaba chat
-- **Next step:** Greg to send a reference picture and the spec. Draft: [[raw/suppliers/rongsheng-plastic/drafts/2026-11-09 reply|drafts/2026-11-09 reply]]
+- **Next step:** wait for their answer to our 2026-11-09 reply ([[raw/suppliers/rongsheng-plastic/drafts/2026-11-09 reply|sent text]])
 
 ## What they can provide
 
@@ -35,6 +35,9 @@ None yet.
 ### 2026-11-08 them, Alibaba
 Sunny asked which product Greg needs and for a picture.
 Original: [[raw/suppliers/rongsheng-plastic/2026-11-09 alibaba chat|2026-11-09 alibaba chat]]
+
+### 2026-11-09 us, Alibaba
+Reply sent (Claude, on Greg's request). Text: [[raw/suppliers/rongsheng-plastic/drafts/2026-11-09 reply|2026-11-09 reply]]
 
 ## Files
 

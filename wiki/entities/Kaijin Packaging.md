@@ -16,7 +16,7 @@ Shanghai Kaijin Packaging Products Co., Ltd., Alibaba store [kaijinpacking](http
 - **Status:** asks for a picture of what Greg wants
 - **Where:** Shanghai, China (Alibaba)
 - **Contact:** Vicky Qiu, Alibaba chat
-- **Next step:** Greg to send a reference picture and the spec. Draft: [[raw/suppliers/kaijin-packaging/drafts/2026-11-09 reply|drafts/2026-11-09 reply]]
+- **Next step:** wait for their answer to our 2026-11-09 reply ([[raw/suppliers/kaijin-packaging/drafts/2026-11-09 reply|sent text]])
 
 ## What they can provide
 
@@ -42,6 +42,9 @@ Original: [[raw/suppliers/kaijin-packaging/2026-11-07 alibaba chat|2026-11-07 al
 ### 2026-11-07 to 2026-11-08 us and them, Alibaba
 A person took over. Vicky asked for a picture; Greg described the layout, pan sizes, magnet and mirror; Vicky again asked for a picture.
 Original: [[raw/suppliers/kaijin-packaging/2026-11-09 alibaba chat|2026-11-09 alibaba chat]]
+
+### 2026-11-09 us, Alibaba
+Reply sent (Claude, on Greg's request). Text: [[raw/suppliers/kaijin-packaging/drafts/2026-11-09 reply|2026-11-09 reply]]
 
 ## Files
 

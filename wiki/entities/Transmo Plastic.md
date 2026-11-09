@@ -16,7 +16,7 @@ Zhuhai Transmo Plastic Products Co., Ltd., Alibaba store [zhtransmo-packaging](h
 - **Status:** sent four ABS stock models; FSP1011A (9 wells 24 x 24 mm, glass mirror) is the closest
 - **Where:** Zhuhai, China (Alibaba)
 - **Contact:** Sally Yang, then Jennifer Zhao (sales), Alibaba chat
-- **Next step:** Greg to ask FSP1011A depth, magnet, MOQ and price at 2,000. Draft: [[raw/suppliers/transmo-plastic/drafts/2026-11-09 reply|drafts/2026-11-09 reply]]
+- **Next step:** wait for their answer to our 2026-11-09 reply ([[raw/suppliers/transmo-plastic/drafts/2026-11-09 reply|sent text]])
 
 ## What they can provide
 
@@ -41,6 +41,9 @@ None yet.
 ### 2026-11-07 to 2026-11-09 us and them, Alibaba
 Sally passed Greg to sales. Jennifer introduced Transmo and sent four stock models that she says are close; materials ABS, logo and finish customisable.
 Original: [[raw/suppliers/transmo-plastic/2026-11-09 alibaba chat|2026-11-09 alibaba chat]]
+
+### 2026-11-09 us, Alibaba
+Reply sent (Claude, on Greg's request). Text: [[raw/suppliers/transmo-plastic/drafts/2026-11-09 reply|2026-11-09 reply]]
 
 ## Files
 

@@ -16,7 +16,7 @@ Jinhua Dingbei Packaging Technology Co., Ltd., Alibaba store [jhdingbei](https:/
 - **Status:** many existing moulds, samples possible (we pay shipping); no models sent yet
 - **Where:** Jinhua, China (Alibaba)
 - **Contact:** shown as "User name", Alibaba chat
-- **Next step:** Greg to ask for models with 22.5-24 mm wells. Draft: [[raw/suppliers/dingbei-packaging/drafts/2026-11-09 reply|drafts/2026-11-09 reply]]
+- **Next step:** wait for their answer to our 2026-11-09 reply ([[raw/suppliers/dingbei-packaging/drafts/2026-11-09 reply|sent text]])
 
 ## What they can provide
 
@@ -35,6 +35,9 @@ None yet.
 ### 2026-11-08 and 2026-11-09 us and them, Alibaba
 They understood the brief, offered samples and asked how to keep in touch. Greg: here or email, and asked for compatible containers. They answered vaguely ("perhaps it could be more convenient") with a sticker.
 Original: [[raw/suppliers/dingbei-packaging/2026-11-09 alibaba chat|2026-11-09 alibaba chat]]
+
+### 2026-11-09 us, Alibaba
+Reply sent (Claude, on Greg's request). Text: [[raw/suppliers/dingbei-packaging/drafts/2026-11-09 reply|2026-11-09 reply]]
 
 ## Files
 

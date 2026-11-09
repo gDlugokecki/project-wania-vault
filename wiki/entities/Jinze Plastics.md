@@ -16,7 +16,7 @@ Shantou Jinze Plastics Co., Ltd., Alibaba store [stjinze](https://stjinze.en.ali
 - **Status:** sent model 5940 (9 wells, clear lid), no sizes
 - **Where:** Shantou, China (Alibaba)
 - **Contact:** Amber Zeng, Alibaba chat
-- **Next step:** Greg to ask the drawing and an opaque lid with mirror. Draft: [[raw/suppliers/jinze-plastics/drafts/2026-11-09 reply|drafts/2026-11-09 reply]]
+- **Next step:** wait for their answer to our 2026-11-09 reply ([[raw/suppliers/jinze-plastics/drafts/2026-11-09 reply|sent text]])
 
 ## What they can provide
 
@@ -36,6 +36,9 @@ None yet.
 ### 2026-11-08 and 2026-11-09 us and them, Alibaba
 Amber asked for pictures. Greg sent a listing (id 1601672436809) and the pan sizes. Amber sent a photo of model 5940.
 Original: [[raw/suppliers/jinze-plastics/2026-11-09 alibaba chat|2026-11-09 alibaba chat]]
+
+### 2026-11-09 us, Alibaba
+Reply sent (Claude, on Greg's request). Text: [[raw/suppliers/jinze-plastics/drafts/2026-11-09 reply|2026-11-09 reply]]
 
 ## Files
 

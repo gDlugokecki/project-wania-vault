@@ -16,7 +16,7 @@ Sambound New Material Technology Packaging Limited, Alibaba store `cosmeticpacka
 - **Status:** best lead so far: YR3091, a 4x2 (8-well) palette with square wells about 22.5 mm that Lacy says fits a 22x22 pan; no price yet. YR3121A (3x3) wells too small; a custom grid would cost 4,000-5,000 USD mould
 - **Where:** not recorded
 - **Contact:** Lacy Luo, Alibaba chat
-- **Next step:** Greg to ask YR3091 price at 2,000, magnet and sample cost. Draft: [[raw/suppliers/sambound-packaging/drafts/2026-11-09 reply|drafts/2026-11-09 reply]]
+- **Next step:** wait for their answer to our 2026-11-09 reply ([[raw/suppliers/sambound-packaging/drafts/2026-11-09 reply|sent text]])
 
 ## What they can provide
 
@@ -70,6 +70,9 @@ Original: [[raw/suppliers/sambound-packaging/2026-11-07 alibaba chat|2026-11-07 
 ### 2026-11-09 them, Alibaba
 Lacy: no other (shallower) version.
 Original: [[raw/suppliers/sambound-packaging/2026-11-09 alibaba chat|2026-11-09 alibaba chat]]
+
+### 2026-11-09 us, Alibaba
+Reply sent (Claude, on Greg's request). Text: [[raw/suppliers/sambound-packaging/drafts/2026-11-09 reply|2026-11-09 reply]]
 
 ## Files
 

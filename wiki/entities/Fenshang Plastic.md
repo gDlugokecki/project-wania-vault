@@ -16,7 +16,7 @@ Guangzhou Fenshang Plastic Products Co., Ltd., Alibaba store [fenshangpacking](h
 - **Status:** no fit: MOQ 10,000, nothing under 5,000 (2026-11-09)
 - **Where:** Guangzhou, China (Alibaba)
 - **Contact:** Jojo Zhou, Alibaba chat
-- **Next step:** optional: ask only the 5,000 price for comparison. Draft: [[raw/suppliers/fenshang-plastic/drafts/2026-11-09 reply|drafts/2026-11-09 reply]]
+- **Next step:** wait for their answer to our 2026-11-09 reply ([[raw/suppliers/fenshang-plastic/drafts/2026-11-09 reply|sent text]])
 
 ## What they can provide
 - 2026-11-09: MOQ **10,000**; below 5,000 they cannot take the order.
@@ -37,6 +37,9 @@ Original: [[raw/suppliers/fenshang-plastic/2026-11-07 alibaba chat|2026-11-07 al
 ### 2026-11-09 them, Alibaba
 Jojo: MOQ 10,000, nothing below 5,000.
 Original: [[raw/suppliers/fenshang-plastic/2026-11-09 alibaba chat|2026-11-09 alibaba chat]]
+
+### 2026-11-09 us, Alibaba
+Reply sent (Claude, on Greg's request). Text: [[raw/suppliers/fenshang-plastic/drafts/2026-11-09 reply|2026-11-09 reply]]
 
 ## Files
 

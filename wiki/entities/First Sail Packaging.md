@@ -16,7 +16,7 @@ Shenzhen First Sail Packaging Design & Production Co., Ltd., Alibaba store [firs
 - **Status:** paper palettes only: custom, no mould cost, sample 150-180 USD incl. shipping; price after details
 - **Where:** Shenzhen, China (Alibaba)
 - **Contact:** Tiffany Ren, Alibaba chat
-- **Next step:** Greg to decide whether a paper palette is worth a quote as a fallback. Draft: [[raw/suppliers/first-sail-packaging/drafts/2026-11-09 reply|drafts/2026-11-09 reply]]
+- **Next step:** wait for their answer to our 2026-11-09 reply ([[raw/suppliers/first-sail-packaging/drafts/2026-11-09 reply|sent text]])
 
 ## What they can provide
 - 2026-11-09: **paper** palettes only (die-cut, no mould cost), custom made; any pan size, wells made to fit the actual pans (they want the pans).
@@ -40,6 +40,9 @@ Original: [[raw/suppliers/first-sail-packaging/2026-11-07 alibaba chat|2026-11-0
 ### 2026-11-09 them, Alibaba
 Tiffany answered the inquiry point by point: paper palettes only, custom, no mould cost, sample 150-180 USD incl. shipping, 7 days sample, 20 days production; price once details are final.
 Original: [[raw/suppliers/first-sail-packaging/2026-11-09 alibaba chat|2026-11-09 alibaba chat]]
+
+### 2026-11-09 us, Alibaba
+Reply sent (Claude, on Greg's request). Text: [[raw/suppliers/first-sail-packaging/drafts/2026-11-09 reply|2026-11-09 reply]]
 
 ## Files
 

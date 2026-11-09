@@ -16,7 +16,7 @@ Shantou Yuan Tian Cheng Plastic Co., Ltd., Alibaba store [tcpacks](https://tcpac
 - **Status:** sent three stock models; none fits yet (wells 20 mm, 21.2 mm, 14.5 mm); asks if Greg wants an injection-coloured lid
 - **Where:** Shantou, China (Alibaba)
 - **Contact:** Kelly Wu, Alibaba chat
-- **Next step:** Greg to answer: yes, opaque coloured lid with mirror; ask for wells 22.5-24 mm. Draft: [[raw/suppliers/yuan-tian-cheng-plastic/drafts/2026-11-09 reply|drafts/2026-11-09 reply]]
+- **Next step:** wait for their answer to our 2026-11-09 reply ([[raw/suppliers/yuan-tian-cheng-plastic/drafts/2026-11-09 reply|sent text]])
 
 ## What they can provide
 
@@ -43,6 +43,9 @@ Original: [[raw/suppliers/yuan-tian-cheng-plastic/2026-11-07 alibaba chat|2026-1
 ### 2026-11-08 and 2026-11-09 us and them, Alibaba
 Kelly sent three stock models. Greg asked for something like TC-P2329B but with an opaque lid and a mirror. Kelly: "Injection color lid?"
 Original: [[raw/suppliers/yuan-tian-cheng-plastic/2026-11-09 alibaba chat|2026-11-09 alibaba chat]]
+
+### 2026-11-09 us, Alibaba
+Reply sent (Claude, on Greg's request). Text: [[raw/suppliers/yuan-tian-cheng-plastic/drafts/2026-11-09 reply|2026-11-09 reply]]
 
 ## Files
 
