@@ -3,7 +3,7 @@ title: 2026-11-04 Alibaba supplier search
 type: source
 url: https://www.alibaba.com/trade/search?SearchText=empty+eyeshadow+palette+with+mirror&tab=supplier
 created: 2026-11-04
-updated: 2026-11-07
+updated: 2026-11-09
 tags: [source, packaging]
 ---
 
@@ -77,6 +77,7 @@ Only a few answered the inquiry form, so Greg asked to paste the same email into
 - Not re-sent: Shantou Yiyue, because the original inquiry already shows in Sharon's chat as read and she greeted Greg. Yiwu L-Zhuang, because Jane said on 2026-11-04 they have no stock palette.
 - Replies seen in Greg's Alibaba notification emails so far: Sam Ye (Ruijing) "hi"; Jane Wang (L-Zhuang) "We don't have".
 - Read on 2026-11-07 (evening): seven instant replies, all saying a specialist will take over: [[First Sail Packaging]], [[Fenshang Plastic]], [[Kaijin Packaging]], [[Zhongcai Plastic]], [[Youbo Plastic]], [[Yuan Tian Cheng Plastic]], [[Leeyoo Plastic]]. Each now has a page. Ruijing (Sam Ye) only sent a product card for PETG pump bottles on 2026-11-05 (not relevant). Yiyue (Sharon Chan) only greeted on 2026-11-04. No answer yet from Rongsheng, Yuancheng, Jinze, Bmei, Zhongju, Dingbei, Pinfanpai, Transmo, Boyu.
+- Read on 2026-11-09: answers from [[Transmo Plastic]], [[Jinze Plastics]], [[Dingbei Packaging]], [[Yuancheng Technology]], [[Zhongju Plastic]], [[Rongsheng Plastic]] and [[Bmei Plastic]] (pages created), plus follow-ups from the seven of 2026-11-07. Still silent: Pinfanpai (Bella Zhang), Boyu (Iris Huang), Ruijing (only an unrelated product card).
 
 ## Left out
 

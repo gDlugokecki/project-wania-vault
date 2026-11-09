@@ -3,7 +3,7 @@ title: Sambound Packaging
 type: entity
 kind: company
 created: 2026-10-30
-updated: 2026-11-07
+updated: 2026-11-09
 tags: [company, supplier]
 ---
 
@@ -16,7 +16,7 @@ Sambound New Material Technology Packaging Limited, Alibaba store `cosmeticpacka
 - **Status:** best lead so far: YR3091, a 4x2 (8-well) palette with square wells about 22.5 mm that Lacy says fits a 22x22 pan; no price yet. YR3121A (3x3) wells too small; a custom grid would cost 4,000-5,000 USD mould
 - **Where:** not recorded
 - **Contact:** Lacy Luo, Alibaba chat
-- **Next step:** wait for Lacy: Greg asked (2026-11-07) whether there is a version with shallower wells than about 5 mm; then ask price and MOQ for YR3091 and whether a 3x3 layout exists
+- **Next step:** Greg to ask YR3091 price at 2,000, magnet and sample cost. Draft: [[raw/suppliers/sambound-packaging/drafts/2026-11-09 reply|drafts/2026-11-09 reply]]
 
 ## What they can provide
 
@@ -34,6 +34,7 @@ Sambound New Material Technology Packaging Limited, Alibaba store `cosmeticpacka
 - 2026-11-04: a custom grid with 22.5 mm wells means paying for a new mould, **about 4,000-5,000 USD**; Lacy advises against it.
 - 2026-11-05: **YR3091D**: 8 round wells (4x2), 140 x 85 x 11.8 mm, filling 2.3 ml, inner well diameter **27 mm**, mirror (`2026-11-07 YR3091D 8 round wells 140x85x11.8 mm.png`).
 - 2026-11-05/06: **YR3091** also comes with a square-well tray: 8 wells in 4x2, **22.5 ±0.2 mm at the top, 22.3 ±0.2 mm at the bottom**, about 4.9 mm overall depth on the drawing; case 140 x 85 mm; no brush slot (Lacy, 2026-11-06). QC spec on the drawing: opening force 0.2-1.2 kgf, mirror removal ≥3 kgf, tray-base separation ≥4 kgf (`2026-11-07 YR3091 drawing 8 square wells 22.5 mm.png`). Full drawing: YR3091F PDF, not downloaded.
+- 2026-11-09: no version with shallower wells ("sorry, no others").
 
 ## Decisions
 
@@ -66,6 +67,9 @@ Original: [[raw/suppliers/sambound-packaging/2026-11-03 alibaba chat|2026-11-03 
 ### 2026-11-03 to 2026-11-07 us and them, Alibaba
 Greg asked for bigger or round wells. Lacy offered YR3033G (bigger round pan, wrong layout) and asked if a single tray or a 4x2 is fine; Greg said 4x2 works. She sent YR3130C (2x2, 25 mm wells) for a 25x25 pan. A custom 22.5 mm grid would need a 4,000-5,000 USD mould. Greg explained the producer's 22x22 pan can grow to 22.3 ±0.2 mm when pressed. Lacy then sent YR3091D (8 round wells, Ø27) and the YR3091 square-well tray (22.5 mm wells), which she says fits 22x22. Greg said it looks like the best option and asked for details; she sent the YR3091F drawing (PDF). On 2026-11-07 Greg asked if there is something with shallower wells than about 5 mm.
 Original: [[raw/suppliers/sambound-packaging/2026-11-07 alibaba chat|2026-11-07 alibaba chat]]
+### 2026-11-09 them, Alibaba
+Lacy: no other (shallower) version.
+Original: [[raw/suppliers/sambound-packaging/2026-11-09 alibaba chat|2026-11-09 alibaba chat]]
 
 ## Files
 
@@ -82,6 +86,8 @@ Everything saved for this page under `raw/suppliers/sambound-packaging/`.
 - [[raw/suppliers/sambound-packaging/2026-11-07 section drawing 4 wells 25 mm.png|2026-11-07 section drawing 4 wells 25 mm.png]]
 - [[raw/suppliers/sambound-packaging/2026-11-07 YR3091D 8 round wells 140x85x11.8 mm.png|2026-11-07 YR3091D 8 round wells 140x85x11.8 mm.png]]
 - [[raw/suppliers/sambound-packaging/2026-11-07 YR3091 drawing 8 square wells 22.5 mm.png|2026-11-07 YR3091 drawing 8 square wells 22.5 mm.png]]
+- [[raw/suppliers/sambound-packaging/2026-11-09 alibaba chat|2026-11-09 alibaba chat]]
+- [[raw/suppliers/sambound-packaging/drafts/2026-11-09 reply|drafts/2026-11-09 reply]]
 
 ## Appears in
 

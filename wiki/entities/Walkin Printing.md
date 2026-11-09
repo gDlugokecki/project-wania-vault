@@ -3,7 +3,7 @@ title: Walkin Printing
 type: entity
 kind: company
 created: 2026-10-25
-updated: 2026-11-07
+updated: 2026-11-09
 tags: [company, supplier]
 ---
 
@@ -16,7 +16,7 @@ Zhuhai Walkin Printing Co., Ltd., China. Not on Greg's list: they wrote on 2026-
 - **Status:** quoting again: Greg asked on 2026-11-04 for a 9 or 12-pan palette; they say everything is custom, MOQ 500; Greg chose 9 pans, 22.5 x 22.5 mm, pan about 3 mm high (2026-11-06/07). Still paper only as far as we know
 - **Where:** Zhuhai, China
 - **Contact:** Jimmy Su, Alibaba chat
-- **Next step:** wait for Jimmy's quote; check it is not paperboard (they confirmed paper only on 2026-10-27) and whether the price includes metal pans
+- **Next step:** wait for Jimmy's quote (he answered "ok" to the 3 mm height on 2026-11-07); check it is not paperboard.
 
 ## What they can provide
 
@@ -63,6 +63,9 @@ Original: [[raw/suppliers/walkin-printing/2026-11-03 alibaba chat|2026-11-03 ali
 ### 2026-11-04 to 2026-11-07 us and them, Alibaba
 Greg asked if they have anything in stock for 9 or 12 shades and the pan sizes. Jimmy: nothing in stock, all custom, MOQ 500; for metal pans they need diameter and height; listed five versions by pan size. Greg: first order 2,000, 9 pans, 22x22 but a little bigger, 22.5 x 22.5 mm; on 2026-11-07 he gave the pan height, about 3 mm.
 Original: [[raw/suppliers/walkin-printing/2026-11-07 alibaba chat|2026-11-07 alibaba chat]]
+### 2026-11-07 them, Alibaba
+Jimmy: "ok" to the pan height.
+Original: [[raw/suppliers/walkin-printing/2026-11-09 alibaba chat|2026-11-09 alibaba chat]]
 
 ## Files
 
@@ -88,6 +91,7 @@ Everything saved for this page under `raw/suppliers/walkin-printing/`.
 - [[raw/suppliers/walkin-printing/2026-11-03 alibaba chat|2026-11-03 alibaba chat]]
 - [[raw/suppliers/walkin-printing/2026-11-07 alibaba chat|2026-11-07 alibaba chat]]
 - [[raw/suppliers/walkin-printing/2026-11-07 metal pan example 26x3.5 mm.png|2026-11-07 metal pan example 26x3.5 mm.png]]
+- [[raw/suppliers/walkin-printing/2026-11-09 alibaba chat|2026-11-09 alibaba chat]]
 
 ## Appears in
 

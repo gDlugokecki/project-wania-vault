@@ -3,7 +3,7 @@ title: Case supplier
 type: entity
 kind: company
 created: 2026-10-11
-updated: 2026-11-07
+updated: 2026-11-09
 tags: [company]
 ---
 
@@ -40,7 +40,7 @@ Statuses: inquiry sent → replied → quote received → samples ordered → sa
 | 8 | [[Picca International]] | Taichung, Taiwan | [picca.com.tw](https://www.picca.com.tw/) · picca@ms16.hinet.net · +886 4 2389 7607 | replied: stock cases don't fit; custom MOQ around 5,000 (recommended by Irmina) | 2026-10-29 we asked for a custom quote | wait for reply |
 | 9 | TimeSource Enterprise | Taiwan | [timesourcetw.com](https://www.timesourcetw.com/) (calls itself an empty case packaging supplier) · contact form · +886 2 2546 8289 | inquiry sent (recommended by Irmina) | 2026-10-22 inquiry sent | wait for reply |
 | 10 | [[Colorich]] | Zhongshan, China | [colorichpkg.com](https://www.colorichpkg.com/) · admin@colorichpkg.com · MOQ 500; mostly paper palettes, so ask for plastic | replied: paper palettes only (recommended by Irmina) | 2026-10-29 email | none while we want plastic |
-| 11 | [[Sambound Packaging]] (cosmeticpackagingvn) | Alibaba (location not recorded) | [store](https://cosmeticpackagingvn.m.trustpass.alibaba.com/) · product Greg looked at: id 1601277046631 | best lead: YR3091 4x2 (8 wells) with 22.5 mm square wells, fits 22x22 per Lacy; no price yet. YR3121A 3x3 wells 21.9 mm too small; custom grid mould 4-5k USD | 2026-11-07 Greg asked for shallower wells | wait; then ask YR3091 price/MOQ at 2,000 |
+| 11 | [[Sambound Packaging]] (cosmeticpackagingvn) | Alibaba (location not recorded) | [store](https://cosmeticpackagingvn.m.trustpass.alibaba.com/) · product Greg looked at: id 1601277046631 | best lead: YR3091 4x2 (8 wells) with 22.5 mm square wells, fits 22x22 per Lacy; no price yet. YR3121A 3x3 wells 21.9 mm too small; custom grid mould 4-5k USD | 2026-11-09 no shallower version | Greg to ask YR3091 price at 2,000 (draft ready) |
 | 12 | [[Chengfeng Trading]] (Shantou Chengfeng Trading Co., Ltd.) | Shantou, China (Alibaba) | Alibaba chat, contact Ivy Lin | custom MOQ 12,000/model; offers stock-based start with lower MOQ; preparing stock models with well sizes | 2026-10-30 | wait for stock models + well dimensions |
 | 13 | Visonpack (visonpack) | Alibaba (location not recorded) | [store](https://visonpack.m.en.alibaba.com/) · product Greg looked at: id 1600940948080 | probably the same company as row 12: Ivy Lin (Chengfeng chat) introduced herself as "Ivy from Visonpack" (2026-10-30, not confirmed) | - | see [[Chengfeng Trading]] |
 | 14 | [[Beyaqi Cosmetics]] (beiyaqi) | Hangzhou, China (Alibaba) | [store](https://beiyaqi.m.en.alibaba.com/) · product Greg looked at: id 1600427300728 · Alibaba chat, contact Franzi Weng | MOQ usually 12,000; asked for drawings, got reference pictures | 2026-10-31 | wait |
@@ -75,12 +75,18 @@ Rows 1-6 updated 2026-10-23, 2026-10-25 and 2026-10-29 from the Alibaba chats (r
 | [[Welkin Queen Packaging]] | 12,000 (9-well); "120000" (12-well, probably a typo) | not yet | stock | not yet | not yet | snap-fit, not magnetic |
 | [[Boolong Packaging]] | 10,000 (lowered from 12,000) | not yet | stock PC7037 | not yet | not yet | snap-on, not magnetic; square wells ~24 mm grid |
 | [[Walkin Printing]] | 500 (2026-11-05) | not yet (quoting 9-pan, 22.5 mm pans, 2026-11-07) | custom | plain sample 3-5 days | bulk 15-20 working days + 35-45 days DDP | paper only (confirmed 2026-10-27) |
+| [[Transmo Plastic]] | not yet | not yet | stock FSP1011A (9 x 24 mm wells, mirror) | not yet | not yet | ABS; same size as Zhongcai's 24 mm palette |
+| [[Zhongcai Plastic]] | not yet | not yet | stock (9 x 24 mm and 12 x 27 mm wells) | not yet | not yet | asked if EVA is ok |
+| [[First Sail Packaging]] | not yet | after details | none (paper, die-cut) | 150 USD, 180 with foil logo, incl. shipping | sample 7 days, production 20 days | paper only |
+| [[Fenshang Plastic]] | 10,000 (nothing under 5,000) | not yet | stock | not yet | not yet | out |
 | [[Kaijin Packaging]] | not yet | not yet | stock moulds | plain sample 1-2 days, with logo 7-10 days | not yet | 3D logo, screen print, heat transfer |
 | [[Yuan Tian Cheng Plastic]] | not yet | not yet | not yet | stock sample free (we pay courier); custom sample USD 250 | not yet | |
 
 ### Contacted 2026-11-04 (from the Alibaba search)
 
-19 more plastic eyeshadow case makers found on Alibaba. Inquiry sent to all 19 on 2026-11-04 through Alibaba's Contact Supplier form, then pasted into the chat with 17 of them on 2026-11-07. Seven answered within minutes, all with automatic-looking "a specialist will take over" replies (2026-11-07): [[First Sail Packaging]] and [[Youbo Plastic]] (both asked questions Greg should answer, drafts ready), [[Kaijin Packaging]] (stock moulds, fast samples), [[Yuan Tian Cheng Plastic]] (free stock samples, custom sample USD 250), [[Zhongcai Plastic]], [[Leeyoo Plastic]], [[Fenshang Plastic]]. Yiyue only greeted; L-Zhuang has no stock palette; the others have not answered. Best leads on MOQ: Shantou Yiyue (MOQ 500 shown), Yiwu L-Zhuang (MOQ 100 shown), Shantou Rongsheng (MOQ 5,000). Full list: [[2026-11-04 Alibaba supplier search]].
+19 more plastic eyeshadow case makers found on Alibaba. Inquiry sent to all 19 on 2026-11-04 through Alibaba's Contact Supplier form, then pasted into the chat with 17 of them on 2026-11-07. Seven answered within minutes, all with automatic-looking "a specialist will take over" replies (2026-11-07): [[First Sail Packaging]] and [[Youbo Plastic]] (both asked questions Greg should answer, drafts ready), [[Kaijin Packaging]] (stock moulds, fast samples), [[Yuan Tian Cheng Plastic]] (free stock samples, custom sample USD 250), [[Zhongcai Plastic]], [[Leeyoo Plastic]], [[Fenshang Plastic]]. Yiyue only greeted; L-Zhuang has no stock palette; the others have not answered.
+
+Update 2026-11-09: real people have now taken over most chats. Best fits so far are 9-well palettes with **24 x 24 mm** wells and a glass mirror, 90.3 mm square: [[Transmo Plastic]] FSP1011A and an identical-looking one from [[Zhongcai Plastic]] (probably the same public mould); both need checking for depth, magnet and price. [[First Sail Packaging]] is paper only (no mould cost, sample 150-180 USD). [[Fenshang Plastic]] is out (MOQ 10,000). [[Yuan Tian Cheng Plastic]]'s models have wells that are too small. New pages: [[Transmo Plastic]], [[Jinze Plastics]], [[Dingbei Packaging]], [[Yuancheng Technology]] (quote promised for 2026-11-09), [[Zhongju Plastic]], [[Rongsheng Plastic]], [[Bmei Plastic]]. Ten reply drafts are in each supplier's `drafts/2026-11-09 reply.md`. Best leads on MOQ: Shantou Yiyue (MOQ 500 shown), Yiwu L-Zhuang (MOQ 100 shown), Shantou Rongsheng (MOQ 5,000). Full list: [[2026-11-04 Alibaba supplier search]].
 
 ### Also answered (not on Greg's list)
 

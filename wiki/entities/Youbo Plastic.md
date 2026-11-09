@@ -3,7 +3,7 @@ title: Youbo Plastic
 type: entity
 kind: company
 created: 2026-11-07
-updated: 2026-11-07
+updated: 2026-11-09
 tags: [company, supplier]
 ---
 
@@ -13,14 +13,13 @@ Youbo Plastic Products (Guangzhou) Co., Ltd., Alibaba store [gzyobo](https://gzy
 
 ## Snapshot
 
-- **Status:** replied: a senior specialist will take over; asks for delivery address and how 1,000-2,000 splits between 9 and 12 pans
+- **Status:** Greg answered: 2,000 pcs of one container, delivery address given in the chat (kept out of the vault); waiting for models
 - **Where:** Guangzhou, China (Alibaba)
 - **Contact:** Avon Wang, Alibaba chat
-- **Next step:** Greg to answer: one layout or split, and whether to give a delivery postcode now (the address stays out of the vault). Draft: [[raw/suppliers/youbo-plastic/drafts/2026-11-07 reply|2026-11-07 reply]]
+- **Next step:** wait for Avon's proposal.
 
 ## What they can provide
 
-Nothing concrete yet.
 
 ## Decisions
 
@@ -35,10 +34,14 @@ None yet.
 ### 2026-11-07 us and them, Alibaba
 Greg (through Claude) pasted the standard inquiry into the chat. Avon passed the brief to a senior specialist and asked for the full delivery address with postcode, and whether 1,000-2,000 pcs is one layout or split between 9 and 12 pans. The reply came within a minute and reads like an automatic (AI-written) answer, like the other instant replies on 2026-11-07; no person has followed up yet.
 Original: [[raw/suppliers/youbo-plastic/2026-11-07 alibaba chat|2026-11-07 alibaba chat]]
+### 2026-11-08 us and them, Alibaba
+Avon said he would check. Greg sent his delivery address and said 2,000 pcs of one container, and asked for compatible containers.
+Original: [[raw/suppliers/youbo-plastic/2026-11-09 alibaba chat|2026-11-09 alibaba chat]]
 
 ## Files
 
 - [[raw/suppliers/youbo-plastic/2026-11-07 alibaba chat|2026-11-07 alibaba chat]]
+- [[raw/suppliers/youbo-plastic/2026-11-09 alibaba chat|2026-11-09 alibaba chat]]
 
 ## Appears in
 
