@@ -3,7 +3,7 @@ title: Case supplier
 type: entity
 kind: company
 created: 2026-10-11
-updated: 2026-11-09
+updated: 2026-11-19
 tags: [company]
 ---
 
@@ -50,6 +50,7 @@ Statuses: inquiry sent → replied → quote received → samples ordered → sa
 | 18 | [[Chunbai Plastic]] (chunbaipacking) | Shijiazhuang, China (Alibaba) | [store](https://chunbaipacking.m.en.alibaba.com/) · product Greg looked at: id 1601885854837 | no offer; five contacts, bottle maker; two more instant "specialist" replies | 2026-11-04 | probably drop |
 | 19 | [[Mingli Plastic]] (mingliplastic) | Guangzhou, China (Alibaba) | [store](https://mingliplastic.m.en.alibaba.com/) · product Greg looked at: id 1601824093625 | 9 listings (MOQ 5-10k, 0.48-8 PLN); promised well size "tomorrow" on 11-03, not sent | 2026-11-03 | remind lin jason |
 | 20 | [[Welkin Queen Packaging]] (cnzjtianyun) | Zhejiang, China (Alibaba) | [store](https://cnzjtianyun.m.en.alibaba.com/) · product Greg looked at: id 1601277973106 | no fit: Greg found no pans for their wells | 2026-11-03 | none |
+| 21 | Metform | Poland (address not checked) | [metform.eu packaging page](http://metform.eu/opakowania-kosmetyczne/) | found by Greg 2026-11-19; email drafted in Polish, not sent ([[raw/suppliers/metform/drafts/2026-11-19 inquiry email|draft]]); what they make not checked (site blocked for Claude) | - | Greg to add their email address and send |
 
 Rows 1-6 updated 2026-10-23, 2026-10-25 and 2026-10-29 from the Alibaba chats (read through Claude in Chrome); each supplier now has its own page. Rows 11-12 added 2026-10-29: Greg contacted them that day. Row 13 added the same day from a link Greg sent. Rows 14-17: Alibaba chats that appeared in Greg's inbox on the evening of 2026-10-29. Rows 18-20 and the links for 14, 15 and 17: from Greg, 2026-10-29 (Greg contacted them that day). Shijiazhuang Qinna: no chat found, not confirmed as contacted (2026-10-29). Rows 8-10 added on 2026-10-22, recommended by Irmina (who she is: not recorded yet). Greg's list had hkyihong twice (a product group and the store page); merged into one row.
 
